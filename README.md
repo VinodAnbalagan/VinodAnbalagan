@@ -8,17 +8,19 @@ Explore the repositories and join me in solving exciting challenges and building
 
 ## 📂 Repositories Overview
 
-### 1. [Data_Analytics](https://github.com/VinodAnbalagan/Data_Analytics)
-Data exploration, visualization, and statistical analysis projects using Python libraries like Pandas and Plotly.
-
-### 2. [Intro_Machine_Learning](https://github.com/VinodAnbalagan/Intro_Machine_Learning)
-Foundational notebooks that delve into the core concepts and algorithms of machine learning.
-
-### 3. [ML_Projects](https://github.com/VinodAnbalagan/ML_Projects)
+### 1. [ML_Projects](https://github.com/VinodAnbalagan/ML_Projects)
 End-to-end machine learning projects focused on applying various algorithms to real-world datasets.
 
-### 4. [Python_Projects](https://github.com/VinodAnbalagan/Python_Projects)
+### 2. [Data_Analytics](https://github.com/VinodAnbalagan/Data_Analytics)
+Data exploration, visualization, and statistical analysis projects using Python libraries like Pandas and Plotly.
+
+### 3. [Python_Projects](https://github.com/VinodAnbalagan/Python_Projects)
 Creative and fun Python-based projects to practice coding and build utility tools.
+
+### 4. [Intro_Machine_Learning](https://github.com/VinodAnbalagan/Intro_Machine_Learning)
+Foundational notebooks that delve into the core concepts and algorithms of machine learning.
+
+
 
 ---
 
