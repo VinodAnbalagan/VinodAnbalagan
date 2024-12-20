@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio
 
-Hi there! 👋 I'm [Your Name], an aspiring IT professional with a strong foundation in programming, data analytics, and machine learning. My journey into technology is built on continuous learning, experimentation, and creating projects that solve practical problems.  
+Hi there! 👋 I'm Vinod, an aspiring IT professional with a strong foundation in programming, data analytics, and machine learning. My journey into technology is built on continuous learning, experimentation, and creating projects that solve practical problems.  
 
 This portfolio reflects my commitment to developing expertise in:  
 
