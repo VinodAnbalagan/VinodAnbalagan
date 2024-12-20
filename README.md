@@ -9,8 +9,8 @@ This portfolio reflects my commitment to developing expertise in:
 - 🧠 **Machine Learning**: Foundational concepts and experiments in model building and deployment.   
 
 ## 💼 Career Focus  
-I am actively pursuing opportunities in IT, Cybersecurity, and Data Analytics to build a strong technical foundation, with a long-term goal of advancing into Machine Learning and Data Science roles.  
----
+I am actively pursuing opportunities in IT, Cybersecurity, and Data Analytics to build a strong technical foundation, with a long-term goal of advancing into Machine Learning and Data Science roles.
+
 ## 🔍 Explore My Work  
 
 ### 1. [ML_Projects](https://github.com/VinodAnbalagan/ML_Projects)
@@ -24,8 +24,6 @@ Creative and fun Python-based projects to practice coding and build utility tool
 
 ### 4. [Intro_Machine_Learning](https://github.com/VinodAnbalagan/Intro_Machine_Learning)
 Foundational notebooks that delve into the core concepts and algorithms of machine learning.
-
-
 
 ---
 
