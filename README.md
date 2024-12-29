@@ -6,7 +6,8 @@ This portfolio reflects my commitment to developing expertise in:
 
 - 💻 **IT & Cybersecurity**: Foundational and hands-on projects that explore system administration, network security, and secure coding practices.  
 - 📊 **Data Analysis**: Extracting actionable insights from data through Python, SQL, and visualization techniques.  
-- 🧠 **Machine Learning**: Foundational concepts and experiments in model building and deployment.   
+- 🧠 **Machine Learning**: Foundational concepts and experiments in model building and deployment.
+- 🔧 **Software Development**: Practical applications of Java, SQL, and full-stack development.     
 
 ## 💼 Career Focus  
 I am actively pursuing opportunities in IT, Cybersecurity, and Data Analytics to build a strong technical foundation, with a long-term goal of advancing into Machine Learning and Data Science roles.
@@ -25,13 +26,25 @@ Creative and fun Python-based projects to practice coding and build utility tool
 ### 4. [Intro_Machine_Learning](https://github.com/VinodAnbalagan/Intro_Machine_Learning)
 Foundational notebooks that delve into the core concepts and algorithms of machine learning.
 
+### 5. [Software_Development](https://github.com/VinodAnbalagan/Software_Development)
+A collection of Java, SQL, and full-stack projects from my **Amazon Junior Software Developer** certification and self-learning.
+
+### 6. Future Repositories:
+- **Rust_Projects**: Hands-on experiments and projects using the Rust programming language.
+- **Go_Projects**: Practical Go language applications to explore its concurrency and simplicity.
+- **C++_Projects**: Algorithms and system-level programming projects in C++.
+- **C#_Projects**: Windows application development.
+- **Data_Engineering**: Focused on data pipelines, ETL processes, and large-scale data handling.
+
+
 ---
 
 ## 🛠 Technologies & Tools
-- Python, NumPy, Pandas, Matplotlib, Plotly, Scikit-Learn
-- Google Colabs 
-- Machine Learning and DL Algorithms and Frameworks 
-- Data Visualization Techniques
+- **Programming**: Python, Java, SQL, Rust, Go, C++, C#
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Data Analysis**: Pandas, Matplotlib, Plotly
+- **Development Tools**: Git, Docker, VS Code, IntelliJ IDEA
+- **Databases**: MySQL, PostgreSQL
 
 ---
 ## 🌟 About Me  
