@@ -26,7 +26,7 @@ Creative and fun Python-based projects to practice coding and build utility tool
 ### 4. [Intro_Machine_Learning](https://github.com/VinodAnbalagan/Intro_Machine_Learning)
 Foundational notebooks that delve into the core concepts and algorithms of machine learning.
 
-### 5. [Software_Development](https://github.com/VinodAnbalagan/Software_Development)
+### 5. [Software_Development](https://github.com/VinodAnbalagan/Software-Development-)
 A collection of Java, SQL, and full-stack projects from my **Amazon Junior Software Developer** certification and self-learning.
 
 ### 6. Future Repositories:
