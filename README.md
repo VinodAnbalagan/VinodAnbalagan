@@ -44,7 +44,7 @@ A collection of Java, SQL, and full-stack projects from certifications and self-
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ---
-### Certifications: Certifications from online courses and bootcamps. 
+#### [Certifications](https://github.com/VinodAnbalagan/Certifications-.git): Certifications from online courses and bootcamps. 
 ---
 
 ## 🤝 Get in Touch
