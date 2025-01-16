@@ -1,8 +1,8 @@
 # Welcome to My GitHub Portfolio
 
-I'm an aspiring IT professional passionate about transforming complex data into actionable insights. With a strong foundation in programming and data analytics, I'm on a journey to build innovative solutions that make a difference.
+I'm an aspiring ML Engineer passionate about transforming complex data into actionable insights. With a strong foundation in programming and data analytics, I'm on a journey to build innovative solutions that make a difference.
 
-I'm actively pursuing opportunities in Web-Development, Cybersecurity, and Data Analytics, with a strategic focus on building expertise in Machine Learning and Data Science. My approach combines theoretical knowledge with practical implementation through hands-on projects.
+I'm actively pursuing opportunities in Software-Development, Cybersecurity, and Data Analytics, with a strategic focus on building expertise in Machine Learning and Data Science. My approach combines theoretical knowledge with practical implementation through hands-on projects.
   
 - 📊 **Data Analysis**: Extracting actionable insights from data through Python, SQL, and visualization techniques.  
 - 🧠 **Machine Learning**: Foundational concepts and experiments in model building and deployment.
