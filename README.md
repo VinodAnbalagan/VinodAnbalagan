@@ -6,7 +6,7 @@ I'm actively pursuing opportunities in Software-Development, Cybersecurity, and 
   
 - 📊 **Data Analysis**: Extracting actionable insights from data through Python, SQL, and visualization techniques.  
 - 🧠 **Machine Learning**: Foundational concepts and experiments in model building and deployment.
-- 🔧 **Software Development**: Practical applications of Java, SQL, and full-stack development.
+- 🔧 **Software Development**: Practical applications of Java, Python, SQL etc. 
 - 💻 **Web Development**: Hands-on projects in developing Full-Stack Web development.    
 
 ## 🔍 Explore My Work  
@@ -27,19 +27,19 @@ Foundational notebooks that delve into the core concepts and algorithms of machi
 A collection of Java, SQL, and full-stack projects from certifications and self-learning.
 
 ### 6. Future Repositories:
-- **Web Development**: Full stack Web development.
+- **C++, C#_Projects**: Algorithms and system-level programming projects in C++ and C#.
 - **Rust_Projects**: Hands-on experiments and projects using the Rust programming language.
 - **Go_Projects**: Practical Go language applications to explore its concurrency and simplicity.
-- **C++_Projects**: Algorithms and system-level programming projects in C++.
+- **Web Development**: Full stack Web development.
  
 ---
 
 ## 🛠 Technologies & Tools
-- **Programming**: Python, SQL, Type Script, Java Script, Java, Ruby, Rust, Go, C++.
+- **Programming**: Python, SQL, Java, C++, C#, Ruby, Rust, Go, Type Script. 
 - **Jave Script Libraries**: React, Node
-- **Frameworks**: Ruby on Rails 
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
-- **Data Analysis Tools**: Pandas, Matplotlib, Plotly
+- **Frameworks**: Ruby on Rails, Django, React
+- **Machine Learning**: Scikit-Learn, TensorFlow, Pytorch, Keras
+- **Data Analysis Tools**: Pandas, Numpy, Matplotlib, Plotly
 - **Development Tools and Environments**: Git, VS Code, IntelliJ IDEA
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
