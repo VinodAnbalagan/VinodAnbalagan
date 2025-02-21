@@ -6,9 +6,9 @@ While my experience is self-directed, I’ve developed, and refined solutions th
 
 I’m eager to contribute my growing expertise to meaningful projects and learn from experienced teams, while continuing to explore new tools and methodologies that push the boundaries of technology.
   
-- 📊 **Data Analysis**: Extracting actionable insights from data through Python, SQL, and visualization techniques.  
-- 🧠 **Machine Learning**: Foundational concepts and experiments in model building and deployment.
-- 💻 **Software Development**: Practical applications of Java, Python, SQL etc. 
+- 📊 **Data Analysis**: Extracting actionable insights from data through Python, SQL, PowerBI and Tableau.  
+- 🧠 **Machine Learning**: Experiments in model building and deployment.
+- 💻 **Software Development**: Practical applications of Python, SQL, Rust, Java, etc. 
 - ⚙️ **Data Engineering**: Hands-on projects in data engineering.    
 
 ## 🔍 Explore My Work  
@@ -34,7 +34,7 @@ A collection of Java, SQL, and full-stack projects from certifications and self-
 ---
 
 ## 🛠 Technologies & Tools
-- **Programming**: Python, SQL, Java,Rust, Scala
+- **Programming**: Python, SQL, Java,Rust, Go
 - **Machine Learning**: Scikit-Learn, TensorFlow, Pytorch, Keras
 - **Data Analysis Tools**: Pandas, Numpy, Matplotlib, Plotly
 - **Development Tools and Environments**: Git, VS Code, IntelliJ IDEA
