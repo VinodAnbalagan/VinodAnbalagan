@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio
 
-I’m a technology enthusiast passionate about solving real-world challenges through innovative software solutions. My journey into data analytics, Machine Learning, and Data Engineering has been driven by curiosity and a commitment to continuous learning. Through hands-on projects and self-guided exploration, I’ve built a strong foundation in creating efficient systems and translating complex technical concepts into practical applications.
+I'm a technology enthusiast passionate about solving real-world challenges through innovative software solutions. My journey into data analytics, Machine Learning, and AI has been driven by curiosity and a commitment to continuous learning. Through hands-on projects and self-guided exploration from Stanford University's ML/AI courses and the University of Toronto Data Science and ML Certification, I've built a strong foundation in creating efficient systems and translating complex technical concepts into practical applications.
 
 While my experience is self-directed, I’ve developed, and refined solutions that enhance workflows and streamline processes. Whether it’s designing scalable applications, analyzing data for actionable insights, or experimenting with cloud technologies, I thrive on bringing ideas to life in collaborative and dynamic environments.
 
