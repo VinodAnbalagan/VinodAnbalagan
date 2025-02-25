@@ -11,6 +11,11 @@ I’m eager to contribute my growing expertise to meaningful projects and learn 
 - 💻 **Software Development**: Practical applications of Python, SQL, Rust, Java, etc. 
 - ⚙️ **Data Engineering**: Hands-on projects in data engineering.    
 
+---
+
+#### [Certifications](https://github.com/VinodAnbalagan/Certifications-.git): Certifications from online courses and bootcamps
+
+---
 ## 🔍 Explore My Work  
 
 ### 1. [ML_Projects](https://github.com/VinodAnbalagan/ML_Projects)
@@ -39,9 +44,7 @@ A collection of Java, SQL, and full-stack projects from certifications and self-
 - **Data Analysis Tools**: Pandas, Numpy, Matplotlib, Plotly
 - **Development Tools and Environments**: Git, VS Code, IntelliJ IDEA
 - **Databases**: MySQL, PostgreSQL, MongoDB
-
----
-#### [Certifications](https://github.com/VinodAnbalagan/Certifications-.git): Certifications from online courses and bootcamps. 
+ 
 ---
 
 ## 🤝 Get in Touch
