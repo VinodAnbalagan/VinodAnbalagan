@@ -38,7 +38,23 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ---
-## [Certifications](https://github.com/VinodAnbalagan/Certifications-.git)
+### **📜 Certifications & Coursework**  
+I am committed to continuous learning and have completed various [**certifications**](https://github.com/VinodAnbalagan/Certifications-.git) and university courses to deepen my expertise in **Machine Learning, Artificial Intelligence, and Data Science**. 
+
+### **Highlighted Certifications:**  
+- **Stanford University** – Machine Learning Specialization and Statistics 
+- **University of Toronto** – Data Science & Machine Learning Certification  
+- **University of Pennsylvania** – AI, ML Essentials & Statistics Certification  
+- **IBM** – AI Developer Certification  
+- **Ludwig Maximilian University of Munich (LMU)** – Competitive Strategy & Organization Design  
+- **Microsoft** – AI/ML Foundations & Algorithms  
+- **NVIDIA** – AI Operations & Infrastructure Fundamentals  
+- **Wolfram Research** – Machine Learning Statistical Foundations Professional Certificate  
+- **Google** – Advanced Data Analytics Professional Certificate  
+- **Canonical** – Linux Professional Certification  
+- **OpenEDG Python Institute** – Programming with Python Professional Certificate  
+- **AWS** – Cloud Technical Essentials 
+
 ---
 
 ## 🤝 Let’s Connect!  
