@@ -11,17 +11,17 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 ## 🔍 Explore My Work  
 
 ### 📊 Data Science & AI Projects  
-- **ML_Projects** – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
-- **Deep_Learning_Experiments** – Implementations of **CNNs, RNNs, transformers, and generative AI models** using PyTorch & TensorFlow.  
-- **Data_Analytics** – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
-- **Reinforcement_Learning** – Experimenting with **Q-learning, policy gradient methods, and simulation-based learning**.  
+- [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
+- [**Data_Analytics**](https://github.com/VinodAnbalagan/Data_Analytics.git) – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
+  
 
 ### 💻 Software Development & Engineering  
-- **Python_Projects** – Fun, practical coding projects to enhance **Python skills**.  
-- **Data_Engineering** – Hands-on projects involving **ETL workflows, pipeline optimization, and big data tools**.  
-- **Software_Development** – Full-stack applications using **Java, Rust, SQL, and cloud technologies**.  
+- [**Python_Projects**](https://github.com/VinodAnbalagan/Python_Projects.git) – Fun, practical coding projects to enhance **Python skills**.    
+- [**Software_Development**](https://github.com/VinodAnbalagan/Software-Development-.git) – Full-stack applications using **Java, Rust, SQL, and cloud technologies**.  
 
-### 🚀 Future Repositories & Research  
+### 🚀 Future Repositories & Research 
+- **Deep_Learning_Experiments** – Implementations of **CNNs, RNNs, transformers, and generative AI models** using PyTorch & TensorFlow.
+- **Reinforcement_Learning** – Experimenting with **Q-learning, policy gradient methods, and simulation-based learning**.
 - **Generative AI** – Style Transfer, GANs, and multimodal learning experiments.  
 - **Rust_Projects** – Exploring **Rust for high-performance computing in AI/ML workflows**.  
 - **M2M_Tech_Capstone** – Showcasing AI-driven projects developed during my **internship**.  
