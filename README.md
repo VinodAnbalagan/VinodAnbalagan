@@ -38,6 +38,8 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ---
+## [Certifications](https://github.com/VinodAnbalagan/Certifications-.git)
+---
 
 ## 🤝 Let’s Connect!  
 I’m open to collaborations, research discussions, and opportunities to contribute to **AI & ML projects**.  
