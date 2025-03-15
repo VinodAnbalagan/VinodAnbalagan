@@ -24,7 +24,7 @@ This work aligns with the latest research by Meta, DARPA, and AI Ethics communit
 📌 Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
 
 ### 📊 Data Science & AI Projects
-- **M2M Tech - Data Science and Machine Learning Internship**
+- [**M2M Tech - Data Science and Machine Learning Internship**](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
   
  ✅ Capstone 1: Data Analysis & Baseline Models
 	•	Perform EDA on deepfake datasets, AV perception edge cases, and AI art datasets.
@@ -37,9 +37,6 @@ This work aligns with the latest research by Meta, DARPA, and AI Ethics communit
 ✅ Capstone 3: Adversarial Training & Explainability
 	•	Implement GAN-based adversarial training for deepfake detection.
 	•	Develop an explainability tool for AI-generated content (Grad-CAM, CLIP-based analysis).
-
-📌 Final Deliverable:
-	•	[Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
  
 - [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
 - [**Data_Analytics**](https://github.com/VinodAnbalagan/Data_Analytics.git) – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
