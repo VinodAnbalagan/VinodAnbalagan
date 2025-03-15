@@ -23,7 +23,23 @@ This work aligns with the latest research by Meta, DARPA, and AI Ethics communit
 
 📌 Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
 
-### 📊 Data Science & AI Projects  
+### 📊 Data Science & AI Projects
+- **M2M Tech - Data Science and Machine Learning Internship**
+ ✅ Capstone 1: Data Analysis & Baseline Models
+	•	Perform EDA on deepfake datasets, AV perception edge cases, and AI art datasets.
+	•	Train baseline classifiers for deepfake detection & art style classification.
+
+✅ Capstone 2: Machine Learning & GAN-Based Augmentation
+	•	Use GANs to generate new deepfake samples & AV perception data for training.
+	•	Train CNN & Vision Transformer models for classification & detection.
+
+✅ Capstone 3: Adversarial Training & Explainability
+	•	Implement GAN-based adversarial training for deepfake detection.
+	•	Develop an explainability tool for AI-generated content (Grad-CAM, CLIP-based analysis).
+
+📌 Final Deliverable:
+	•	[Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
+ 
 - [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
 - [**Data_Analytics**](https://github.com/VinodAnbalagan/Data_Analytics.git) – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
   
@@ -36,8 +52,7 @@ This work aligns with the latest research by Meta, DARPA, and AI Ethics communit
 - **Deep_Learning_Experiments** – Implementations of **CNNs, RNNs, transformers, and generative AI models** using PyTorch & TensorFlow.
 - **Reinforcement_Learning** – Experimenting with **Q-learning, policy gradient methods, and simulation-based learning**.
 - **Generative AI** – Style Transfer, GANs, and multimodal learning experiments.  
-- **Rust_Projects** – Exploring **Rust for high-performance computing in AI/ML workflows**.  
-- **M2M_Tech_Capstone** – Showcasing AI-driven projects developed during my **internship**.  
+- **Rust_Projects** – Exploring **Rust for high-performance computing in AI/ML workflows**.    
 
 ---
 
