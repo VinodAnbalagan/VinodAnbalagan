@@ -9,6 +9,17 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 ---
 
 ## 🔍 Explore My Work  
+📌 Featured Research: Robustness & Explainability in AI-Generated & AI-Detected Content
+
+I am actively conducting research on AI-generated and AI-detected content, focusing on:
+
+🔹 Deepfake Detection & Prevention – Developing robust models to detect AI-generated fake videos using CNNs, Transformers & Adversarial Training.
+🔹 Autonomous Vehicle Perception – Using GANs to create synthetic training data, improving AV robustness in challenging scenarios.
+🔹 AI-Generated Art & Style Transfer – Exploring explainability in generative art models to better understand AI creativity.
+
+This work aligns with the latest research by Meta, DARPA, and AI Ethics communities, with a strong focus on security, transparency, and AI robustness. The ultimate goal is to contribute to cutting-edge AI safety research and enhance the interpretability of AI-generated content across multiple domains.
+
+📌 Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
 
 ### 📊 Data Science & AI Projects  
 - [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
