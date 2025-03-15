@@ -9,7 +9,7 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 ---
 
 ## 🔍 Explore My Work  
-📌 **Featured Research: Robustness & Explainability in AI-Generated & AI-Detected Content**
+**Featured Research: Robustness & Explainability in AI-Generated & AI-Detected Content**
 
 I am actively conducting research on AI-generated and AI-detected content, focusing on:
 
@@ -21,7 +21,7 @@ I am actively conducting research on AI-generated and AI-detected content, focus
 
 This work aligns with the latest research by Meta, DARPA, and AI Ethics communities, with a strong focus on security, transparency, and AI robustness. The ultimate goal is to contribute to cutting-edge AI safety research and enhance the interpretability of AI-generated content across multiple domains.
 
-📌 Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
+Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
 
 ### 📊 Data Science & AI Projects
 - [**M2M Tech - Data Science and Machine Learning Internship**](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
