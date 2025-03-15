@@ -9,7 +9,7 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 ---
 
 ## 🔍 Explore My Work  
-📌 ###Featured Research: Robustness & Explainability in AI-Generated & AI-Detected Content
+📌 **Featured Research: Robustness & Explainability in AI-Generated & AI-Detected Content**
 
 I am actively conducting research on AI-generated and AI-detected content, focusing on:
 
@@ -25,6 +25,7 @@ This work aligns with the latest research by Meta, DARPA, and AI Ethics communit
 
 ### 📊 Data Science & AI Projects
 - **M2M Tech - Data Science and Machine Learning Internship**
+  
  ✅ Capstone 1: Data Analysis & Baseline Models
 	•	Perform EDA on deepfake datasets, AV perception edge cases, and AI art datasets.
 	•	Train baseline classifiers for deepfake detection & art style classification.
