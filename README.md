@@ -13,11 +13,11 @@ Beyond technical skills, I thrive in **collaborative environments** where I can 
 
 I am actively conducting research on AI-generated and AI-detected content, focusing on:
 
-	🔹 Deepfake Detection & Prevention – Developing robust models to detect AI-generated fake videos using CNNs, Transformers & Adversarial Training.
+🔹 Deepfake Detection & Prevention – Developing robust models to detect AI-generated fake videos using CNNs, Transformers & Adversarial Training.
 
-	🔹 Autonomous Vehicle Perception – Using GANs to create synthetic training data, improving AV robustness in challenging scenarios.
+🔹 Autonomous Vehicle Perception – Using GANs to create synthetic training data, improving AV robustness in challenging scenarios.
 
-	🔹 AI-Generated Art & Style Transfer – Exploring explainability in generative art models to better understand AI creativity.
+🔹 AI-Generated Art & Style Transfer – Exploring explainability in generative art models to better understand AI creativity.
 
 This work aligns with the latest research by Meta, DARPA, and AI Ethics communities, with a strong focus on security, transparency, and AI robustness. The ultimate goal is to contribute to cutting-edge AI safety research and enhance the interpretability of AI-generated content across multiple domains.
 
