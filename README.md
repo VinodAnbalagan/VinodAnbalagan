@@ -58,11 +58,12 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
 This work aligns with the latest research by Meta, DARPA, and AI Ethics communities, with a strong focus on security, transparency, and AI robustness. The ultimate goal is to contribute to cutting-edge AI safety research and enhance the interpretability of AI-generated content across multiple domains.
 
 Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
- 
+
+--- 
+
 - [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
 - [**Data_Analytics**](https://github.com/VinodAnbalagan/Data_Analytics.git) – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
   
-
 ### 💻 Software Development & Engineering  
 - [**Python_Projects**](https://github.com/VinodAnbalagan/Python_Projects.git) – Fun, practical coding projects to enhance **Python skills**.    
 - [**Software_Development**](https://github.com/VinodAnbalagan/Software-Development-.git) – Full-stack applications using **Java, Rust, SQL, and cloud technologies**.  
