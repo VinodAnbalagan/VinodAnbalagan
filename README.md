@@ -24,34 +24,40 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
 ---
 
 ## 🔍 Explore My Work  
-**Featured Research: Robustness & Explainability in AI-Generated & AI-Detected Content**
 
-I am actively conducting research on AI-generated and AI-detected content, focusing on:
+### 📊 Data Science & AI Projects
+- **M2M Data Science and Machine Learning Internship**
+  
+	 ✅ Capstone 1: Data Analytics (Speech & Language Trends Analysis)
+		•	Dataset Selection & Exploration, AI vs. Human Transcription Accuracy.
+		•	Code-Switching & Multilingual Trends,Data Visualization & Report.
 
-🔹 Deepfake Detection & Prevention – Developing robust models to detect AI-generated fake videos using CNNs, Transformers & Adversarial Training.
+	✅ Capstone 2: Machine Learning (Real-Time Speech-to-Text AI)
+		•	Train **wav2vec2 / Whisper AI model** on multilingual speech datasets.
+		•	Implement **word alignment & timestamp correction** for real-time captions.
+                •       Optimize for **low-latency processing** (fast speech-to-text conversion).
 
-🔹 Autonomous Vehicle Perception – Using GANs to create synthetic training data, improving AV robustness in challenging scenarios.
+	✅ Capstone 3: Deep Learning & Generative AI (Context-Aware Captioning)
+		•	Fine-tune **Whisper GPT or OpenAI LLaMA** for **context-aware multilingual transcription**.
+		•	Implement **code-switching detection & speaker intent recognition**.
+                •       (Future Work) Integrate **lip-reading AI** for noisy environments.
+  **Deliverable:** A **real-time multilingual transcription system** that accurately detects **code-switching, context, and speaker intent**.
 
-🔹 AI-Generated Art & Style Transfer – Exploring explainability in generative art models to better understand AI creativity.
+- **Passion Project**
+  
+	**Robustness & Explainability in AI-Generated & AI-Detected Content**
+
+	I am actively conducting research on AI-generated and AI-detected content, focusing on:
+
+	🔹 Deepfake Detection & Prevention – Developing robust models to detect AI-generated fake videos using CNNs, Transformers & Adversarial Training.
+
+	🔹 Autonomous Vehicle Perception – Using GANs to create synthetic training data, improving AV robustness in challenging scenarios.
+
+	🔹 AI-Generated Art & Style Transfer – Exploring explainability in generative art models to better understand AI creativity.
 
 This work aligns with the latest research by Meta, DARPA, and AI Ethics communities, with a strong focus on security, transparency, and AI robustness. The ultimate goal is to contribute to cutting-edge AI safety research and enhance the interpretability of AI-generated content across multiple domains.
 
 Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
-
-### 📊 Data Science & AI Projects
-- [**M2M Tech - Data Science and Machine Learning Internship**](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
-  
-	 ✅ Capstone 1: Data Analysis & Baseline Models
-		•	Perform EDA on deepfake datasets, AV perception edge cases, and AI art datasets.
-		•	Train baseline classifiers for deepfake detection & art style classification.
-
-	✅ Capstone 2: Machine Learning & GAN-Based Augmentation
-		•	Use GANs to generate new deepfake samples & AV perception data for training.
-		•	Train CNN & Vision Transformer models for classification & detection.
-
-	✅ Capstone 3: Adversarial Training & Explainability
-		•	Implement GAN-based adversarial training for deepfake detection.
-		•	Develop an explainability tool for AI-generated content (Grad-CAM, CLIP-based analysis).
  
 - [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
 - [**Data_Analytics**](https://github.com/VinodAnbalagan/Data_Analytics.git) – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
