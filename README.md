@@ -1,10 +1,25 @@
 # 🚀 Welcome to My GitHub Portfolio  
 
-I am a **Machine Learning & AI Researcher in the making**, passionate about building **intelligent systems** that drive innovation and solve real-world problems. My journey into **Machine Learning, Deep Learning, and Data Science** has been shaped by rigorous self-learning, university coursework, and **hands-on project experience at M2M Tech**, where I am currently working on **AI-driven data science projects**.  
+## Machine Learning & AI Enthusiast  
 
-Through **Stanford’s Machine Learning Specialization**, the **University of Toronto’s Data Science & ML Certification**, and practical experience, I have developed expertise in **data analysis, predictive modeling, neural networks, and data engineering workflows**. I am particularly drawn to **computer vision, generative AI, and reinforcement learning**, areas where AI is transforming industries.  
+I am an aspiring **Machine Learning & AI Researcher**, passionate about building **intelligent systems** that drive innovation and solve real-world challenges. My expertise spans **Machine Learning, Deep Learning, and Data Science**, developed through rigorous **self-learning, university coursework, and hands-on projects** at **M2M Tech**, where I work on **AI-driven data science solutions**.  
 
-Beyond technical skills, I thrive in **collaborative environments** where I can contribute, learn, and refine innovative solutions. My goal is to **push the boundaries of AI research and development**, continuously exploring new frameworks, methodologies, and applications.  
+🎓 **Education**  
+- **Stanford University** – Machine Learning Specialization  
+- **University of Toronto** – Data Science & Machine Learning Certification   
+
+🛠 **Core Skills:**  
+- **Data Science & Analytics** – Extracting insights from structured & unstructured data  
+- **Machine Learning & Predictive Modeling** – Building & fine-tuning ML models  
+- **Deep Learning & Generative AI** – Working with CNNs, Transformers, and GANs  
+- **Computer Vision & Reinforcement Learning** – Exploring AI for perception & decision-making  
+- **Data Engineering & Cloud AI** – Optimizing workflows for scalable ML solutions  
+
+💡 **Current Focus Areas:**  
+- **Real-Time Multilingual Transcription** – AI-powered live captioning & speech-to-text  
+- **Deepfake Detection & Prevention** – Developing security-focused AI to combat misinformation  
+
+I thrive in **collaborative environments** where I can **contribute, learn, and innovate**. My mission is to **push the boundaries of AI research**, continuously exploring new frameworks, methodologies, and applications.  
 
 ---
 
