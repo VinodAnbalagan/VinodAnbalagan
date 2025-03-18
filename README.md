@@ -41,7 +41,7 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
 		•	Fine-tune **Whisper GPT or OpenAI LLaMA** for **context-aware multilingual transcription**.
 		•	Implement **code-switching detection & speaker intent recognition**.
                 •       (Future Work) Integrate **lip-reading AI** for noisy environments.
-  **Deliverable:** A **real-time multilingual transcription system** that accurately detects **code-switching, context, and speaker intent**.
+  **Deliverable:** A [**real-time multilingual transcription system**](https://github.com/VinodAnbalagan/Real-Time-Multilingual-Transcription.git) that accurately detects **code-switching, context, and speaker intent**. 
 
 - **Passion Project**
   
