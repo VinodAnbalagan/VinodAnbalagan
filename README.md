@@ -30,7 +30,7 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
   
 	 ✅ Capstone 1: Data Analytics (Speech & Language Trends Analysis)
 		•	Dataset Selection & Exploration, AI vs. Human Transcription Accuracy.
-		•	Code-Switching & Multilingual Trends,Data Visualization & Report.
+		•	Data Visualization & Report.
 
 	✅ Capstone 2: Machine Learning (Real-Time Speech-to-Text AI)
 		•	Train **wav2vec2 / Whisper AI model** on multilingual speech datasets.
