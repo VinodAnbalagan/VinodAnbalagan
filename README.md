@@ -38,7 +38,7 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
                 •       Optimize for **low-latency processing** (fast speech-to-text conversion).
 
 	✅ Capstone 3: Deep Learning & Generative AI (Context-Aware Captioning)
-		•	Fine-tune **Whisper GPT or OpenAI LLaMA** for **context-aware multilingual transcription**.
+		•	Fine-tune **Whisper GPT or LLaMA** for **context-aware multilingual transcription**.
 		•	Implement **code-switching detection & speaker intent recognition**.
                 •       (Future Work) Integrate **lip-reading AI** for noisy environments.
   **Deliverable:** A [**real-time multilingual transcription system**](https://github.com/VinodAnbalagan/Real-Time-Multilingual-Transcription.git) that accurately detects **code-switching, context, and speaker intent**. 
