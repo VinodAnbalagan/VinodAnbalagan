@@ -42,7 +42,7 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
 		•	Implement **code-switching detection** to dynamically adjust transcription and translation.
                 •       Future Work: Improve translation quality with prompting & finetuning LLMs** for better language understanding.
   
-  **Deliverable:** A [**real-time multilingual transcription system**](https://github.com/VinodAnbalagan/Real-Time-Multilingual-Translation.git) that accurately detects **code-switching with low-latency**. 
+  **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency**. 
 
 - **Passion Project**
   
