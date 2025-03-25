@@ -33,15 +33,16 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
 		•	Data Visualization & Report.
 
 	✅ Capstone 2: Machine Learning (Real-Time Speech-to-Text AI)
-		•	Train **wav2vec2 / Whisper AI model** on multilingual speech datasets.
-		•	Implement **word alignment & timestamp correction** for real-time captions.
-                •       Optimize for **low-latency processing** (fast speech-to-text conversion).
+		•	Train a **multilingual speech-to-text** model.
+		•	Add a translation step using **NMT models(like mBART, NLLB, or fine tine Whsiper)**
+                •       Optimize a real time inference with lightweight models or caching strategies. 
 
 	✅ Capstone 3: Deep Learning & Generative AI (Context-Aware Captioning)
-		•	Fine-tune **Whisper GPT or LLaMA** for **context-aware multilingual transcription**.
-		•	Implement **code-switching detection & speaker intent recognition**.
-                •       (Future Work) Integrate **lip-reading AI** for noisy environments.
-  **Deliverable:** A [**real-time multilingual transcription system**](https://github.com/VinodAnbalagan/Real-Time-Multilingual-Transcription.git) that accurately detects **code-switching, context, and speaker intent**. 
+		•	Fine-tune **Whisper GPT or LLaMA** for **context-aware translation**.
+		•	Implement **code-switching detection** to dynamically adjust transcription and translation.
+                •       Future Work: Improve translation quality with prompting & finetuning LLMs** for better language understanding.
+  
+  **Deliverable:** A [**real-time multilingual transcription system**](https://github.com/VinodAnbalagan/Real-Time-Multilingual-Translation.git) that accurately detects **code-switching with low-latency**. 
 
 - **Passion Project**
   
