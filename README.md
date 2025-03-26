@@ -28,19 +28,19 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
 ### 📊 Data Science & AI Projects
 - **M2M Data Science and Machine Learning Internship**
 
-  	Capstone 1: Data Analytics (Speech & Language Trends Analysis)
-		•	Dataset Selection & Exploration, AI vs. Human Transcription Accuracy.
-		•	Data Visualization & Report.
+  	**Capstone 1: Data Analytics (Speech & Language Trends Analysis)**
+		* Dataset Selection & Exploration, AI vs. Human Transcription Accuracy.
+  		* Data Visualization & Report.
 
-	Capstone 2: Machine Learning (Real-Time Speech-to-Text AI)
-		•	Train a **multilingual speech-to-text** model.
-		•	Add a translation step using **NMT models(like mBART, NLLB, or fine tine Whsiper)**
-                •       Optimize a real time inference with lightweight models or caching strategies. 
+	**Capstone 2: Machine Learning (Real-Time Speech-to-Text AI)**
+		* Train a **multilingual speech-to-text** model.
+		* Add a translation step using **NMT models(like mBART, NLLB, or fine tine Whsiper)**
+                * Optimize a real time inference with lightweight models or caching strategies. 
 
-	Capstone 3: Deep Learning & Generative AI (Context-Aware Captioning)
-		•	Fine-tune **Whisper GPT or LLaMA** for **context-aware translation**.
-		•	Implement **code-switching detection** to dynamically adjust transcription and translation.
-                •       Future Work: Improve translation quality with prompting & finetuning LLMs** for better language understanding.
+	**Capstone 3: Deep Learning & Generative AI (Context-Aware Captioning)**
+		* Fine-tune **Whisper GPT or LLaMA** for **context-aware translation**.
+		* Implement **code-switching detection** to dynamically adjust transcription and translation.
+                * Future Work: Improve translation quality with prompting & finetuning LLMs** for better language understanding.
   
   **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency**. 
 
