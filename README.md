@@ -36,9 +36,9 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
     * Train a multilingual speech-to-text model.
     * Add a translation step using NMT models (like mBART, NLLB, or fine tine Whsiper)
     * Optimize a real time inference with lightweight models or caching strategies.
-* **Capstone 3: Deep Learning & Generative AI (Context-Aware Captioning)**
+* **Capstone 3: Deep Learning & Generative AI (Context-Aware translation)**
     * Fine-tune Whisper GPT or LLaMA for context-aware translation.
-    * Implement code-switching detection to dynamically adjust transcription and translation.
+    * Implement code-switching detection to dynamically adjust translation.
     * **Future Work:** Improve translation quality with prompting & finetuning LLMs for better language understanding.
   
   **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency**. 
