@@ -66,7 +66,7 @@ Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalaga
   
 ### 💻 Software Development & Engineering  
 - [**Python_Projects**](https://github.com/VinodAnbalagan/Python_Projects.git) – Fun, practical coding projects to enhance **Python skills**.    
-- [**Software_Development**](https://github.com/VinodAnbalagan/Software-Development-.git) – Full-stack applications using **Java, Rust, SQL, and cloud technologies**.  
+- [**Coding**](https://github.com/VinodAnbalagan/Coding-Repo.git) – **Java, Rust, SQL, and cloud technologies**.  
 
 ### 🚀 Future Repositories & Research 
 - **Deep_Learning_Experiments** – Implementations of **CNNs, RNNs, transformers, and generative AI models** using PyTorch & TensorFlow.
