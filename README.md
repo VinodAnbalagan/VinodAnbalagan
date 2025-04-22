@@ -1,19 +1,19 @@
 # 🚀 Welcome to My GitHub Portfolio  
 
-## Machine Learning & AI Enthusiast  
+## Machine Learning & Deep Learning Engineer  
 
-I am an aspiring **Machine Learning & AI Researcher**, passionate about building **intelligent systems** that drive innovation and solve real-world challenges. My expertise spans **Machine Learning, Deep Learning, and Data Science**, developed through rigorous **self-learning, university coursework, and hands-on projects** at **M2M Tech**, where I work on **AI-driven data science solutions**.  
+I bridge cutting-edge deep learning research with practical implementation to solve real-world business problems. With training from the University of Toronto's Machine Learning program and Stanford's ML Specialization, I develop AI solutions that predict outcomes, optimize processes, and deliver measurable value. Currently, I'm building a real-time multilingual audio translation tool while continuously exploring new ways to make complex technology accessible and impactful for organizations. 
 
 🎓 **Education**  
-- **Stanford University** – Machine Learning Specialization  
-- **University of Toronto** – Data Science & Machine Learning Certification   
+- **University of Toronto** – Data Science & Machine Learning Certification    
+- **Stanford University** – Machine Learning Specialization
 
 🛠 **Core Skills:**  
-- **Data Science & Analytics** – Extracting insights from structured & unstructured data  
-- **Machine Learning & Predictive Modeling** – Building & fine-tuning ML models  
-- **Deep Learning & Generative AI** – Working with CNNs, Transformers, and GANs  
-- **Computer Vision & Reinforcement Learning** – Exploring AI for perception & decision-making  
-- **Data Engineering & Cloud AI** – Optimizing workflows for scalable ML solutions  
+- **Data Science & Analytics** – Extracting insights and enabling data-driven decision making through intuitive visualizations  
+- **Machine Learning & Predictive Modeling** – Transforming complex datasets into accurate forecasting models that drive business strategy  
+- **Deep Learning & Generative AI** – Implementing advanced neural networks (CNNs, Transformers, GANs) for complex problem-solving  
+- **Computer Vision & Reinforcement Learning** – Developing AI systems for perception & intelligent decision-making  
+- **Data Engineering & Cloud AI** – Architecting scalable ML pipelines for production environments  
 
 💡 **Current Focus Areas:**  
 - **Real-Time Multilingual Transcription** – AI-powered live captioning & speech-to-text  
@@ -43,7 +43,7 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
   
   **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency**. 
 
-- **Passion Project**
+- **Pet Project**
   
 	**Robustness & Explainability in AI-Generated & AI-Detected Content**
 
@@ -83,7 +83,7 @@ Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalaga
 **Data Engineering & Analysis:** Pandas, NumPy, Matplotlib, Plotly  
 **Development Tools:** Git, VS Code, Jupyter, IntelliJ IDEA  
 **Cloud & Big Data:** AWS, GCP, Hadoop, Spark  
-**Databases:** MySQL, PostgreSQL, MongoDB  
+**Databases:** MySQL, PostgreSQL  
 
 ---
 ### **📜 Certifications & Coursework**  
