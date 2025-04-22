@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Portfolio  
 
-## Machine Learning & Deep Learning Engineer  
+## Machine Learning Engineer  
 
 I bridge cutting-edge deep learning research with practical implementation to solve real-world business problems. With training from the University of Toronto's Machine Learning program and Stanford's ML Specialization, I develop AI solutions that predict outcomes, optimize processes, and deliver measurable value. Currently, I'm building a real-time multilingual audio translation tool while continuously exploring new ways to make complex technology accessible and impactful for organizations. 
 
