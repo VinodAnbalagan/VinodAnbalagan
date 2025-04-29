@@ -2,7 +2,7 @@
 
 ## Machine Learning Engineer  
 
-I bridge cutting-edge machine learning and deep learning research with real-world implementations to solve complex business challenges. With 3+ years of analytics experience across procurement, media production, and data management roles, I bring technical depth and business acumen to ML projects. Currently studying Machine Learning at the University of Toronto and completed Stanford's ML specialization. At M2M Tech, I'm developing a real-time audio translation system that accurately detects code-switching with low-latency. Proficient in Python, SQL, Tableau, major ML frameworks, and cloud platforms, I excel at cross-functional collaboration and translating technical concepts for non-technical stakeholders. My strong problem-solving abilities and data storytelling skills complement my technical expertise in creating accessible, human-centered AI systems. Open to relocation and eager to contribute to dynamic, research-driven teams.
+I transform complex business challenges through cutting-edge machine learning and deep learning implementation, leveraging 3+ years of analytics expertise across diverse industries. Advancing my Machine Learning education at the University of Toronto while applying Stanford's ML specialization knowledge. Currently engineering a real-time audio translation system with code-switching detection at M2M Tech. I master Python, SQL, and Tableau while excelling in cross-functional collaboration and technical communication. My problem-solving and data storytelling skills drive the creation of accessible, human-centered AI systems. Open to relocation and ready to elevate research-driven teams.
 
 🎓 **Education**  
 - **University of Toronto** – Data Science & Machine Learning Certification    
