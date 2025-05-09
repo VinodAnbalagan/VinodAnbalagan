@@ -32,32 +32,15 @@ I thrive in **collaborative environments** where I can **contribute, learn, and 
     * Dataset Selection & Exploration
     * AI vs. Human Transcription Accuracy
     * Data Visualization & Report
-* **Capstone 2: Machine Learning (Real-Time Speech-to-Text AI)**
-    * Train a multilingual speech-to-text model.
-    * Add a translation step using NMT models (like mBART, NLLB, or fine tine Whsiper)
-    * Optimize a real time inference with lightweight models or caching strategies.
-* **Capstone 3: Deep Learning & Generative AI (Context-Aware translation)**
-    * Fine-tune Whisper GPT or LLaMA for context-aware translation.
-    * Implement code-switching detection to dynamically adjust translation.
-    * **Future Work:** Improve translation quality with prompting & finetuning LLMs for better language understanding.
-  
-  **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency**. 
+* **Capstone 2: Real-Time Noisy Speech Transcription (RTNST)**
+    
+* **Capstone 3: RTNST with low-latency and code-switching**
+    
+  **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency under noisy conditions**. 
 
 - **Pet Project**
   
-	**Robustness & Explainability in AI-Generated & AI-Detected Content**
-
-	I am actively conducting research on AI-generated and AI-detected content, focusing on:
-
-	- Deepfake Detection & Prevention – Developing robust models to detect AI-generated fake videos using CNNs, Transformers & Adversarial Training.
-   
-	- Autonomous Vehicle Perception – Using GANs to create synthetic training data, improving AV robustness in challenging scenarios.
-   
-	- AI-Generated Art & Style Transfer – Exploring explainability in generative art models to better understand AI creativity.
-
-This work aligns with the latest research by Meta, DARPA, and AI Ethics communities, with a strong focus on security, transparency, and AI robustness. The ultimate goal is to contribute to cutting-edge AI safety research and enhance the interpretability of AI-generated content across multiple domains.
-
-Research Repository: [Deepfake-AV-Art-Research](https://github.com/VinodAnbalagan/Deepfake-AV-Art-Research-.git)
+	**ClearVision: Enhancing Scene Understanding for Self-Driving Cars in Adverse Conditions using GAN-based Image Translation and Real-Time Object Detection**
 
 --- 
 
