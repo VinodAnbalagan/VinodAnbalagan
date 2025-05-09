@@ -17,7 +17,7 @@ I transform complex business challenges through cutting-edge machine learning an
 
 💡 **Current Focus Areas:**  
 - **Real-Time Multilingual Transcription** – AI-powered live captioning & speech-to-text  
-- **Deepfake Detection & Prevention** – Developing security-focused AI to combat misinformation  
+- **Computer Vision for Self-Driving Cars** — Robust Scene Understanding in Challenging Weather Conditions  
 
 I thrive in **collaborative environments** where I can **contribute, learn, and innovate**. My mission is to **push the boundaries of AI research**, continuously exploring new frameworks, methodologies, and applications.  
 
