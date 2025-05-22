@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Vinod Anbalagan
+# Hi there! 👋 I'm Vinod Anbalagan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+TensorFlow+%7C+PyTorch;Building+the+Future+with+AI" alt="Typing SVG" />
@@ -8,16 +8,16 @@ Hi there! 👋 I'm Vinod Anbalagan
   <img src="https://img.shields.io/github/followers/VinodAnbalagan?label=Followers&style=social" alt="followers" />
 </p>
 
-🚀 About Me
+## 🚀 About Me
 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
 🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
 🤖 Passion Project: ClearVision - GANs for self-driving car vision in adverse weather
 🌍 Open to: Relocation and research-driven collaborations
 
 ---
-🛠️ Tech Stack & Skills
+## 🛠 **Tech Stack**  
 
-Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -26,7 +26,7 @@ Programming Languages
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
-Machine Learning & AI
+### Machine Learning & AI
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -35,7 +35,7 @@ Machine Learning & AI
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
 </p>
 
-Data Science & Analytics
+### Data Science & Analytics
 <p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -45,7 +45,7 @@ Data Science & Analytics
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
-Cloud & DevOps
+### Cloud & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -53,8 +53,11 @@ Cloud & DevOps
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
 ---
-📊 GitHub Stats
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -62,8 +65,11 @@ Cloud & DevOps
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight" alt="streak stats"/>
 </div>
+
 ---
-🏆 Featured Projects
+
+## 🏆 Featured Projects
+
 <div align="center">
 🎯 Real-Time Audio Translation
 Show Image
@@ -88,8 +94,10 @@ Show Image
 📈 Visualization Mastery: Interactive dashboards with Tableau and Power BI
 🔍 Insights: Statistical modeling and exploratory data analysis
 </div>
+
 ---
-🎓 Education & Certifications
+
+## 🎓 Education & Certifications
 <details>
 <summary><b>🏫 Formal Education</b></summary>
 
@@ -110,8 +118,10 @@ Show Image
 🐍 OpenEDG Python Institute - Programming with Python Professional
 🐧 Canonical - Linux Professional Certification
 </details>
+
 ---
-📈 Achievement Highlights
+
+## 📈 Achievement Highlights
 
 class VinodAnbalagan:
     def __init__(self):
@@ -135,8 +145,11 @@ class VinodAnbalagan:
                 "computer_vision": "GAN-based weather robustness"
             }
         }
+        
 ---
-🤝 Let's Connect!
+
+## 🤝 Let's Connect!
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vinod-anbalagan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -151,7 +164,9 @@ class VinodAnbalagan:
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+collaborations+%7C+Research+discussions;AI+%26+ML+project+opportunities;Let's+build+the+future+together!" alt="Footer Typing SVG" />
 </div>
+
 ---
+
 <div align="center">
   <i>⭐️ From <a href="https://github.com/VinodAnbalagan">VinodAnbalagan</a> - "Transforming data into intelligent solutions"</i>
 </div>
