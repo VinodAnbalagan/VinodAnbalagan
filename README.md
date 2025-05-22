@@ -1,93 +1,157 @@
-# 🚀 Welcome to My GitHub Portfolio  
+Hi there! 👋 I'm Vinod Anbalagan
 
-## Machine Learning Engineer  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+TensorFlow+%7C+PyTorch;Building+the+Future+with+AI" alt="Typing SVG" />
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinodAnbalagan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/VinodAnbalagan?label=Followers&style=social" alt="followers" />
+</p>
 
-I transform complex business challenges through cutting-edge machine learning and deep learning implementation, leveraging analytics expertise across diverse industries. Advancing my Machine Learning education at the University of Toronto while applying Stanford's ML specialization knowledge. Currently engineering a real-time audio translation system with code-switching detection at M2M Tech. I master Python, SQL, and Tableau while excelling in cross-functional collaboration and technical communication. My problem-solving and data storytelling skills drive the creation of accessible, human-centered AI systems. Open to relocation and ready to elevate research-driven teams.
-
-🎓 **Education**  
-- **University of Toronto** – Data Science & Machine Learning Certification    
-- **Stanford University** – Machine Learning Specialization
-
-🛠 **Core Skills:**  
-- **Data Science & Analytics** – Extracting insights and enabling data-driven decision making through intuitive visualizations  
-- **Machine Learning & Predictive Modeling** – Transforming complex datasets into accurate forecasting models that drive business strategy  
-- **Deep Learning & Generative AI** – Implementing advanced neural networks (CNNs, Transformers, GANs) for complex problem-solving  
-- **Computer Vision & Reinforcement Learning** – Developing AI systems for perception & intelligent decision-making  
-- **Data Engineering & Cloud AI** – Architecting scalable ML pipelines for production environments  
-
-💡 **Current Focus Areas:**  
-- **Real-Time Multilingual Transcription** – AI-powered live captioning & speech-to-text  
-- **Computer Vision for Self-Driving Cars** — Robust Scene Understanding in Challenging Weather Conditions  
-
-I thrive in **collaborative environments** where I can **contribute, learn, and innovate**. My mission is to **push the boundaries of AI research**, continuously exploring new frameworks, methodologies, and applications.  
+🚀 About Me
+🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
+🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
+🤖 Passion Project: ClearVision - GANs for self-driving car vision in adverse weather
+🌍 Open to: Relocation and research-driven collaborations
 
 ---
+🛠️ Tech Stack & Skills
 
-## 🔍 Explore My Work  
+Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
 
-### 📊 Data Science & AI Projects
-- **M2M Data Science and Machine Learning Internship**
+Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+</p>
 
-* **Capstone 1: Data Analytics (Speech & Language Trends Analysis)**
-    * Dataset Selection & Exploration
-    * AI vs. Human Transcription Accuracy
-    * Data Visualization & Report
-* **Capstone 2: Real-Time Noisy Speech Transcription (RTNST)**
-    
-* **Capstone 3: RTNST with low-latency and code-switching**
-    
-  **Deliverable:** A [**real-time audio translation**](https://github.com/VinodAnbalagan/Real-time-audio-translation.git) that accurately detects **code-switching with low-latency under noisy conditions**. 
+Data Science & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
-- **Pet Project**
-  
-	**ClearVision: Enhancing Scene Understanding for Self-Driving Cars in Adverse Conditions using GAN-based Image Translation and Real-Time Object Detection**
-
---- 
-
-- [**ML_Projects**](https://github.com/VinodAnbalagan/ML_Projects.git) – End-to-end **machine learning models** solving real-world problems (classification, regression, NLP, etc.).  
-- [**Data_Analytics**](https://github.com/VinodAnbalagan/Data_Analytics.git) – Data exploration, visualization, and statistical modeling using **Python, Pandas, and Matplotlib**.  
-  
-### 💻 Software Development & Engineering  
-- [**Python_Projects**](https://github.com/VinodAnbalagan/Python_Projects.git) – Fun, practical coding projects to enhance **Python skills**.    
-- [**Coding**](https://github.com/VinodAnbalagan/Coding-Repo.git) – **Java, Rust, SQL, and cloud technologies**.  
-
-### 🚀 Future Repositories & Research 
-- **Deep_Learning_Experiments** – Implementations of **CNNs, RNNs, transformers, and generative AI models** using PyTorch & TensorFlow.
-- **Reinforcement_Learning** – Experimenting with **Q-learning, policy gradient methods, and simulation-based learning**.
-- **Generative AI** – Style Transfer, GANs, and multimodal learning experiments.  
-- **Rust_Projects** – Exploring **Rust for high-performance computing in AI/ML workflows**.    
-
+Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 ---
-
-## 🛠️ Technologies & Tools  
-
-**Programming:** Python, SQL, Rust, Java, Go  
-**Machine Learning & AI:** Scikit-Learn, TensorFlow, PyTorch, Keras  
-**Data Engineering & Analysis:** Pandas, NumPy, Matplotlib, Plotly  
-**Development Tools:** Git, VS Code, Jupyter, IntelliJ IDEA  
-**Cloud & Big Data:** AWS, GCP, Hadoop, Spark  
-**Databases:** MySQL, PostgreSQL  
-
+📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight" alt="streak stats"/>
+</div>
 ---
-### **📜 Certifications & Coursework**  
-I am committed to continuous learning and have completed various [**certifications**](https://github.com/VinodAnbalagan/Certifications-.git) and university courses to deepen my expertise in **Machine Learning, Artificial Intelligence, and Data Science**. 
+🏆 Featured Projects
+<div align="center">
+🎯 Real-Time Audio Translation
+Show Image
+🚀 Breakthrough Innovation: Multilingual transcription with code-switching detection under noisy conditions
+🔧 Tech Stack: Python, TensorFlow, Speech Recognition APIs, Real-time Processing
+💡 Impact: Low-latency translation enabling seamless multilingual communication
 
-### **Highlighted Certifications:**  
-- **Stanford University** – Machine Learning Specialization and Statistics 
-- **University of Toronto** – Data Science & Machine Learning Certification  
-- **University of Pennsylvania** – AI, ML Essentials & Statistics Certification  
-- **IBM** – AI Developer Certification  
-- **Ludwig Maximilian University of Munich (LMU)** – Competitive Strategy & Organization Design  
-- **Microsoft** – AI/ML Foundations & Algorithms  
-- **NVIDIA** – AI Operations & Infrastructure Fundamentals  
-- **Wolfram Research** – Machine Learning Statistical Foundations Professional Certificate  
-- **Google** – Advanced Data Analytics Professional Certificate  
-- **Canonical** – Linux Professional Certification  
-- **OpenEDG Python Institute** – Programming with Python Professional Certificate  
-- **AWS** – Cloud Technical Essentials 
+🤖 ClearVision: Self-Driving Car Vision
+🌦️ Computer Vision for Adverse Weather: GANs for robust scene understanding in challenging conditions
+🔬 Research Focus: Image-to-image translation, real-time object detection, autonomous systems
+🎯 Goal: Enhancing safety and reliability of autonomous vehicles
 
+📈 Machine Learning Portfolio
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight)](https://github.com/VinodAnbalagan/ML_Projects)
+🎯 End-to-End Solutions: Classification, regression, NLP, and computer vision projects
+📊 Business Impact: Models achieving 99.5% recall on video classification, 2x churn prediction improvement
+🛠️ Production Ready: Scalable ML pipelines with cloud deployment
+
+📊 Data Analytics Showcase
+[Show Image](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight)
+💰 Business Value: Dashboards driving 25% cost savings in procurement
+📈 Visualization Mastery: Interactive dashboards with Tableau and Power BI
+🔍 Insights: Statistical modeling and exploratory data analysis
+</div>
 ---
+🎓 Education & Certifications
+<details>
+<summary><b>🏫 Formal Education</b></summary>
 
-## 🤝 Let’s Connect!  
-I’m open to collaborations, research discussions, and opportunities to contribute to **AI & ML projects**.  
-📩 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/)** or explore my repositories here!  
+🇨🇦 University of Toronto - Data Science & Machine Learning Certification
+🏛️ Stanford University - Machine Learning Specialization
+🏛️ University of Pennsylvania - AI, ML Essentials & Statistics
+🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design
+
+</details>
+<details>
+<summary><b>🏅 Professional Certifications</b></summary>
+
+🔬 IBM - AI Developer Certification
+🤖 NVIDIA - AI Operations & Infrastructure Fundamentals
+📊 Wolfram Research - ML Statistical Foundations Professional Certificate
+📈 Google - Advanced Data Analytics Professional Certificate
+☁️ AWS - Cloud Technical Essentials
+🐍 OpenEDG Python Institute - Programming with Python Professional
+🐧 Canonical - Linux Professional Certification
+</details>
+---
+📈 Achievement Highlights
+
+class VinodAnbalagan:
+    def __init__(self):
+        self.role = "Machine Learning Engineer"
+        self.education = ["University of Toronto", "Stanford University"]
+        self.current_focus = "Real-time Multilingual AI Systems"
+        
+    def get_achievements(self):
+        return {
+            "model_performance": {
+                "video_classification_recall": 0.995,
+                "churn_prediction_improvement": "2x boost",
+                "data_labeling_accuracy": 0.98
+            },
+            "business_impact": {
+                "cost_savings_generated": "25% in procurement",
+                "team_leadership": "Cross-functional ML deployments"
+            },
+            "innovation": {
+                "real_time_translation": "Code-switching detection",
+                "computer_vision": "GAN-based weather robustness"
+            }
+        }
+---
+🤝 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinod-anbalagan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/VinodAnbalagan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+collaborations+%7C+Research+discussions;AI+%26+ML+project+opportunities;Let's+build+the+future+together!" alt="Footer Typing SVG" />
+</div>
+---
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/VinodAnbalagan">VinodAnbalagan</a> - "Transforming data into intelligent solutions"</i>
+</div>
