@@ -144,7 +144,7 @@
 
 ---
 ### ⚡ Fun Fact 
-When I'm not training models, I'm probably Reading Books, Running, Dancing or exploring Photography & Filmmaking!
+When I'm not training models, I'm probably reading books, dancing or exploring photography, filmmaking and movement labs!
 
 ---
 
