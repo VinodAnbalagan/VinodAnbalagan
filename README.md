@@ -57,7 +57,7 @@
 ---
 ## 🏆 Featured Projects
 
-<div align="center">
+<div align="Left">
 
 ### 📈 Machine Learning Portfolio
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)
@@ -88,14 +88,16 @@
 ---
 
 ## 🎓 Education & Certifications
-
-### 🏫 Formal Education
+<details>
+<summary><b>🏫 Formal Education</b></summary>
 - 🇨🇦 University of Toronto - Data Science & Machine Learning Certification  
 - 🏛️ Stanford University - Machine Learning Specialization  
 - 🏛️ University of Pennsylvania - AI, ML Essentials & Statistics  
 - 🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design  
-
-### 🏅 Professional Certifications
+</details>
+<details>
+<summary><b>🏅 Professional Certifications</b></summary>
+ 
 - 🔬 IBM - AI Developer Certification  
 - 🤖 NVIDIA - AI Operations & Infrastructure Fundamentals  
 - 📊 Wolfram Research - ML Statistical Foundations Professional Certificate  
@@ -103,7 +105,7 @@
 - ☁️ AWS - Cloud Technical Essentials  
 - 🐍 OpenEDG Python Institute - Programming with Python Professional  
 - 🐧 Canonical - Linux Professional Certification  
-
+</details>
 ---
 
 ## 📈 Achievement Highlights
