@@ -110,6 +110,7 @@
 - 🐍 OpenEDG Python Institute - Programming with Python Professional  
 - 🐧 Canonical - Linux Professional Certification  
 </details>
+
 ---
 
 ## 📈 Achievement Highlights
@@ -129,7 +130,7 @@ class VinodAnbalagan:
             },
             "business_impact": {
                 "cost_savings_generated": "25% in procurement",
-                "team_leadership": "Cross-functional ML deployments"
+                "team_leadership": "Cross-functional Analytics"
             },
             "innovation": {
                 "real_time_translation": "Code-switching detection",
