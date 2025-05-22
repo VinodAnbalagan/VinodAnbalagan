@@ -14,10 +14,10 @@
 </p>
 
 ## 🚀 About Me
-🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
-🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
-🤖 Passion Project: ClearVision - GANs for self-driving car vision in adverse weather
-🌍 Open to: Relocation and research-driven collaborations
+- 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
+- 🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
+- 🤖 Passion Project: ClearVision - GANs for self-driving car vision in adverse weather
+- 🌍 Open to: Relocation and research-driven collaborations
 
 ---
 ## 🛠 **Tech Stack**  
