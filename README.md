@@ -71,16 +71,6 @@
 ## 🏆 Featured Projects
 
 <div align="center">
-🎯 Real-Time Audio Translation
-Show Image
-🚀 Breakthrough Innovation: Multilingual transcription with code-switching detection under noisy conditions
-🔧 Tech Stack: Python, TensorFlow, Speech Recognition APIs, Real-time Processing
-💡 Impact: Low-latency translation enabling seamless multilingual communication
-
-🤖 ClearVision: Self-Driving Car Vision
-🌦️ Computer Vision for Adverse Weather: GANs for robust scene understanding in challenging conditions
-🔬 Research Focus: Image-to-image translation, real-time object detection, autonomous systems
-🎯 Goal: Enhancing safety and reliability of autonomous vehicles
 
 📈 Machine Learning Portfolio
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight)](https://github.com/VinodAnbalagan/ML_Projects)
@@ -89,11 +79,22 @@ Show Image
 🛠️ Production Ready: Scalable ML pipelines with cloud deployment
 
 📊 Data Analytics Showcase
-[Show Image](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight)
+[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight)](https://github.com/VinodAnbalagan/Data_Analytics.git)
 💰 Business Value: Dashboards driving 25% cost savings in procurement
 📈 Visualization Mastery: Interactive dashboards with Tableau and Power BI
 🔍 Insights: Statistical modeling and exploratory data analysis
+
+🎯 Real-Time Audio Translation
+🚀 Breakthrough Innovation: Multilingual transcription with code-switching detection under noisy conditions
+🔧 Tech Stack: Python, TensorFlow, Speech Recognition APIs, Real-time Processing
+💡 Impact: Low-latency translation enabling seamless multilingual communication
+
+🤖 ClearVision: Self-Driving Car Vision
+🌦️ Computer Vision for Adverse Weather: GANs for robust scene understanding in challenging conditions
+🔬 Research Focus: Image-to-image translation, real-time object detection, autonomous systems
+🎯 Goal: Enhancing safety and reliability of autonomous vehicles
 </div>
+
 
 ---
 
