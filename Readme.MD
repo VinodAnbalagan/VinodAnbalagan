@@ -143,6 +143,10 @@
 </div>
 
 ---
+### ⚡ Fun Fact 
+When I'm not training models, I'm probably Reading Books, Running, Dancing or exploring Photography & Filmmaking!
+
+---
 
 ## 🤝 Let's Connect!
 
