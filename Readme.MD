@@ -129,8 +129,6 @@
 
 ## 📈 Achievement Highlights
 
-## 📈 Achievement Highlights
-
 🎯 **Model Performance Excellence**
 - Video classification: 99.5% recall accuracy
 - Churn prediction: 2x improvement boost  
