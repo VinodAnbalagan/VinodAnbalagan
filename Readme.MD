@@ -69,20 +69,18 @@
 ### 📈 Machine Learning Portfolio
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)
 
-- 🎯 **End-to-End Solutions**: Classification, regression, NLP, and computer vision projects  
+- 🎯 **End-to-End Solutions**: ML projects  
 - 📊 **Business Impact**: Models achieving 99.5% recall on video classification, 2x churn prediction improvement  
 - 🛠️ **Production Ready**: Scalable ML pipelines with cloud deployment  
 
 ### 📊 Data Analytics Showcase
 [![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics.git)
-
-- 💰 **Business Value**: Dashboards driving 25% cost savings in procurement  
-- 📈 **Visualization Mastery**: Interactive dashboards with Tableau and Power BI  
+   
 - 🔍 **Insights**: Statistical modeling and exploratory data analysis  
 
 ### 🎯 Real-Time Audio Translation
 - 🚀 **Breakthrough Innovation**: Multilingual transcription with code-switching detection under noisy conditions  
-- 🔧 **Tech Stack**: Python, TensorFlow, Speech Recognition APIs, Real-time Processing  
+- 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
 
 ### 🤖 ClearVision: Self-Driving Car Vision
