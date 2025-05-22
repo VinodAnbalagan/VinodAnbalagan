@@ -1,13 +1,15 @@
 # Hi there! 👋 I'm Vinod Anbalagan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+TensorFlow+%7C+PyTorch;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+TensorFlow+%7C+PyTorch;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinod-anbalagan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=VinodAnbalagan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/VinodAnbalagan?label=Followers&style=social" alt="followers" />
 </p>
 
