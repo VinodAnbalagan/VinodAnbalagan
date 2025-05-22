@@ -20,6 +20,7 @@
 - 🌍 Open to: Relocation and research-driven collaborations
 
 ---
+
 ## 🛠 **Tech Stack**  
 
 ### Programming Languages
@@ -61,17 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinodAnbalagan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 ## 🏆 Featured Projects
 
 <div align="Left">
@@ -142,6 +132,18 @@
 - Real-time translation with code-switching detection
 - Computer vision using GANs for weather robustness
         
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinodAnbalagan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
