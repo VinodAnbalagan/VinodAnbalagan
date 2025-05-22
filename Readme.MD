@@ -129,28 +129,20 @@
 
 ## 📈 Achievement Highlights
 
-class VinodAnbalagan:
-    def __init__(self):
-        self.role = "Machine Learning Engineer"
-        self.education = ["University of Toronto", "Stanford University"]
-        self.current_focus = "Real-time Multilingual AI Systems"
-        
-    def get_achievements(self):
-        return {
-            "model_performance": {
-                "video_classification_recall": 0.995,
-                "churn_prediction_improvement": "2x boost",
-                "data_labeling_accuracy": 0.98
-            },
-            "business_impact": {
-                "cost_savings_generated": "25% in procurement",
-                "team_leadership": "Cross-functional Analytics"
-            },
-            "innovation": {
-                "real_time_translation": "Code-switching detection",
-                "computer_vision": "GAN-based weather robustness"
-            }
-        }
+## 📈 Achievement Highlights
+
+🎯 **Model Performance Excellence**
+- Video classification: 99.5% recall accuracy
+- Churn prediction: 2x improvement boost  
+
+💼 **Business Impact**
+- Generated 25% cost savings in procurement through dashboards
+- Led Cross-functional teams Analytics
+- Data labeling systems: 98% accuracy
+
+🚀 **Innovation Projects**
+- Real-time translation with code-switching detection
+- Computer vision using GANs for weather robustness
         
 ---
 
