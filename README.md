@@ -55,70 +55,54 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight" alt="streak stats"/>
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <div align="center">
 
-📈 Machine Learning Portfolio
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight)](https://github.com/VinodAnbalagan/ML_Projects)
-🎯 End-to-End Solutions: Classification, regression, NLP, and computer vision projects
-📊 Business Impact: Models achieving 99.5% recall on video classification, 2x churn prediction improvement
-🛠️ Production Ready: Scalable ML pipelines with cloud deployment
+### 📈 Machine Learning Portfolio
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)
 
-📊 Data Analytics Showcase
-[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight)](https://github.com/VinodAnbalagan/Data_Analytics.git)
-💰 Business Value: Dashboards driving 25% cost savings in procurement
-📈 Visualization Mastery: Interactive dashboards with Tableau and Power BI
-🔍 Insights: Statistical modeling and exploratory data analysis
+- 🎯 **End-to-End Solutions**: Classification, regression, NLP, and computer vision projects  
+- 📊 **Business Impact**: Models achieving 99.5% recall on video classification, 2x churn prediction improvement  
+- 🛠️ **Production Ready**: Scalable ML pipelines with cloud deployment  
 
-🎯 Real-Time Audio Translation
-🚀 Breakthrough Innovation: Multilingual transcription with code-switching detection under noisy conditions
-🔧 Tech Stack: Python, TensorFlow, Speech Recognition APIs, Real-time Processing
-💡 Impact: Low-latency translation enabling seamless multilingual communication
+### 📊 Data Analytics Showcase
+[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics.git)
 
-🤖 ClearVision: Self-Driving Car Vision
-🌦️ Computer Vision for Adverse Weather: GANs for robust scene understanding in challenging conditions
-🔬 Research Focus: Image-to-image translation, real-time object detection, autonomous systems
-🎯 Goal: Enhancing safety and reliability of autonomous vehicles
+- 💰 **Business Value**: Dashboards driving 25% cost savings in procurement  
+- 📈 **Visualization Mastery**: Interactive dashboards with Tableau and Power BI  
+- 🔍 **Insights**: Statistical modeling and exploratory data analysis  
+
+### 🎯 Real-Time Audio Translation
+- 🚀 **Breakthrough Innovation**: Multilingual transcription with code-switching detection under noisy conditions  
+- 🔧 **Tech Stack**: Python, TensorFlow, Speech Recognition APIs, Real-time Processing  
+- 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
+
+### 🤖 ClearVision: Self-Driving Car Vision
+- 🌦️ **Computer Vision**: GANs for robust scene understanding in challenging conditions  
+- 🔬 **Research Focus**: Image-to-image translation, real-time object detection  
+- 🎯 **Goal**: Enhancing safety and reliability of autonomous vehicles
+  
 </div>
-
 
 ---
 
 ## 🎓 Education & Certifications
-<details>
-<summary><b>🏫 Formal Education</b></summary>
 
-🇨🇦 University of Toronto - Data Science & Machine Learning Certification
-🏛️ Stanford University - Machine Learning Specialization
-🏛️ University of Pennsylvania - AI, ML Essentials & Statistics
-🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design
+### 🏫 Formal Education
+- 🇨🇦 University of Toronto - Data Science & Machine Learning Certification  
+- 🏛️ Stanford University - Machine Learning Specialization  
+- 🏛️ University of Pennsylvania - AI, ML Essentials & Statistics  
+- 🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design  
 
-</details>
-<details>
-<summary><b>🏅 Professional Certifications</b></summary>
-
-🔬 IBM - AI Developer Certification
-🤖 NVIDIA - AI Operations & Infrastructure Fundamentals
-📊 Wolfram Research - ML Statistical Foundations Professional Certificate
-📈 Google - Advanced Data Analytics Professional Certificate
-☁️ AWS - Cloud Technical Essentials
-🐍 OpenEDG Python Institute - Programming with Python Professional
-🐧 Canonical - Linux Professional Certification
-</details>
+### 🏅 Professional Certifications
+- 🔬 IBM - AI Developer Certification  
+- 🤖 NVIDIA - AI Operations & Infrastructure Fundamentals  
+- 📊 Wolfram Research - ML Statistical Foundations Professional Certificate  
+- 📈 Google - Advanced Data Analytics Professional Certificate  
+- ☁️ AWS - Cloud Technical Essentials  
+- 🐍 OpenEDG Python Institute - Programming with Python Professional  
+- 🐧 Canonical - Linux Professional Certification  
 
 ---
 
@@ -147,6 +131,18 @@ class VinodAnbalagan:
             }
         }
         
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight" alt="streak stats"/>
+</div>
+
 ---
 
 ## 🤝 Let's Connect!
