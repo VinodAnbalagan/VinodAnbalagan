@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vinod Anbalagan
+# Hi there! 👋 I'm 
 
 <div align="center">
   <!-- Custom header with neural network theme -->
