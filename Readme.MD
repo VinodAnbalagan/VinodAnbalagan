@@ -1,19 +1,17 @@
 # Hi there! 👋 I'm 
 
 <div align="center">
-  <!-- Neural Network Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=auto:gradient,0:162A47,100:4E0075&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Deep%20Learning%20Engineer%20%7C%20Neural%20Architect&descAlignY=55&descSize=20"/>
-
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Deep+Learning+Specialist;PyTorch+%7C+TensorFlow+%7C+JAX;Neural+Architectures+%26+LLMs;From+Research+to+Production" alt="Typing SVG"/>
-
-  <!-- Social Links -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vinod-anbalagan/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;Python+%7C+TensorFlow+%7C+PyTorch;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinod-anbalagan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=VinodAnbalagan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/VinodAnbalagan?label=Followers&style=social" alt="followers" />
+</p>
 
 ## 🚀 About Me
 - 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
