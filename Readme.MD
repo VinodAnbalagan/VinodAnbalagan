@@ -159,7 +159,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=tokyonight&layout=donut)
 
 ---
 ### ⚡ Fun Fact 
