@@ -156,6 +156,7 @@
 ---
 
 ## 📊 GitHub Stats
+Contributed to ** [![GitHub Activity](https://img.shields.io/github/commit-activity/m/VinodAnbalagan?label=Recent%20Commits&style=for-the-badge&color=blue)](https://github.com/VinodAnbalagan)** and other repositories. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
