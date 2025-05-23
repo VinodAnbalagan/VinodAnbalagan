@@ -156,16 +156,13 @@
 ---
 
 ## 📊 GitHub Stats
-Contributed to ** [![GitHub Activity](https://img.shields.io/github/commit-activity/m/VinodAnbalagan?label=Recent%20Commits&style=for-the-badge&color=blue)](https://github.com/VinodAnbalagan)** and other repositories. 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
+<a href="https://github.com/VinodAnbalagan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/VinodAnbalagan/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=convoychat" />
+</a>
 
 ---
 ### ⚡ Fun Fact 
