@@ -155,15 +155,22 @@
         
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=tokyonight&layout=donut)
+### 🎯 Contribution Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&custom_title=Vinod's%20GitHub%20Stats" alt="GitHub Stats"/>
+</div>
 
----
-### ⚡ Fun Fact 
-When I'm not training models, I'm probably reading books, learning languages, exploring photography, filmmaking and movement labs!
+### 📊 Detailed Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=graywhite&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VinodAnbalagan&theme=graywhite&utc_offset=8" alt="Productive Time"/>
+</div>
 
 ---
 
