@@ -87,19 +87,14 @@
 
 ## 🏆 Featured Projects
 
-<div align="Left">
-
 ### 📈 Machine Learning Portfolio
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)
-
-- 🎯 **End-to-End Solutions**: ML projects  
-- 📊 **Business Impact**: Models achieving 99.5% recall on video classification, 2x churn prediction improvement  
-- 🛠️ **Production Ready**: Scalable ML pipelines with cloud deployment  
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)  
+- **End-to-End Solutions**: ML projects  
+- **Business Impact**: Models achieving 99.5% recall  
 
 ### 📊 Data Analytics Showcase
-[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=tokyonight&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics.git)
-   
-- 🔍 **Insights**: Statistical modeling and exploratory data analysis  
+[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)  
+- **Insights**: Statistical modeling   
 
 ### 🎯 Real-Time Audio Translation
 - 🚀 **Breakthrough Innovation**: Multilingual transcription with code-switching detection under noisy conditions  
