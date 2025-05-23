@@ -168,10 +168,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VinodAnbalagan&theme=graywhite&utc_offset=8" alt="Productive Time"/>
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
