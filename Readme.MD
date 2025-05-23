@@ -166,10 +166,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VinodAnbalagan&theme=tokyonight&hide_border=true" alt="Coding Activity"/>
-</div>
-
 ---
 ### ⚡ Fun Fact 
 When I'm not training models, I'm probably reading books, learning languages, exploring photography, filmmaking and movement labs!
