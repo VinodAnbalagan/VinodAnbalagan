@@ -112,10 +112,10 @@
 <details>
 <summary><b>🏫 Formal Education</b></summary>
   
-- 🇨🇦 University of Toronto - Data Science & Machine Learning Certification  
+- 🏛️ University of Toronto - Data Science & Machine Learning Certification  
 - 🏛️ Stanford University - Machine Learning Specialization  
-- 🏛️ University of Pennsylvania - AI, ML Essentials & Statistics  
-- 🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design  
+- 🏛️ University of Windsor - Master of Applied Science - Electrical Engineering 
+- 🏛️ Anna University - Bachelor of Engineering - Electronics and Communicaiton Engineering 
 </details>
 <details>
 <summary><b>🏅 Professional Certifications</b></summary>
@@ -124,9 +124,12 @@
 - 🤖 NVIDIA - AI Operations & Infrastructure Fundamentals  
 - 📊 Wolfram Research - ML Statistical Foundations Professional Certificate  
 - 📈 Google - Advanced Data Analytics Professional Certificate  
-- ☁️ AWS - Cloud Technical Essentials  
-- 🐍 OpenEDG Python Institute - Programming with Python Professional  
-- 🐧 Canonical - Linux Professional Certification  
+- 🏛️ University of Pennsylvania - AI, ML Essentials & Statistics 
+- 🐍 OpenEDG Python Institute - Programming with Python Professional
+- 🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design 
+- ☁️ AWS - Cloud Technical Essentials 
+- 🐧 Canonical - Linux Professional Certification 
+
 </details>
 
 ---
