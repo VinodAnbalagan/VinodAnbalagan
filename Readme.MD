@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
 - 🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
-- 🤖 Passion Project: ClearVision - GANs for self-driving car vision in adverse weather
+- 🤖 Passion Project: 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝟑𝐃 𝐀𝐈 𝐖𝐨𝐫𝐥𝐝𝐬 𝐰𝐢𝐭𝐡 𝐔𝐒𝐃: Actively researching and prototyping with Universal Scene Description (USD) to create and simulate advanced 3D environments. Driving innovation in AR/VR applications for transformative solutions in healthcare, next-generation robotics, and AI-powered immersive storytelling. Continues to explore GANs and 3D perception models for robust autonomous systems and deepfake detection through the "ClearVision" project.
 - 🌍 Open to: Relocation and research-driven collaborations
 
 ---
