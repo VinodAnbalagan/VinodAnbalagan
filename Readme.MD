@@ -13,25 +13,7 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 <details> <summary> Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization </summary> 
-  A 16-week accelerated training on foundations and practical applications of Machine Learning.
-
-- **Programming**: Mastered python programming with object-oriented design,  implemented reusable functions, and developed scalable algorithms with optimized time/space complexity using Big-O analysis. 
-
-- **Data Engineering & Pipeline Management**: Architected robust data ingestion workflows, executed SQL database operations, and managed flat-files datasets(CSV/JSON) with advanced query optimization and relational database design. 
-
-- **Machine Learning & Statistical Modelling**: Engineered supervised learning models (regression, classification, clustering) with cross-validation and bootstrapping techniques, emphasizing bias-variance trade-offs and model interpretability. 
-
-- **Deep Learning & Neural Networks**: Implemented CNNs & RNNs for image processing and NLP applications using Keras//Tensorflow/Pytorch, with expertise in sequence-to-sequence models and attention mechanisms. 
-
-- **Data Analysis & Visualization**: Leveraged Numpy, Pandas for data manipulation and created compelling visualizations using Matplotlib, Seaborn, and Plotly for stakeholder communication. 
-
-- **MLOps & Production Systems**: Designed scalable ML infrastructure with experiment tracking, hyper parameter tuning, model monitoring, and automated deployment pipelines. 
-
-- **Algorithm & Optimization**: Applied advanced data structures, recursive problem-solving, and optimization techniques to enhance model performance and computational efficiency. 
-
-- **Development Operations**: Managed collaborative development using Git/GitHub version control and Unix shell environments for reproducible research workflows.
-</details>
+- 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
 - 🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
 - 🤖 Passion Project: Building AI 3D worlds with USD.
 - 🌍 Open to: Relocation and research-driven collaborations
