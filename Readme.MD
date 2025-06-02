@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
 - 🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
-- 🤖 Passion Project: 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝟑𝐃 𝐀𝐈 𝐖𝐨𝐫𝐥𝐝𝐬 𝐰𝐢𝐭𝐡 𝐔𝐒𝐃: Actively researching and prototyping with Universal Scene Description (USD) to create and simulate advanced 3D environments. Driving innovation in AR/VR applications for transformative solutions in healthcare, next-generation robotics, and AI-powered immersive storytelling. Continues to explore GANs and 3D perception models for robust autonomous systems and deepfake detection through the "ClearVision" project.
+- 🤖 Passion Project: Building AI 3D worlds with USD.
 - 🌍 Open to: Relocation and research-driven collaborations
 
 ---
@@ -99,10 +99,8 @@
 - 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
 
-### 🤖 ClearVision: Self-Driving Car Vision
-- 🌦️ **Computer Vision**: GANs for robust scene understanding in challenging conditions  
-- 🔬 **Research Focus**: Image-to-image translation, real-time object detection  
-- 🎯 **Goal**: Enhancing safety and reliability of autonomous vehicles
+### 🤖 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝟑𝐃 𝐀𝐈 𝐖𝐨𝐫𝐥𝐝𝐬 𝐰𝐢𝐭𝐡 𝐔𝐒𝐃: Actively researching and prototyping with Universal Scene Description (USD) to create and simulate advanced 3D environments. Driving innovation in AR/VR applications for transformative solutions in healthcare, next-generation robotics, and AI-powered immersive storytelling. Continues to explore GANs and 3D perception models for robust autonomous systems and deepfake detection through the "ClearVision" project.
+
   
 </div>
 
