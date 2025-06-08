@@ -99,8 +99,12 @@
 - 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
 
-### 🤖 Building AI 3D worlds with USD 
-Actively researching and prototyping with Universal Scene Description (USD) to create and simulate advanced 3D environments. Driving innovation in AR/VR applications for transformative solutions in healthcare, next-generation robotics, and AI-powered immersive storytelling. Continues to explore GANs and 3D perception models for robust autonomous systems and deepfake detection through the "ClearVision" project.
+### 🤖 Mastering 3D & Generative Models
+My current focus is on mastering 3D AI to create and simulate advanced 3D environments.
+I'm passionately working to deliver transformative solutions in healthcare, autonomous vehicles, and immersive AI experiences.
+
+This involves hands-on implementation of 3D perception models and leveraging generative AI (GANs).
+My 'ClearVision' project exemplifies this, aiming to build robust autonomous systems and enhance deepfake detection capabilities.
 
   
 </div>
