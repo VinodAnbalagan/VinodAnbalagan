@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🎓 Advancing ML Education: University of Toronto Data Science & ML Certification + Stanford ML Specialization
 - 🔬 Current Focus: Real-time multilingual audio translation with code-switching detection at M2M Tech
-- 🤖 Passion Project: Building AI 3D worlds with USD.
+- 🤖 Passion Project: Mastering 3D AI to create and simulate advanced 3D environments. I'm passionately working to deliver transformative solutions in healthcare, autonomous vehicles, and immersive AI experiences.
 - 🌍 Open to: Relocation and research-driven collaborations
 
 ---
