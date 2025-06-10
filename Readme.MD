@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🎓 **Advancing ML Education**: University of Toronto Data Science & ML Certification + Stanford ML Specialization
 - 🔬 **Current Focus**: Real-time multilingual audio translation with code-switching detection at M2M Tech
-- 🤖 **Passion Project**: Mastering 3D AI to create and simulate advanced 3D environments. I'm passionately working to deliver transformative solutions in healthcare, autonomous vehicles, and immersive AI experiences.
+- 🤖 **Passion Project**: Mastering 3D AI to create and simulate advanced 3D environments. I'm passionately working to deliver transformative solutions in tech, healthcare, autonomous vehicles, and immersive AI experiences.
 - 🌍 **Open to**: Relocation and research-driven collaborations
 
 ---
@@ -100,8 +100,8 @@
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
 
 ### 🤖 Mastering 3D & Generative Models
-My current focus is on mastering 3D AI to create and simulate advanced 3D environments.
-I'm passionately working to deliver transformative solutions in healthcare, autonomous vehicles, and immersive AI experiences.
+I am actively developing expertise in 3D AI to create and simulate advanced 3D environments.
+I'm passionately working to deliver transformative solutions in tech, healthcare, autonomous vehicles, and immersive AI experiences.
 
 This involves hands-on implementation of 3D perception models and leveraging generative AI (GANs).
 My 'ClearVision' project exemplifies this, aiming to build robust autonomous systems and enhance deepfake detection capabilities.
