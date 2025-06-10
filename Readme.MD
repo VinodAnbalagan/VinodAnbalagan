@@ -185,8 +185,6 @@ My 'ClearVision' project exemplifies this, aiming to build robust autonomous sys
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VinodAnbalagan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/VinodAnbalagan?label=Followers&style=social" alt="followers" />
 </p>
 
 <div align="center">
