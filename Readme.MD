@@ -163,7 +163,7 @@ My 'ClearVision' project exemplifies this, aiming to build robust autonomous sys
 
 ### 📊 Detailed Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=graywhite&hide_border=true" alt="Streak Stats"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=graywhite&hide_border=true" alt="Streak Stats"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Top Languages"/>
 </div>
 
