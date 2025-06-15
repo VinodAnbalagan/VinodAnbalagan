@@ -86,16 +86,13 @@
 ## 🏆 Featured Projects
 
 ### 📈 Machine Learning Portfolio
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)  
-- **End-to-End Solutions**: ML projects  
-- **Business Impact**: Models achieving 99.5% recall  
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)   
 
  ### 📈 Deep Learning Portfolio
-[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning.git)  
-- **End-to-End Solutions**: DL projects  
+[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning.git)   
 
 ### 🎯 Real-Time Audio Translation
-- 🚀 **Breakthrough Innovation**: Multilingual transcription with code-switching detection under noisy conditions  
+- 🚀 **ML Project**: Multilingual transcription with code-switching detection under noisy conditions  
 - 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
 
