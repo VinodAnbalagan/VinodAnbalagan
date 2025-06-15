@@ -90,14 +90,18 @@
 - **End-to-End Solutions**: ML projects  
 - **Business Impact**: Models achieving 99.5% recall  
 
-### 📊 Data Analytics Showcase
-[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)  
-- **Insights**: Statistical modeling   
+ ### 📈 Deep Learning Portfolio
+[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning.git)  
+- **End-to-End Solutions**: DL projects  
 
 ### 🎯 Real-Time Audio Translation
 - 🚀 **Breakthrough Innovation**: Multilingual transcription with code-switching detection under noisy conditions  
 - 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
+
+### 📊 Data Analytics Showcase
+[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)  
+- **Insights**: Statistical modeling  
 
 ### 🤖 Mastering 3D & Generative Models
 I am actively developing expertise in 3D AI to create and simulate advanced 3D environments.
