@@ -91,7 +91,7 @@
  ### 📈 Deep Learning Portfolio
 [![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning.git)   
 
-### 🎯 Real-Time Audio Translation
+### 🎯 Real-Time Audio Translation (In Progress)
 - 🚀 **ML Project**: Multilingual transcription with code-switching detection under noisy conditions  
 - 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
 - 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
