@@ -151,7 +151,7 @@ My 'ClearVision' project exemplifies this, aiming to build robust autonomous sys
 
 🚀 **Innovation Projects**
 - Real-time translation with code-switching detection
-- Computer vision using GANs for weather robustness
+- Clear Vision project
         
 ---
 
