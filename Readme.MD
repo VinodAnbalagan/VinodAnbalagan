@@ -85,16 +85,14 @@
 
 ## 🏆 Featured Projects
 
-### 📈 Machine Learning Portfolio
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects)   
-
- ### 📈 Deep Learning Portfolio
+### 📈 Deep Learning Portfolio
 [![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning.git)   
 
-### 🎯 Real-Time Audio Translation (In Progress)
-- 🚀 **ML Project**: Multilingual transcription with code-switching detection under noisy conditions  
-- 🔧 **Tech Stack**: Python, pytorch, Speech Recognition APIs, Real-time Processing  
-- 💡 **Impact**: Low-latency translation enabling seamless multilingual communication  
+### 📈 Machine Learning Portfolio
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects) 
+
+### 🎯 Global Sounds
+[![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global-sound) 
 
 ### 📊 Data Analytics Showcase
 [![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)  
