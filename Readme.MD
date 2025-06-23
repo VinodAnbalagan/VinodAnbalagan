@@ -14,7 +14,6 @@
 
 ## 🚀 About Me
 - 🎓 **Advancing ML Education**: University of Toronto Data Science & ML Certification + Stanford ML Specialization
-- 🔬 **Current Focus**: Real-time multilingual audio translation with code-switching detection at M2M Tech
 - 🤖 **Career Focus**: Machine Learning, Deep Learning, Computer Vision, Large Language Models, and 3D AI Perception. Innovating for Tech, healthcare, autonomous systems, and advanced robotics.
 - 🌍 **Open to**: Relocation and research-driven collaborations
 
