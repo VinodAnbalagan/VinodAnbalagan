@@ -98,7 +98,7 @@
 - **Insights**: Statistical modeling  
 
 ### 🤖 Mastering 3D & Generative Models
-I am actively developing expertise in 3D AI to create and simulate advanced 3D environments.
+Passion project: I am actively developing expertise in Computer Vision and 3D AI to create and simulate advanced 3D environments.
 I'm passionately working to deliver transformative solutions in tech, healthcare, autonomous vehicles, and immersive AI experiences.
 
 This involves hands-on implementation of 3D perception models and leveraging generative AI (GANs).
@@ -147,7 +147,7 @@ My 'ClearVision' project exemplifies this, aiming to build robust autonomous sys
 - Data labeling systems: 98% accuracy
 
 🚀 **Innovation Projects**
-- Real-time translation with code-switching detection
+- Multilingual AI Video transcribing & translation with noise cancellation on HuggingFace Spaces
 - Clear Vision project
         
 ---
