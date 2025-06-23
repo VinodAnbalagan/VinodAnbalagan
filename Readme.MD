@@ -94,8 +94,7 @@
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects) 
 
 ### 📊 Data Analytics Showcase
-[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)  
-- **Insights**: Statistical modeling  
+[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)   
 
 ### 🤖 Mastering 3D & Generative Models
 Passion project: I am actively developing expertise in Computer Vision and 3D AI to create and simulate advanced 3D environments.
