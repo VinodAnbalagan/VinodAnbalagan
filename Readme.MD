@@ -155,8 +155,8 @@ My 'ClearVision' project exemplifies this, aiming to build robust autonomous sys
 
 🎯 Contribution Stats
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&custom_title=Vinod's%20GitHub%20Stats" alt="Vinod's GitHub Stats"/>
+  <!-- GitHub Stats Card (Corrected) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=graywhite&hide_border=true&custom_title=Vinod's%20GitHub%20Stats" alt="Vinod's GitHub Stats"/>
   
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Vinod's Top Languages"/>
