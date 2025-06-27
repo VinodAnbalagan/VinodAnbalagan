@@ -4,7 +4,7 @@
   <!-- Custom header with neural network theme -->
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
   <!-- Animated typing with clean background -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+Solutions;Python+%7C+TensorFlow+%7C+PyTorch;Real-time+ML+%26+Deep+Learning;Transforming+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+Solutions;Python+%7C+TensorFlow+%7C+PyTorch;ML+%26+Deep+Learning;Transforming+Data+into+Intelligence" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinod-anbalagan/">
