@@ -3,17 +3,9 @@ Hi Vinod! Here is the updated README with all icons animated.
 I've kept the placeholder for your banner GIF as requested.
 -->
 
-<!-- 
-STEP 1: YOUR ANIMATED BANNER
-Replace the image source below with a URL to your chosen GIF.
--->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdxOW10ZHNzN2w1NDc4cTRnbjAwZHVjMG53azRuc3dmb2cyNmVzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1JjnyI3D7i00/giphy.gif" width="600" alt="Animated AI Banner Placeholder"/>
-</p>
-
-<!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Vinod+Anbalagan;Machine+Learning+Engineer;AI+%26+Deep+Learning+Enthusiast;Transforming+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%" />
+  <h1>Vinod Anbalagan</h1>
 </div>
 
 <!-- Social Links & Profile Views -->
