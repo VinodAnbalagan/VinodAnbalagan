@@ -88,7 +88,7 @@
 [![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global-sound) 
 
 ### 📈 Deep Learning Portfolio
-[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning.git)   
+[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning_Experiments&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning_Experiments.git)   
 
 ### 📈 Machine Learning Portfolio
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects) 
