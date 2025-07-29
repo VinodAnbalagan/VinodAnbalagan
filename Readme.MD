@@ -84,6 +84,10 @@
 
 ## 🏆 Featured Projects
 
+### 🎯 Customer_Analytics_Platform
+[![Customer Analytics Prediction](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors.git) 
+[Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
+
 ### 🎯 Global Sounds
 [![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global-sound) 
 
@@ -95,13 +99,6 @@
 
 ### 📊 Data Analytics Showcase
 [![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)   
-
-### 🤖 Mastering 3D & Generative Models
-Passion project: I am actively developing expertise in Computer Vision and 3D AI to create and simulate advanced 3D environments.
-I'm passionately working to deliver transformative solutions in tech, healthcare, autonomous vehicles, and immersive AI experiences.
-
-This involves hands-on implementation of 3D perception models and leveraging generative AI (GANs).
-My 'ClearVision' project exemplifies this, aiming to build robust autonomous systems and enhance deepfake detection capabilities.
 
   
 </div>
