@@ -95,8 +95,10 @@
 [![Customer Analytics Prediction](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Customer_Purchasing_Behaviors&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors.git) 
 - [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 
+### 🎯 Global Sounds Evolution (Version 2.0)
+[![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global_sound_evolution&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global_sound_evolution) 
 
-### 🎯 Global Sounds
+### 🎯 Global Sounds (Version 1.0)
 [![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global-sound) 
 
 ### 📈 Deep Learning Portfolio
