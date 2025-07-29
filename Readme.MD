@@ -85,8 +85,8 @@
 ## 🏆 Featured Projects
 
 ### 🎯 Customer_Analytics_Platform
-[Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 [![Customer Analytics Prediction](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors.git) 
+- [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 
 
 ### 🎯 Global Sounds
