@@ -13,8 +13,9 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **Advancing ML Education**: University of Toronto Data Science & ML Certification + Stanford ML Specialization
-- 🤖 **Career Focus**: Machine Learning, Deep Learning, Computer Vision, Gen AI, and 3D AI Perception. 
+Data professional with 5+ years driving business decisions through analytics, now advancing into machine learning and AI. Recently completed intensive ML training at University of Toronto and Stanford, combining my proven analytical foundation with cutting-edge AI/ML techniques.
+
+- 🤖 **Career Focus**: Machine Learning, Deep Learning, Computer Vision, and Gen AI.  
 - 🌍 **Open to**: Relocation and research-driven collaborations. 
 
 ---
