@@ -10,13 +10,20 @@
   <a href="https://www.linkedin.com/in/vinod-anbalagan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://huggingface.co/vinod-anbalagan">
+    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=flat-square" alt="Hugging Face"/>
+  </a>
 </p>
 
 ## 🚀 About Me
-Data professional with 6+ years optimizing business operations through analytics, now advancing into machine learning and AI. Recently completed intensive ML training at University of Toronto and Stanford, combining my proven analytical foundation with cutting-edge AI/ML techniques.
 
-- 🤖 **Career Focus**: Machine Learning, Deep Learning, Computer Vision, and Gen AI.  
-- 🌍 **Open to**: Relocation and research-driven collaborations. 
+Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. Currently developing AI solutions at M2M Tech, specializing in multimodal intelligence, computer vision, and NLP applications.
+
+**🔬 Research Interests:** Deep Learning (Computer Vision, LLMs) and Reinforcement Learning  
+**🛠️ Current Focus:** Production ML systems, MLOps, and open-source AI tools  
+**🌍 Open to:** Remote collaborations, research partnerships, and innovative ML projects  
+
+**🚀 Deployed Models:** Check out my live ML applications on [Hugging Face](https://huggingface.co/vinod-anbalagan) - from real-time inference to interactive demos!
 
 ---
 
@@ -92,26 +99,37 @@ Data professional with 6+ years optimizing business operations through analytics
 
 ## 🏆 Featured Projects
 
-### 📊 Customer_Analytics_Platform
-[![Customer Analytics Prediction](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Customer_Purchasing_Behaviors&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors.git) 
-- [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
-
-### 🎯 Global Sounds Evolution (Version 2.0)
+### 🎬 Global Sound Evolution (Version 2.0) - AI-Powered Multilingual Video Processor
 [![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global_sound_evolution&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global_sound_evolution) 
+- **Live Demo:** [HuggingFace Space](https://huggingface.co/spaces/vinod-anbalagan/global-sound-evolution)
+- **Tech Stack:** Whisper, mBART-50, T5, PyTorch
+- **Impact:** 95% accuracy on noise-resilient speech recognition
+
+### 📊 Customer Analytics Platform - End-to-End ML Pipeline
+[![Customer Analytics Prediction](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Customer_Purchasing_Behaviors&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors.git) 
+- **Live Demo:** [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
+- **Business Impact:** 15-20% churn reduction, 10-15% revenue increase projections
+- **Features:** Real-time customer scoring, interactive UI deployment
+
+### 🎯 TikTok Content Classifier - Production-Ready ML Model
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects) 
+- **Achievement:** 99.5% recall accuracy (5 misclassifications out of 3,817)
+- **Tech Stack:** Random Forest, XGBoost, Feature Engineering
+- **Application:** Content moderation and recommendation systems
+
+### 🧠 Deep Learning Experiments - Research & Development
+[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning_Experiments&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning_Experiments.git)   
+- **Focus Areas:** Computer Vision, NLP, Transformer Architectures
+- **Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers
+
+### 📈 Data Analytics Showcase - Business Intelligence Solutions
+[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)   
+- **Business Impact:** $500K stockout prevention, 25% cost reduction
+- **Tools:** Python, SQL, Tableau, Advanced Analytics
 
 ### 🎯 Global Sounds (Version 1.0)
 [![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global-sound) 
 
-### 📈 Deep Learning Portfolio
-[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning_Experiments&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning_Experiments.git)   
-
-### 📈 Machine Learning Portfolio
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects) 
-
-### 📊 Data Analytics Showcase
-[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)   
-
-  
 </div>
 
 ---
@@ -123,7 +141,7 @@ Data professional with 6+ years optimizing business operations through analytics
 - 🏛️ University of Toronto - Data Science & Machine Learning Certification  
 - 🏛️ Stanford University - Machine Learning Specialization  
 - 🏛️ University of Windsor - Master of Applied Science - Electrical Engineering 
-- 🏛️ Anna University - Bachelor of Engineering - Electronics and Communicaiton Engineering 
+- 🏛️ Anna University - Bachelor of Engineering - Electronics and Communication Engineering 
 </details>
 <details>
 <summary><b>🏅 Professional Certifications</b></summary>
@@ -145,17 +163,19 @@ Data professional with 6+ years optimizing business operations through analytics
 ## 📈 Achievement Highlights
 
 🎯 **Model Performance Excellence**
-- Video classification: 99.5% recall accuracy
-- Churn prediction: 2x improvement boost  
+- **Video Classification:** 99.5% recall accuracy on TikTok content moderation
+- **Speech Recognition:** 95% accuracy on challenging multilingual audio
+- **Customer Segmentation:** 15-20% projected churn reduction
 
 💼 **Business Impact**
-- Generated 25% cost savings in procurement through dashboards
-- Led Cross-functional teams Analytics
-- Data labeling systems: 98% accuracy
+- **Revenue Growth:** 25% increase through predictive analytics at Mama Earth Organics
+- **Cost Optimization:** $500K stockout prevention + 20% waste reduction at Whole Foods  
+- **Operational Efficiency:** 15 hours weekly saved through automated reporting systems
 
-🚀 **Innovation Projects**
-- Multilingual AI Video transcribing & translation with noise cancellation on HuggingFace Spaces
-- Clear Vision project
+🚀 **Open Source Contributions**
+- **HuggingFace Deployments:** Multiple live ML applications serving real users
+- **Production ML Systems:** End-to-end pipelines from data ingestion to model deployment
+- **Research Focus:** Active exploration in Deep Learning and Reinforcement Learning
         
 ---
 
@@ -184,6 +204,9 @@ Data professional with 6+ years optimizing business operations through analytics
   <a href="https://github.com/VinodAnbalagan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://huggingface.co/vinod-anbalagan">
+    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=for-the-badge" alt="Hugging Face"/>
+  </a>
 </p>
 
 <p align="center">
@@ -191,7 +214,7 @@ Data professional with 6+ years optimizing business operations through analytics
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+collaborations+%7C+Research+discussions;AI+%26+ML+project+opportunities;Let's+build+the+future+together!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+ML+research+collaborations;Deep+Learning+%26+RL+enthusiast;Building+the+future+with+AI!" alt="Footer Typing SVG" />
 </div>
 
 ---
