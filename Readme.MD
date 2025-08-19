@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. Currently developing AI solutions at M2M Tech, specializing in multimodal intelligence, computer vision, and NLP applications.
+Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. Currently developing AI solutions, specializing in multimodal intelligence and computer vision applications.
 
 **🔬 Research Interests:** Deep Learning (Computer Vision, LLMs) and Reinforcement Learning  
 **🛠️ Current Focus:** Production ML systems, MLOps, and open-source AI tools  
