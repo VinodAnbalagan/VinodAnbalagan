@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm 
-
 <div align="center">
   <!-- Custom header with neural network theme -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20%26%20ML%20Professional%20%7C%20AI%20Solutions%20Builder&descAlignY=55&descSize=20"/>
   <!-- Animated typing with clean background -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+Solutions;Python+%7C+TensorFlow+%7C+PyTorch;ML+%26+Deep+Learning;Transforming+Data+into+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=6%2B+Years+Data+Experience;Operations+%E2%86%92+Analytics+%E2%86%92+ML;Python+%7C+TensorFlow+%7C+PyTorch;Transforming+Business+with+AI" alt="Typing SVG" />
 </div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vinod-anbalagan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,13 +17,16 @@
 
 ## 🚀 About Me
 
-Machine Learning Engineer passionate about building intelligent systems that solve real-world problems. Currently developing AI solutions, specializing in multimodal intelligence and computer vision applications.
+Data & Machine Learning Professional with 6+ years of experience spanning **Operations → Business Analytics → AI/ML Engineering**. I bridge the gap between business understanding and cutting-edge AI technology, having delivered measurable impact including 25% revenue increases and $500K+ cost savings.
 
-**🔬 Research Interests:** Deep Learning (Computer Vision, LLMs) and Reinforcement Learning  
-**🛠️ Current Focus:** Production ML systems, MLOps, and open-source AI tools  
-**🌍 Open to:** Remote collaborations, research partnerships, and innovative ML projects  
+**📈 Career Evolution:** Started in operations, advanced through business optimization and analytics, now building production ML systems with expertise from University of Toronto and Stanford ML programs.
 
-**🚀 Deployed Models:** Check out my live ML applications on [Hugging Face](https://huggingface.co/vinod-anbalagan) - from real-time inference to interactive demos!
+**🔬 Research Interests:** Multimodal AI, Computer Vision, NLP, and Reinforcement Learning  
+**🛠️ Current Focus:** Production ML systems, MLOps, and real-time AI applications  
+**💼 Proven Impact:** 6+ years driving data-driven decisions across multiple industries  
+**🌍 Open to:** Data Science, ML Engineering roles, research partnerships, and innovative AI projects  
+
+**🚀 Live ML Applications:** Check out my deployed models on [Hugging Face](https://huggingface.co/vinod-anbalagan) - from multilingual translation to content classification with 99.5% recall!
 
 ---
 
