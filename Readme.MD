@@ -100,7 +100,7 @@ Data & Machine Learning Professional with 6+ years of experience spanning **Oper
 
 ## 🏆 Featured Projects
 
-### FrankenBERT: When AI Specialists Collide (Model Merging)
+### FrankenBERT: When AI Specialists Collide (Model Merging - Part of Cohere Research Scholar Application)
 [![FrankenBERT](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=FrankenBERT_Cohere_Scholar_Application_Experiment&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/FrankenBERT_Cohere_Scholar_Application_Experiment) 
 - **Abstract:** This research investigates what happens when two AI specialists are merged into a single model. By training separate "Poet" (sentiment analysis) and "Scientist" (news classification) models, then combining them through parameter averaging, we discovered catastrophic interference - the merged model performs poorly on both tasks despite each specialist achieving >90% accuracy individually.
 - **Key Finding:** Simple model merging destroys specialist expertise rather than combining it, with performance dropping by 36-83% across tasks.
