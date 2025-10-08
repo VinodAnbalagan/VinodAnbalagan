@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Data & Machine Learning Professional with 6+ years of experience spanning **Operations → Business Analytics → AI/ML Engineering**. I bridge the gap between business understanding and cutting-edge AI technology, having delivered measurable impact including 25% revenue increases and $500K+ cost savings.
+Data & Machine Learning Professional with 6+ years of experience spanning **Operations → Business Optimization → AI/ML Engineering**. I bridge the gap between business understanding and cutting-edge AI technology, having delivered measurable impact including 25% revenue increases and $500K+ cost savings.
 
 **📈 Career Evolution:** Started in operations, advanced through business optimization and analytics, now building production ML systems with expertise from University of Toronto and Stanford ML programs.
 
