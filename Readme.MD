@@ -3,7 +3,9 @@
   <!-- Custom header with neural network theme -->
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20practitioner&descAlignY=55&descSize=20"/>
   <!-- Animated typing with clean background -->
-  <img src="https://readme-typing-svg.herokuapp.com?  font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00796B&center=true&vCenter=true&width=600&lines=6%2B+Years+Experience;Operations+%E2%86%92+Analytics+%E2%86%92+AI/ML;Python+%7C+TensorFlow+%7C+PyTorch;Transforming+Business+with+AI" alt="Typing SVG" />
+  <div align="center">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20practitioner&descAlignY=55&descSize=20"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00796B&center=true&vCenter=true&width=600&lines=6%2B+Years+Experience;Operations+%E2%86%92+Analytics+%E2%86%92+AI/ML;Python+%7C+TensorFlow+%7C+PyTorch;Transforming+Business+with+AI" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
