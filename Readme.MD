@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=6%2B+Years+Experience;Operations+%E2%86%92+Analytics+%E2%86%92+AI/ML;Python+%7C+TensorFlow+%7C+PyTorch;Transforming+Business+with+AI" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinod-anbalagan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://huggingface.co/vinod-anbalagan">
-    <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=flat-square" alt="Hugging Face"/>
-  </a>
-</p>
-
 ## 🚀 About Me
 
 Data & Machine Learning Professional with 6+ years of experience spanning **Operations → Business Optimization → AI/ML Engineering**. I bridge the gap between business understanding and cutting-edge AI technology, having delivered measurable impact including 25% revenue increases and $500K+ cost savings.
