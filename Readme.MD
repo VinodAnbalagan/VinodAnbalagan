@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm 
 <div align="center">
-  <!-- Custom header with neural network theme -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20practitioner&descAlignY=55&descSize=20"/>
   <!-- Animated typing with clean background -->
   <div align="center">
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20practitioner&descAlignY=55&descSize=20"/>
