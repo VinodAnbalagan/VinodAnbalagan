@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm 
 <div align="center">
   <!-- Animated typing with clean background -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20ML%20Engineer%20%7C%20and%20Researcher&descAlignY=55&descSize=20"/>
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20and%20Researcher&descAlignY=55&descSize=20"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00796B&center=true&vCenter=true&width=600&lines=6%2B+Years+Experience;Operations+%E2%86%92+Analytics+%E2%86%92+AI/ML;Python+%7C+TensorFlow+%7C+PyTorch;Transforming+Business+with+AI" alt="Typing SVG" />
 </div>
 
@@ -11,11 +11,16 @@
 
 **📈 Career Evolution:** Started in operations, advanced through business optimization and analytics, now building production ML systems with expertise from University of Toronto and Stanford ML programs.
 
-**🔬 Research Philosophy:** Intelligence arises from architectural innovation - investigating model merging, multi-agent systems, reinforcement learning, and alternative approaches to learning and reasoning 
-**🛠️ Active Experiments:** Building research tools (AI agents for paper study), probing neural network knowledge composition (FrankenBERT), and exploring multimodal intelligence  
-**✍️ Thinking out Loud:** Writing technical explorations and philosophical musings on AI, AGI, and consciousness at Gradient Ascent  
+**🔬 Research Philosophy:** Intelligence arises from architectural innovation - investigating model merging, multi-agent systems, reinforcement learning, and alternative approaches to learning and reasoning. 
+
+**🛠️ Active Experiments:** Building research tools (AI agents for paper study), probing neural network knowledge composition (FrankenBERT), and exploring multimodal intelligence.  
+
+**✍️ Thinking out Loud:** Writing technical explorations and philosophical musings on AI, AGI, and consciousness at Gradient Ascent.  
+
 **🛠️ Production Experience**: 6+ years building real-world ML systems - from computer vision to NLP to multimodal AI. I know what works in production AND what's missing for true intelligence.
-**🎓 Learning Path**: Stanford ML | UofT ML Certification | Planning 2nd Masters in AI to dive deeper into research
+
+**🎓 Learning Path**: Stanford ML | UofT ML Certification | Planning 2nd Masters in AI to dive deeper into research.
+
 **🌍 Open to:** Research collaborations, philosophical debates on AGI, building the weird/experimental stuff that might not work (but might change everything) 
 
 ---
