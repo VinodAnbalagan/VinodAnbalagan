@@ -89,27 +89,23 @@
 ### Research Paper Chat | Multi-Agent AI System for Academic Research
 Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
 [Live Demo](https://vinodanbalagan-research-paper-chat-app-x3nxo4.streamlit.app/) | [Substack](https://substack.com/@vinodanbalagan/note/p-180365459?utm_source=notes-share-action&r=g5tza) 
-
 - Architected and deployed a production-ready multi-agent system using Google Gemini 2.0 Flash that reduces research paper study time by 40-60% through specialized AI agents (Math, Code, Concept, Quiz, Chat)
 - Implemented intelligent routing orchestrator that analyzes query intent and paper content to dynamically delegate tasks to domain-specific agents, optimizing response quality and relevance
 - Designed PDF parsing pipeline with robust section extraction using regex patterns and fallback strategies, handling diverse paper formats with 80%+ success rate
 - Deployed full-stack application to Streamlit Cloud with CI/CD integration, environment-aware configuration management, and comprehensive error handling for production reliability
 - Demonstrated expertise in agent orchestration, context engineering, state management, observability patterns, and cost-optimized LLM deployment (~$0.001 per query)
 
-### FrankenBERT: When AI Specialists Collide (Model Merging - Part of Cohere Research Scholar Application)
-[![FrankenBERT](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=FrankenBERT_Cohere_Scholar_Application_Experiment&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/FrankenBERT_Cohere_Scholar_Application_Experiment) 
+### FrankenBERT: When AI Specialists Collide (Model Merging - Part of Cohere Research Scholar Application) 
 - **Abstract:** This research investigates what happens when two AI specialists are merged into a single model. By training separate "Poet" (sentiment analysis) and "Scientist" (news classification) models, then combining them through parameter averaging, we discovered catastrophic interference - the merged model performs poorly on both tasks despite each specialist achieving >90% accuracy individually.
 - **Key Finding:** Simple model merging destroys specialist expertise rather than combining it, with performance dropping by 36-83% across tasks.
 
 
 ### 🎬 Global Sound Evolution (Version 2.0) - AI-Powered Multilingual Video Processor
-[![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global_sound_evolution&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global_sound_evolution) 
 - **Live Demo:** [HuggingFace Space](https://huggingface.co/spaces/vinod-anbalagan/global-sound-evolution)
 - **Tech Stack:** Whisper, mBART-50, T5, PyTorch
 - **Impact:** 95% accuracy on noise-resilient speech recognition
 
 ### 📊 Customer Analytics Platform - End-to-End ML Pipeline
-[![Customer Analytics Prediction](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Customer_Purchasing_Behaviors&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Customer_Purchasing_Behaviors.git) 
 - **Live Demo:** [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 - **Business Impact:** 15-20% churn reduction, 10-15% revenue increase projections
 - **Features:** Real-time customer scoring, interactive UI deployment
