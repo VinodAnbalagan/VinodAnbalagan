@@ -168,6 +168,9 @@ Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
   
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Vinod's Top Languages"/>
+
+### 📈 Last 31 Days Activity Graph
+[![Vinod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VinodAnbalagan&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
