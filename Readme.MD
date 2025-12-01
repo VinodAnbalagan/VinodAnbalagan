@@ -87,8 +87,6 @@
 ## 🏆 Featured Projects
 
 ### Research Paper Chat | Multi-Agent AI System for Academic Research
-[![Research Paper Chat](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=research-paper-chat&theme=graywhite&show_owner=true)]
-
 Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
 [Live Demo](https://vinodanbalagan-research-paper-chat-app-x3nxo4.streamlit.app/) | [Substack](https://substack.com/@vinodanbalagan/note/p-180365459?utm_source=notes-share-action&r=g5tza) 
 
