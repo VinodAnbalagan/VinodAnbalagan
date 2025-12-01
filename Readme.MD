@@ -187,6 +187,9 @@ Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
   <a href="https://huggingface.co/vinod-anbalagan">
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=for-the-badge" alt="Hugging Face"/>
   </a>
+  <a href="https://share.streamlit.io/VinodAnbalagan">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
 </p>
 
 <p align="center">
