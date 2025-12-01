@@ -88,6 +88,7 @@
 
 ### Research Paper Chat | Multi-Agent AI System for Academic Research
 [![Research Paper Chat](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=research-paper-chat&theme=graywhite&show_owner=true)]
+
 Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
 [Live Demo](https://vinodanbalagan-research-paper-chat-app-x3nxo4.streamlit.app/) | [Substack](https://substack.com/@vinodanbalagan/note/p-180365459?utm_source=notes-share-action&r=g5tza) 
 
@@ -114,25 +115,6 @@ Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
 - **Live Demo:** [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
 - **Business Impact:** 15-20% churn reduction, 10-15% revenue increase projections
 - **Features:** Real-time customer scoring, interactive UI deployment
-
-### 🎯 TikTok Content Classifier - Production-Ready ML Model
-[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=ML_Projects&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/ML_Projects) 
-- **Achievement:** 99.5% recall accuracy (5 misclassifications out of 3,817)
-- **Tech Stack:** Random Forest, XGBoost, Feature Engineering
-- **Application:** Content moderation and recommendation systems
-
-### 🧠 Deep Learning Experiments - Research & Development
-[![DL Projects](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Deep_Learning_Experiments&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Deep_Learning_Experiments.git)   
-- **Focus Areas:** Computer Vision, NLP, Transformer Architectures
-- **Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers
-
-### 📈 Data Analytics Showcase - Business Intelligence Solutions
-[![Data_Analytics](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=Data_Analytics&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/Data_Analytics)   
-- **Business Impact:** $500K stockout prevention, 25% cost reduction
-- **Tools:** Python, SQL, Tableau, Advanced Analytics
-
-### 🎯 Global Sounds (Version 1.0)
-[![Global Sound](https://github-readme-stats.vercel.app/api/pin/?username=VinodAnbalagan&repo=global-sound&theme=graywhite&show_owner=true)](https://github.com/VinodAnbalagan/global-sound) 
 
 </div>
 
