@@ -1,9 +1,10 @@
 # Hi there! 👋 I'm 
 <div align="center">
   <!-- Animated typing with clean background -->
-  <div align="center">
-    <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Professional%20and%20AI/ML%20Researcher&descAlignY=55&descSize=20"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1500&pause=1500&color=00796B&center=true&vCenter=true&width=600&lines=Data+Professional;AI/ML+Researcher;Data+Professional;AI/ML+Researcher" alt="Typing SVG" />
+  # Hi there! 👋 I'm 
+<div align="center">
+    <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20%7C%20TensorFlow%20%7C%20PyTorch%20%7C%20MLOps&descAlignY=55&descSize=20"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1500&pause=1500&color=00796B&center=true&vCenter=true&width=600&lines=Data+Professional;AI/ML+Researcher;Data+Professional;AI/ML+Researcher" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
