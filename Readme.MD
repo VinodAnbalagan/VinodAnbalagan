@@ -1,13 +1,16 @@
-# Hi there! 👋 I'm 
-  <!-- Animated typing with clean background -->
+# Hi there! 👋 I'm Vinod Anbalagan
+
+<!-- Animated typing with clean background -->
 <div align="center">
-    <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20%7C%20TensorFlow%20%7C%20PyTorch%20%7C%20MLOps&descAlignY=55&descSize=20"/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1500&pause=1500&color=00796B&center=true&vCenter=true&width=600&lines=Data+Professional;AI/ML+Researcher;Data+Professional;AI/ML+Researcher" alt="Typing SVG" />
+    <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004d40,00bcd4,4caf50&height=300&section=header&text=Vinod%20Anbalagan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20%7C%20TensorFlow%20%7C%20PyTorch%20%7C%20MLOps&descAlignY=55&descSize=20"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=1500&pause=1500&color=00796B&center=true&vCenter=true&width=600&lines=AI/ML+Engineer;Research+Enthusiast;Building+Novel+AI+Systems;Deep+Learning+Explorer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-**AI/ML Engineer & Researcher** exploring the foundations of intelligence through hands-on experimentation. I believe AGI emerges from novel architectures and paradigms, not just scaling LLMs.
+**AI/ML Engineer & Researcher** investigating what traditional scaling laws miss—building novel architectures and multi-agent systems to understand intelligence beyond parameter counts.
+
+**🛠️ Production Experience:** 6+ years building real-world ML systems—from computer vision to NLP to multimodal AI. I know what works in production AND what's missing for true intelligence.
 
 **📈 Career Evolution:** Started in operations, advanced through business optimization and analytics, now building production ML systems with expertise from University of Toronto and Stanford ML programs.
 
@@ -15,13 +18,20 @@
 
 **🛠️ Active Experiments:** Building research tools (AI agents for paper study), probing neural network knowledge composition (FrankenBERT), and exploring multimodal intelligence.  
 
-**✍️ Thinking out Loud:** Writing technical explorations and philosophical musings on AI, AGI, and consciousness at Gradient Ascent.  
+**✍️ Thinking out Loud:** Writing technical explorations and philosophical musings on AI, AGI, and consciousness at [**The Meta Gradient**](https://substack.com/@vinodanbalagan).
 
-**🛠️ Production Experience**: 6+ years building real-world ML systems - from computer vision to NLP to multimodal AI. I know what works in production AND what's missing for true intelligence.
+**🎓 Learning Path:** Stanford ML | UofT ML Certification | Planning 2nd Masters in AI to dive deeper into research.
 
-**🎓 Learning Path**: Stanford ML | UofT ML Certification | Planning 2nd Masters in AI to dive deeper into research.
+**🌍 Open to:** Research collaborations, philosophical debates on AGI, building the weird/experimental stuff that might not work (but might change everything)
 
-**🌍 Open to:** Research collaborations, philosophical debates on AGI, building the weird/experimental stuff that might not work (but might change everything) 
+---
+
+## 🔬 Currently Working On
+
+- 🧠 **Model Merging Research:** Investigating parameter-efficient ways to combine specialist models without catastrophic interference
+- 🤖 **Multi-Agent Orchestration:** Building intelligent routing systems for specialized AI agents with Google Gemini
+- 📚 **Research Paper Analysis:** Developing tools to accelerate academic paper comprehension and retention
+- 🎯 **Deep RL Experiments:** Exploring novel reward shaping and architecture designs for autonomous agents
 
 ---
 
@@ -86,90 +96,194 @@
 
 ## 🏆 Featured Projects
 
-### Research Paper Chat | Multi-Agent AI System for Academic Research
-Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
-[Live Demo](https://vinodanbalagan-research-paper-chat-app-x3nxo4.streamlit.app/) | [Substack](https://substack.com/@vinodanbalagan/note/p-180365459?utm_source=notes-share-action&r=g5tza) 
-- Architected and deployed a production-ready multi-agent system using Google Gemini 2.0 Flash that reduces research paper study time by 40-60% through specialized AI agents (Math, Code, Concept, Quiz, Chat)
-- Implemented intelligent routing orchestrator that analyzes query intent and paper content to dynamically delegate tasks to domain-specific agents, optimizing response quality and relevance
-- Designed PDF parsing pipeline with robust section extraction using regex patterns and fallback strategies, handling diverse paper formats with 80%+ success rate
-- Deployed full-stack application to Streamlit Cloud with CI/CD integration, environment-aware configuration management, and comprehensive error handling for production reliability
-- Demonstrated expertise in agent orchestration, context engineering, state management, observability patterns, and cost-optimized LLM deployment (~$0.001 per query)
+### 🤖 Research Paper Chat | Multi-Agent AI System for Academic Research
+**Google 5-Day AI Agents Intensive Capstone Project | Nov 2024**
 
-### FrankenBERT: When AI Specialists Collide (Model Merging - Part of Cohere Research Scholar Application) 
-- **Abstract:** This research investigates what happens when two AI specialists are merged into a single model. By training separate "Poet" (sentiment analysis) and "Scientist" (news classification) models, then combining them through parameter averaging, we discovered catastrophic interference - the merged model performs poorly on both tasks despite each specialist achieving >90% accuracy individually.
-- **Key Finding:** Simple model merging destroys specialist expertise rather than combining it, with performance dropping by 36-83% across tasks.
+[🚀 Live Demo](https://vinodanbalagan-research-paper-chat-app-x3nxo4.streamlit.app/) | [📝 Technical Deep-Dive](https://substack.com/@vinodanbalagan/note/p-180365459?utm_source=notes-share-action&r=g5tza)
 
+**What It Does:**
+- Multi-agent system that reduces research paper study time by 40-60% through specialized AI agents (Math, Code, Concept, Quiz, Chat)
+- Intelligent orchestrator analyzes query intent and dynamically routes to domain-specific agents
 
-### 🎬 Global Sound Evolution (Version 2.0) - AI-Powered Multilingual Video Processor
-- **Live Demo:** [HuggingFace Space](https://huggingface.co/spaces/vinod-anbalagan/global-sound-evolution)
-- **Tech Stack:** Whisper, mBART-50, T5, PyTorch
-- **Impact:** 95% accuracy on noise-resilient speech recognition
+**Technical Highlights:**
+- Architected production-ready system using Google Gemini 2.0 Flash with intelligent routing and context management
+- Designed robust PDF parsing pipeline with regex-based section extraction handling diverse paper formats (80%+ success rate)
+- Implemented comprehensive error handling, state management, and observability patterns for production reliability
+- Deployed to Streamlit Cloud with CI/CD integration and environment-aware configuration (~$0.001 per query)
 
-### 📊 Customer Analytics Platform - End-to-End ML Pipeline
-- **Live Demo:** [Customer Analytics Platform](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform)
-- **Business Impact:** 15-20% churn reduction, 10-15% revenue increase projections
-- **Features:** Real-time customer scoring, interactive UI deployment
-
-</div>
+**Key Skills:** Agent orchestration, prompt engineering, context management, production ML deployment, cost optimization
 
 ---
 
-## 🎓 Education & Certifications
-<details>
-<summary><b>🏫 Formal Education</b></summary>
-  
-- 🏛️ University of Toronto - Data Science & Machine Learning Certification  
-- 🏛️ Stanford University - Machine Learning Specialization  
-- 🏛️ University of Windsor - Master of Applied Science - Electrical Engineering 
-- 🏛️ Anna University - Bachelor of Engineering - Electronics and Communication Engineering 
-</details>
-<details>
-<summary><b>🏅 Professional Certifications</b></summary>
- 
-- 🔬 IBM - AI Developer Certification  
-- 🤖 NVIDIA - AI Operations & Infrastructure Fundamentals  
-- 📊 Wolfram Research - ML Statistical Foundations Professional Certificate  
-- 📈 Google - Advanced Data Analytics Professional Certificate  
-- 🏛️ University of Pennsylvania - AI, ML Essentials & Statistics 
-- 🐍 OpenEDG Python Institute - Programming with Python Professional
-- 🏛️ Ludwig Maximilian University Munich - Competitive Strategy & Organization Design 
-- ☁️ AWS - Cloud Technical Essentials 
-- 🐧 Canonical - Linux Professional Certification 
+### 🧬 FrankenBERT: When AI Specialists Collide | Model Merging Research
+**Cohere Research Scholar Application | Dec 2024**
 
-</details>
+[📄 Research Report](https://github.com/VinodAnbalagan/FrankenBERT) | [💻 Code](https://github.com/VinodAnbalagan/FrankenBERT) | [📊 Results Notebook](https://github.com/VinodAnbalagan/FrankenBERT)
+
+**Research Question:** What happens when you merge two AI specialists into one model?
+
+**Experiment Design:**
+- Trained separate "Poet" (sentiment analysis) and "Scientist" (news classification) BERT models
+- Each specialist achieved >90% accuracy on their domain
+- Merged models via parameter averaging to test knowledge composition
+
+**Key Finding:** Simple model merging causes catastrophic interference—merged model performance dropped 36-83% across both tasks despite individual specialist success.
+
+**Implications:** Challenges the assumption that neural network knowledge can be trivially combined. Points toward need for:
+- Task-specific subspace alignment before merging
+- Selective parameter merging strategies
+- Alternative composition methods (e.g., mixture-of-experts, modular networks)
+
+**Key Skills:** Experimental design, model architecture investigation, PyTorch, Hugging Face Transformers, research documentation
+
+---
+
+### 🎬 Global Sound Evolution (v2.0) | AI-Powered Multilingual Video Processor
+**Production ML Application | 2024**
+
+[🚀 Live Demo](https://huggingface.co/spaces/vinod-anbalagan/global-sound-evolution) | [💻 GitHub](https://github.com/VinodAnbalagan/global-sound-evolution)
+
+**What It Does:**
+- End-to-end multilingual video processing: transcription → translation → text-to-speech → video synthesis
+- Handles 50+ languages with noise-resilient speech recognition
+
+**Technical Pipeline:**
+- **Speech-to-Text:** Whisper (95% accuracy on noisy audio)
+- **Translation:** mBART-50 (50+ language pairs)
+- **Text-to-Speech:** ElevenLabs API (natural voice synthesis)
+- **Video Synthesis:** MoviePy (automated subtitle + audio sync)
+
+**Production Features:**
+- Real-time progress tracking with Gradio interface
+- Robust error handling for long-form content
+- Deployed on HuggingFace Spaces for public access
+
+**Key Skills:** Multimodal AI, pipeline orchestration, production deployment, API integration, UX design
+
+---
+
+### 📊 Customer Analytics Platform | End-to-End ML Pipeline
+**Predictive Analytics System | 2024**
+
+[🚀 Live Demo](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform) | [💻 GitHub](https://github.com/VinodAnbalagan/customer-analytics)
+
+**Business Problem:** Reduce customer churn and optimize revenue through predictive analytics
+
+**Solution:**
+- Real-time customer scoring system with churn prediction and lifetime value estimation
+- Interactive dashboard for business stakeholders (no technical knowledge required)
+- Automated feature engineering pipeline for behavioral patterns
+
+**Model Performance:**
+- Churn prediction: 85% accuracy, 0.82 F1-score
+- Segmentation: 5 distinct customer personas with actionable insights
+
+**Business Impact:**
+- Projected 15-20% churn reduction through proactive intervention
+- 10-15% revenue increase via targeted upsell recommendations
+- Reduced analysis time from hours to seconds for business teams
+
+**Key Skills:** Feature engineering, classification, deployment, business translation, stakeholder communication
 
 ---
 
 ## 📈 Achievement Highlights
 
-🎯 **Model Performance Excellence**
-- **Video Classification:** 99.5% recall accuracy on TikTok content moderation
-- **Speech Recognition:** 95% accuracy on challenging multilingual audio
-- **Customer Segmentation:** 15-20% projected churn reduction
+### 🎯 Model Performance Excellence
+| Domain | Project | Metric | Result |
+|--------|---------|--------|--------|
+| Computer Vision | Video Classification | Recall Accuracy | **99.5%** |
+| Speech Processing | Multilingual Recognition | WER (Noisy Audio) | **95%** |
+| Predictive Analytics | Customer Churn | F1-Score | **0.82** |
+| NLP | Sentiment Analysis | Accuracy | **92%** |
 
-💼 **Business Impact**
-- **Revenue Growth:** 25% increase through predictive analytics at Mama Earth Organics
-- **Cost Optimization:** $500K stockout prevention + 20% waste reduction at Whole Foods  
-- **Operational Efficiency:** 15 hours weekly saved through automated reporting systems
+### 💼 Business Impact
+| Category | Achievement | Impact |
+|----------|-------------|--------|
+| 💰 Revenue Growth | Predictive Analytics (Mama Earth Organics) | **25% increase** |
+| 💵 Cost Savings | Inventory Optimization (Whole Foods) | **$500K** stockout prevention |
+| ⚙️ Efficiency | Waste Reduction (Whole Foods) | **20%** reduction |
+| ⏱️ Time Savings | Automated Reporting Systems | **15 hours/week** |
 
-🚀 **Open Source Contributions**
-- **HuggingFace Deployments:** Multiple live ML applications serving real users
-- **Production ML Systems:** End-to-end pipelines from data ingestion to model deployment
-- **Research Focus:** Active exploration in Deep Learning and Reinforcement Learning
+### 🚀 Open Source & Production
+- **5+ Production ML Applications** serving real users on HuggingFace
+- **End-to-End Pipelines** from data ingestion to model deployment with monitoring
+- **Research Focus:** Deep Learning, Reinforcement Learning, Multi-Agent Systems
         
+---
+
+## 🎓 Education & Certifications
+
+### 🏫 Formal Education
+- 🎓 **University of Toronto** - Data Science & Machine Learning Certification  
+- 🎓 **Stanford University** - Machine Learning Specialization  
+- 🎓 **University of Windsor** - Master of Applied Science - Electrical Engineering 
+- 🎓 **Anna University** - Bachelor of Engineering - Electronics and Communication Engineering 
+
+### 🏅 Professional Certifications
+<details>
+<summary><b>View All Certifications (12+)</b></summary>
+  
+- 🔬 **IBM** - AI Developer Certification  
+- 🤖 **NVIDIA** - AI Operations & Infrastructure Fundamentals  
+- 📊 **Wolfram Research** - ML Statistical Foundations Professional Certificate  
+- 📈 **Google** - Advanced Data Analytics Professional Certificate  
+- 🏛️ **University of Pennsylvania** - AI, ML Essentials & Statistics 
+- 🐍 **OpenEDG Python Institute** - Programming with Python Professional
+- 🏛️ **Ludwig Maximilian University Munich** - Competitive Strategy & Organization Design 
+- ☁️ **AWS** - Cloud Technical Essentials 
+- 🐧 **Canonical** - Linux Professional Certification 
+
+</details>
+
 ---
 
 ## 📈 GitHub Statistics
 
-🎯 Contribution Stats
 <div align="center">
-  <!-- GitHub Stats Card (Corrected) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=graywhite&hide_border=true&custom_title=Vinod's%20GitHub%20Stats&cache_bust=true" alt="Vinod's GitHub Stats"/>
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vinod's GitHub Stats" height="170"/>
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=graywhite&hide_border=true&langs_count=10" alt="Vinod's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+</div>
 
 <div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinodAnbalagan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 What I'm Seeking
+
+- 🔬 **Research Collaborations** on novel AI architectures, model merging, and multi-agent systems
+- 💬 **Philosophical Discussions** on AGI, consciousness, and the nature of intelligence
+- 🎓 **Connections with European AI Research Programs** - planning 2nd Masters in AI
+- 🤝 **Open-Source Contributors** for experimental ML projects that push boundaries
+- 📝 **Writing Collaborations** on technical deep-dives and AI research
+- 🧪 **Co-experimenters** for the weird stuff that might not work (but might change everything)
+
+---
+
+## 📝 Latest Writing
+
+<div align="center">
+  
+  **✍️ [The Meta Gradient on Substack](https://substack.com/@vinodanbalagan)** 
+  
+  *Technical deep-dives, research explorations, and philosophical musings on AI, AGI, and consciousness*
+  
+  Recent posts: Multi-Agent Systems | Model Merging | The Path to AGI | Research Paper Analysis Tools
+
+</div>
 
 ---
 
@@ -189,7 +303,10 @@ Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
     <img src="https://img.shields.io/badge/🤗-Hugging%20Face-yellow?style=for-the-badge" alt="Hugging Face"/>
   </a>
   <a href="https://share.streamlit.io/VinodAnbalagan">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://substack.com/@vinodanbalagan">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
   </a>
 </p>
 
@@ -198,11 +315,11 @@ Google 5-Day AI Agents Intensive Capstone Project | Nov 2024
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+ML+research+collaborations;Deep+Learning+%26+RL+enthusiast;Building+the+future+with+AI!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Open+to+ML+research+collaborations+and+philosophical+debates;Deep+Learning+%7C+Reinforcement+Learning+%7C+Multi-Agent+Systems;Building+novel+architectures+beyond+traditional+scaling+laws;Let's+explore+the+foundations+of+intelligence+together!" alt="Footer Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/VinodAnbalagan">VinodAnbalagan</a> - "Transforming data into intelligent solutions"</i>
+  <i>⭐️ From <a href="https://github.com/VinodAnbalagan">VinodAnbalagan</a> - "Investigating intelligence beyond parameter counts"</i>
 </div>
