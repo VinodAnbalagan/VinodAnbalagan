@@ -242,21 +242,26 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vinod's GitHub Stats" height="170"/>
+  <!-- GitHub Stats Card - Clean minimal style -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="GitHub Stats" height="180"/>
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <!-- Top Languages Card - Horizontal layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="180"/>
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodAnbalagan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <!-- Contribution Stats - Cleaner version -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinodAnbalagan&theme=radical" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinodAnbalagan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+  <!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinodAnbalagan&theme=radical" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinodAnbalagan&theme=radical" alt="Most Commit Language" width="48%"/>
 
 </div>
 
