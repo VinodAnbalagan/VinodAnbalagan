@@ -240,16 +240,6 @@
 
 ## 📈 GitHub Statistics
 
-<div align="center">
-  
-  <!-- GitHub Stats Card - Clean minimal style -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodAnbalagan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="GitHub Stats" height="180"/>
-  
-  <!-- Top Languages Card - Horizontal layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodAnbalagan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" height="180"/>
-
-</div>
-
 <div align="center" style="margin-top: 20px;">
   
   <!-- Contribution Stats - Cleaner version -->
