@@ -251,7 +251,6 @@
   
   <!-- Additional Stats Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinodAnbalagan&theme=radical" alt="Repos per Language" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinodAnbalagan&theme=radical" alt="Most Commit Language" width="48%"/>
 
 </div>
 
