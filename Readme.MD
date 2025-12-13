@@ -8,14 +8,15 @@
 
 ## 🚀 About Me
 
-**From Operations to AI/ML Engineering** – I bring a unique perspective to machine learning: I understand **efficiency** (from 6 years in supply chain operations), **business impact** (from analytics work), and **production deployment** (from recent deep ML engineering).
+**From Operations to AI/ML Engineering** 
+– I bring a unique perspective to machine learning: I understand **efficiency** (from 6 years in supply chain operations), **business impact** (from analytics work), and **production deployment** (from recent deep ML engineering).
 
 **🎯 What Makes Me Different:** Most ML engineers optimize for accuracy. I optimize for **deployability, efficiency, and real-world constraints** because I've managed physical operations where compute, energy, and time actually matter.
 
 **📈 Career Evolution:** 
 - **2017-2023**: Supply Chain Operations → Business Analytics → Data Science (Toronto)
-- **2024**: Deep dive into production ML systems (M2M Tech multimodal AI project)
-- **2024-Now**: Building AI agents, researching model architectures
+- **2024-2025**: Data Analytics, Deep dive into production ML systems (M2M Tech -Internship AI project), Building AI agents, researching model architectures
+
 
 **🔬 Current Research Interests:** 
 - **Embodied AI & World Models**: Moving beyond text-only transformers toward physically-grounded intelligence
@@ -26,7 +27,7 @@
 **🛠️ Recent Projects:** 
 - Multi-agent research assistant (Google Gemini orchestration, 40-60% faster paper comprehension)
 - Model merging investigation (FrankenBERT - exposed catastrophic interference in naive merging)
-- Multilingual video pipeline (Whisper + mBART + synthesis, 50+ languages, 95% accuracy)
+
 
 **✍️ Technical Writing:** Publishing deep-dives on AI fundamentals, architecture evolution, and the path to AGI at [**The Meta Gradient**](https://substack.com/@vinodanbalagan)
 
@@ -35,11 +36,6 @@
 - Stanford University (ML Specialization, 2024)
 - University of Windsor (M.A.Sc. Electrical Engineering, 2017)
 - Anna University (B.E. Electronics & Communication, 2012)
-
-**🌍 What I'm Looking For:** 
-- **Master's programs** in AI/ML (Europe, Fall 2026) focusing on embodied AI, efficient architectures, multimodal learning
-- Research collaborations on state space models, neuro-symbolic AI, world models
-- Open-source contributors for experimental projects exploring alternatives to transformer scaling
 
 ---
 
@@ -147,10 +143,6 @@ handling, and production deployment.
 - **Wolfram Research** - ML Statistical Foundations
 - **IBM** - AI Developer Professional Certificate
 - **NVIDIA** - AI Operations & Infrastructure Fundamentals
-
-### 🎯 Currently Pursuing (2025-2026)
-- **Master's in AI** - Applying to European programs (Netherlands, Belgium, Norway, Germany)
-- **Research Focus**: State space models, neuro-symbolic AI, embodied intelligence, multimodal learning
 
 ---
 
