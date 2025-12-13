@@ -15,7 +15,7 @@
 **📈 Career Evolution:** 
 - **2017-2023**: Supply Chain Operations → Business Analytics → Data Science (Toronto)
 - **2024**: Deep dive into production ML systems (M2M Tech multimodal AI project)
-- **2024-Now**: Building AI agents, researching model architectures, planning Master's in AI (Europe, Fall 2026)
+- **2024-Now**: Building AI agents, researching model architectures
 
 **🔬 Current Research Interests:** 
 - **Embodied AI & World Models**: Moving beyond text-only transformers toward physically-grounded intelligence
@@ -55,6 +55,26 @@
 
 ## 🏆 Featured Projects
 
+### 📚 SSM Learning Journey | In Progress
+**Deep Dive into Sequence Models | Dec 2024 - Feb 2025**
+
+**The Goal:** Understand sequence modeling evolution by implementing 
+each architecture from scratch.
+
+**Current Progress:**
+- ✅ Week 1-2: RNN/LSTM vanishing gradient visualization
+- 🔄 Week 3-4: Transformer complexity analysis (in progress)
+- 📅 Week 5-8: Mamba implementation (planned)
+
+**Why This Matters:** Moving beyond just using libraries to 
+understanding *why* architectures evolved. Documenting insights 
+on [The Meta Gradient](substack.com/@vinodanbalagan).
+
+**Tech Stack:** PyTorch (from scratch), comparative benchmarking, 
+physics-based tasks
+
+---
+
 ### 🤖 Research Paper Chat | Multi-Agent AI System
 **Google 5-Day AI Intensive Capstone | Nov 2024**
 
@@ -76,72 +96,28 @@
 
 ---
 
-### 🧬 FrankenBERT | Investigating Model Merging
-**Research Project | Dec 2024**
+🎬 Global Sound Evolution | Multilingual Video Pipeline
+Production ML System | 2024
+🚀 Live Demo | 💻 GitHub
+What It Does: Transcribe → Translate → Re-synthesize video in 50+ languages
+Technical Pipeline:
 
-[📄 Full Report](https://github.com/VinodAnbalagan/FrankenBERT) | [💻 Code](https://github.com/VinodAnbalagan/FrankenBERT)
+Speech-to-Text: OpenAI Whisper (noise-resilient, 95% accuracy)
+Translation: mBART-50 (multilingual seq2seq)
+Text-to-Speech: ElevenLabs API (natural voice cloning)
+Video Synthesis: MoviePy (subtitle overlay + audio sync)
 
-**Research Question:** Can you merge two specialist models without catastrophic interference?
+Production Lessons:
 
-**Experiment:**
-1. Train "Poet" BERT (sentiment analysis, 92% accuracy)
-2. Train "Scientist" BERT (news classification, 91% accuracy)  
-3. Merge via parameter averaging
-4. Measure: **36-83% performance collapse** across both tasks
+Long-form audio requires chunking strategy (avoid memory overflow)
+Subtitle timing needs offset calibration (speech synthesis != original timing)
+User feedback: "I can finally share my research talks with my non-English-speaking family"
 
-**Why This Matters:**
-- Challenges assumption that neural knowledge composes trivially
-- Points toward need for task-specific subspace alignment
-- Relevant to mixture-of-experts, modular networks, continual learning
+**Note:** This was a pipeline integration project to understand 
+multimodal AI workflows. The individual models (Whisper, mBART) 
+are pre-trained; my contribution was the orchestration, error 
+handling, and production deployment.
 
-**Connection to My Research Interests:** This directly informs my thesis interest in **neuro-symbolic architectures** where explicit structure (graphs) might enable cleaner knowledge composition than pure neural merging.
-
-**Tech Stack:** PyTorch, Hugging Face Transformers, BERT, experimental design
-
----
-
-### 🎬 Global Sound Evolution | Multilingual Video Pipeline
-**Production ML System | 2024**
-
-[🚀 Live Demo](https://huggingface.co/spaces/vinod-anbalagan/global-sound-evolution) | [💻 GitHub](https://github.com/VinodAnbalagan/global-sound-evolution)
-
-**What It Does:** Transcribe → Translate → Re-synthesize video in 50+ languages
-
-**Technical Pipeline:**
-- **Speech-to-Text**: OpenAI Whisper (noise-resilient, 95% accuracy)
-- **Translation**: mBART-50 (multilingual seq2seq)
-- **Text-to-Speech**: ElevenLabs API (natural voice cloning)
-- **Video Synthesis**: MoviePy (subtitle overlay + audio sync)
-
-**Production Lessons:**
-- Long-form audio requires chunking strategy (avoid memory overflow)
-- Subtitle timing needs offset calibration (speech synthesis != original timing)
-- User feedback: "I can finally share my research talks with my non-English-speaking family"
-
-**Why I Built This:** To understand **multimodal AI pipelines end-to-end**. Each modality (vision, speech, text) has different challenges. Integration is where real engineering happens.
-
----
-
-### 📊 Customer Analytics Platform | Business ML
-**Predictive System | 2024**
-
-[🚀 Live Demo](https://huggingface.co/spaces/vinod-anbalagan/customer_analytics_platform) | [💻 GitHub](https://github.com/VinodAnbalagan/customer-analytics)
-
-**Business Problem:** Predict churn, estimate lifetime value, segment customers
-
-**Solution:**
-- Churn prediction: 85% accuracy, 0.82 F1
-- LTV estimation: Regression with feature engineering
-- Segmentation: K-means clustering → 5 personas
-
-**Business Impact** (projected from similar systems):
-- 15-20% churn reduction via proactive intervention
-- 10-15% revenue increase via targeted upselling
-- Analysis time: Hours → Seconds (interactive dashboard)
-
-**Why This Project Matters:** Shows I can **translate ML to business value**. My operations background means I understand stakeholder needs, not just model metrics.
-
----
 
 ## 📈 Real-World Impact
 
