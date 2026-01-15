@@ -32,10 +32,10 @@
 **✍️ Technical Writing:** Publishing deep-dives on AI fundamentals, architecture evolution, and the path to AGI at [**The Meta Gradient**](https://substack.com/@vinodanbalagan)
 
 **🎓 Formal Training:** 
-- University of Toronto (ML & Data Science Certification, 2024)
+- University of Toronto (ML & Data Science Certification, 2025)
 - Stanford University (ML Specialization, 2024)
-- University of Windsor (M.A.Sc. Electrical Engineering, 2017)
-- Anna University (B.E. Electronics & Communication, 2012)
+- University of Windsor (M.A.Sc. Electrical Engineering, 2012)
+- Anna University (B.E. Electronics & Communication, 2008)
 
 ---
 
