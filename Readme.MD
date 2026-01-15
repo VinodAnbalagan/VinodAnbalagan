@@ -52,7 +52,7 @@
 ## 🏆 Featured Projects
 
 ### 📚 SSM Learning Journey | In Progress
-**Deep Dive into Sequence Models | Dec 2024 - Feb 2025**
+**Deep Dive into Sequence Models | Dec 2025 - Feb 2026**
 
 **The Goal:** Understand sequence modeling evolution by implementing 
 each architecture from scratch.
@@ -72,7 +72,7 @@ physics-based tasks
 ---
 
 ### 🤖 Research Paper Chat | Multi-Agent AI System
-**Google 5-Day AI Intensive Capstone | Nov 2024**
+**Google 5-Day AI Intensive Capstone | Nov 2025**
 
 [🚀 Live Demo](https://vinodanbalagan-research-paper-chat-app-x3nxo4.streamlit.app/) | [📝 Technical Writeup](https://substack.com/@vinodanbalagan/note/p-180365459?utm_source=notes-share-action&r=g5tza)
 
@@ -93,7 +93,7 @@ physics-based tasks
 ---
 
 🎬 Global Sound Evolution | Multilingual Video Pipeline
-Production ML System | 2024
+Production ML System | 2025
 🚀 Live Demo | 💻 GitHub
 What It Does: Transcribe → Translate → Re-synthesize video in 50+ languages
 Technical Pipeline:
@@ -133,10 +133,10 @@ handling, and production deployment.
 ## 🎓 Education & Training
 
 ### 🏫 Formal Degrees
-- 🎓 **University of Windsor** (2015-2017) - M.A.Sc. Electrical Engineering (Signal Processing, Control Systems)
-- 🎓 **Anna University** (2008-2012) - B.E. Electronics & Communication Engineering
+- 🎓 **University of Windsor** (2010-2012) - M.A.Sc. Electrical Engineering (Signal Processing, Control Systems)
+- 🎓 **Anna University** (2004-2008) - B.E. Electronics & Communication Engineering
 
-### 📚 ML/AI Certifications (2024)
+### 📚 ML/AI Certifications (2024-2025)
 - **University of Toronto** - Machine Learning & Data Science Professional Certificate
 - **Stanford University** - Machine Learning Specialization (Andrew Ng)
 - **Google** - Advanced Data Analytics Professional Certificate
@@ -237,7 +237,7 @@ I'm seeking **research-oriented Master's programs** where I can explore:
 
 ## 🎯 What I'm Seeking
 
-### Immediate (2024-2025):
+### Immediate (2026):
 - 🔬 **Research Collaborations** on state space models, neuro-symbolic AI, multi-agent systems
 - 💬 **Philosophical Discussions** on embodied intelligence, AGI, consciousness
 - 🧪 **Co-Experimenters** for projects exploring alternatives to transformer scaling
