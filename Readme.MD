@@ -59,7 +59,6 @@ I optimize systems under constraints. Whether managing supply chains or training
 ---
 
 ## Education
-
 **M.A.Sc. Electrical Engineering** | University of Windsor (2012)  
 **B.E. Electronics & Communication** | Anna University (2008)
 
