@@ -12,7 +12,6 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 **Current Focus:** Understanding sequence model architectures from first principles—implementing RNNs, Transformers, and State Space Models (Mamba) to see *why* they work, not just *that* they work.
 
-**Next:** Applying to AI Master's programs in Europe (Fall 2026) focused on embodied AI and efficient architectures.
 
 ---
 
