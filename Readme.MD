@@ -16,6 +16,13 @@ I optimize systems under constraints. Whether managing supply chains or training
 ---
 
 ## Current Work
+**DocuNative** — Cohere AI Hackathon (March 2026)
+- Privacy-first, fully offline cross-lingual document QA for migrants and newcomers
+- Upload a foreign legal document (e.g. German lease), ask questions in your own language (e.g. Swahili)
+- Leading a 5-person team as PM & researcher — greenlit and in active development
+- Tech: Tiny Aya GGUF · llama-server · BGE-M3 · ChromaDB · mDeBERTa · Gradio
+- Research: Testing whether regional vs global multilingual models degrade across resource levels (German → Hindi → Swahili)
+- Repo: [docunative-AI/docunative](https://github.com/docunative-AI/docunative)
 
 ### 🔬 Research & Learning
 
@@ -23,6 +30,8 @@ I optimize systems under constraints. Whether managing supply chains or training
 - Visualizing neural network optimization surfaces
 - Understanding why some architectures train better than others
 - Tech: PyTorch, matplotlib, 3D surface plots
+
+**DocuNative** — Cohere AI Hackathon (March 2026)
 
 **Rethinking RNN** (In Progress)
 - Implementing sequence models from scratch (RNN → LSTM → Transformer → Mamba)
