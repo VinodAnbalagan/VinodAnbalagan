@@ -26,7 +26,7 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 ### 🔬 Research & Learning
 
-**Loss Landscape Visualization** ([repo link])
+**Loss Landscape Visualization** 
 - Visualizing neural network optimization surfaces
 - Understanding why some architectures train better than others
 - Tech: PyTorch, matplotlib, 3D surface plots
