@@ -9,7 +9,7 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 **Background:** 10+ years in operations and supply chain → systematic pivot to AI/ML engineering and research (2024–present)
 
-**Research focus:** I'm interested in how intelligence emerges from structure rather than scale. Specifically: architectures that reason iteratively rather than in a single forward pass — where the answer emerges from an internal simulation, not a lookup. My current thread runs through object-centric representations, state space models, and geometric deep learning as building blocks for more efficient, interpretable reasoning systems.
+**Research focus:** I'm interested in how intelligence emerges from structure rather than scale. Specifically: architectures that reason iteratively rather than in a single forward pass, where the answer emerges from an internal simulation, not a lookup. My current thread runs through object-centric representations, state space models, and geometric deep learning as building blocks for more efficient, interpretable reasoning systems.
 
 ---
 
