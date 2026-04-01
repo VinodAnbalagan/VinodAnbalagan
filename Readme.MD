@@ -1,6 +1,5 @@
 # Vinod Anbalagan
-
-**ML Engineer & Researcher** | Operations → AI | Building Efficient Architectures
+**ML Engineer & Researcher** | Operations → AI | Efficient Architectures for Reasoning
 
 ---
 
@@ -8,52 +7,45 @@
 
 I optimize systems under constraints. Whether managing supply chains or training neural networks, the goal is the same: **maximum performance, minimum waste**.
 
-**Background:** 10+ years in operations and supply chain → systematic pivot to AI/ML (2024-2025)
+**Background:** 10+ years in operations and supply chain → systematic pivot to AI/ML engineering and research (2024–present)
 
-**Current Focus:** Understanding sequence model architectures from first principles—implementing RNNs, Transformers, and State Space Models (Mamba) to see *why* they work, not just *that* they work.
-
+**Research focus:** I'm interested in how intelligence emerges from structure rather than scale. Specifically: architectures that reason iteratively rather than in a single forward pass — where the answer emerges from an internal simulation, not a lookup. My current thread runs through object-centric representations, state space models, and geometric deep learning as building blocks for more efficient, interpretable reasoning systems.
 
 ---
 
 ## Current Work
-**DocuNative** — Cohere AI Hackathon (March 2026)
-- Privacy-first, fully offline cross-lingual document QA for migrants and newcomers
-- Upload a foreign legal document (e.g. German lease), ask questions in your own language (e.g. Swahili)
-- Leading a 5-person team as PM & researcher — greenlit and in active development
+
+### DocuNative — Cohere Expedition Hackathon (March 2026)
+Privacy-first, fully offline cross-lingual document QA for migrants and newcomers. Upload a foreign legal document, ask questions in your own language, get answers with source citations and a hallucination trust score — entirely on-device, nothing sent to the cloud.
+
+- Pipeline lead and eval researcher on a 7-person team
+- Built the full RAG pipeline: PDF extraction → BGE-M3 embeddings → ChromaDB retrieval → Tiny Aya 3.35B generation → mDeBERTa NLI hallucination check
+- 9,063 automated evaluations across Chinese, Hindi, and Polish
+- Key finding: the bottleneck in cross-lingual RAG isn't the language model — it's the embedding space mismatch between question and document language
 - Tech: Tiny Aya GGUF · llama-server · BGE-M3 · ChromaDB · mDeBERTa · Gradio
-- Research: Testing whether regional vs global multilingual models degrade across resource levels (German → Hindi → Swahili)
-- Repo: [docunative-AI/docunative](https://github.com/docunative-AI/docunative)
+- Repo: [Cohere-Labs-Community/docunative](https://github.com/Cohere-Labs-Community/docunative)
 
-### 🔬 Research & Learning
+### Loss Landscape Visualization
+Visualizing neural network optimization surfaces to understand why some architectures train better than others.
+Tech: PyTorch · matplotlib · 3D surface plots
 
-**Loss Landscape Visualization** 
-- Visualizing neural network optimization surfaces
-- Understanding why some architectures train better than others
-- Tech: PyTorch, matplotlib, 3D surface plots
+### Rethinking RNN *(In Progress)*
+Implementing sequence models from scratch: RNN → LSTM → Transformer → Mamba. Analyzing gradient flow and computational complexity at each step.
 
-**DocuNative** — Cohere AI Hackathon (March 2026)
-
-**Rethinking RNN** (In Progress)
-- Implementing sequence models from scratch (RNN → LSTM → Transformer → Mamba)
-- Analyzing gradient flow and computational complexity
-- Goal: Understand the evolution of sequential architectures
-- Tech: PyTorch (no high-level libraries), comparative benchmarking
-
-**Technical Writing:** [The Meta Gradient](https://substack.com/@vinodanbalagan)
-- Deep-dives into AI fundamentals and architecture evolution
-- Making complex ML concepts accessible through implementation
+Goal: understand the evolution of sequential architectures from first principles — not just that they work, but *why* they work, and what each generation was designed to fix.
+Tech: PyTorch (no high-level libraries) · comparative benchmarking
 
 ---
 
 ## Production Experience
 
-**ML Engineering Intern** | M2M Tech (2024-2025)
-- Built and deployed end-to-end ML pipeline (XGBoost) for client startup
+**ML Engineering Intern** | M2M Tech (2024–2025)
+- Built and deployed end-to-end ML pipeline (XGBoost) for a client startup
 - Feature engineering, model training, API deployment, monitoring
-- Stack: Python, FastAPI, Docker, AWS
+- Stack: Python · FastAPI · Docker · AWS
 
-**Supply Chain & Analytics** (2017-2023)
-- Optimized inventory systems (saved $500K in prevented stockouts)
+**Supply Chain & Analytics** (2017–2023)
+- Optimized inventory systems — prevented $500K in stockouts
 - Built predictive analytics for demand forecasting (+25% revenue impact)
 - Automated reporting pipelines (saved 15 hrs/week)
 
@@ -61,35 +53,33 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 ## Technical Stack
 
-**Deep Learning:** PyTorch, Transformers, Computer Vision (CNNs, ViTs), NLP  
-**ML Engineering:** Docker, FastAPI, CI/CD, AWS, Hugging Face  
-**Foundations:** Linear Algebra, Optimization, Probability Theory
+**Deep Learning:** PyTorch · Transformers · State Space Models (Mamba) · Computer Vision · NLP  
+**ML Engineering:** Docker · FastAPI · CI/CD · AWS · Hugging Face  
+**Foundations:** Linear Algebra · Optimization · Probability Theory
 
 ---
 
 ## Education
+
 **M.A.Sc. Electrical Engineering** | University of Windsor (2012)  
 **B.E. Electronics & Communication** | Anna University (2008)
 
-**Recent Training (2024-2025):**
+**Recent Training (2024–2025)**
 - University of Toronto: ML & Data Science Professional Certificate
 - Stanford: Machine Learning Specialization (Andrew Ng)
 - Google: Advanced Data Analytics
 
 ---
 
-## Research Interests
+## Writing
 
-- State Space Models (Mamba) vs. Transformers
-- Efficient architectures for sequence modeling
-- Embodied AI and world models
-- Neuro-symbolic reasoning (GNNs + SSMs)
+**[The Meta Gradient](https://substack.com/@vinodanbalagan)** — technical writing on architecture evolution, deep learning fundamentals, and the philosophical rabbit holes these lead me down.
 
 ---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) | [Email](mailto:vinodanbalagan@gmail.com) | [Substack](https://substack.com/@vinodanbalagan)
+[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Email](mailto:vinodanbalagan@gmail.com) · [Substack](https://substack.com/@vinodanbalagan)
 
 ---
 
