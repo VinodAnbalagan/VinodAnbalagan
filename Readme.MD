@@ -23,7 +23,7 @@ Privacy-first, fully offline cross-lingual document QA for migrants and newcomer
 - 9,063 automated evaluations across Chinese, Hindi, and Polish
 - Key finding: the bottleneck in cross-lingual RAG isn't the language model — it's the embedding space mismatch between question and document language
 - Tech: Tiny Aya GGUF · llama-server · BGE-M3 · ChromaDB · mDeBERTa · Gradio
-- Repo: [Cohere-Labs-Community/docunative](https://github.com/Cohere-Labs-Community/docunative)
+- Repo: [Docunative](https://github.com/docunative-AI/docunative) | [Cohere-Labs-Community/docunative](https://github.com/Cohere-Labs-Community/docunative)
 
 ### Loss Landscape Visualization
 Visualizing neural network optimization surfaces to understand why some architectures train better than others.
