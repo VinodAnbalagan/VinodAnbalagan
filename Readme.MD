@@ -15,6 +15,16 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 ## Current Work
 
+### Tamil Agricultural Advisory Dataset — Adaption Labs Uncharted Data Challenge (April 2026)
+Grade A (9.4/10) Tamil-language agricultural instruction dataset for smallholder farmers — built from 679MB of Kisan Call Centre government data, TNAU extension guides, and ICAR contingency plans. One of the only agricultural datasets in the world with farmer mental health crisis routing.
+
+Solo builder — data collection, pipeline engineering, metadata design, platform optimization
+10 iterative submissions across 6 weeks; discovered that metadata specificity (not row count) drives dataset quality
+187 rows, 20 categories, 48 crops, 17 structured columns, zero nulls
+Received the first honorary award from Sara Hooker (co-founder, Adaption Labs)
+Tech: Cohere · Adaption Adaptive Data · Python · pandas
+Dataset: [HuggingFace](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa) | Repo: [GitHub](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)
+
 ### DocuNative — Cohere Expedition Hackathon (March 2026)
 Privacy-first, fully offline cross-lingual document QA for migrants and newcomers. Upload a foreign legal document, ask questions in your own language, get answers with source citations and a hallucination trust score — entirely on-device, nothing sent to the cloud.
 
