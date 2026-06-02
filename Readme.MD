@@ -15,6 +15,24 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 ## Current Work
 
+### Multicultural Riddles Benchmark — Cohere Labs Open Science Community (June 2026 – present)
+Contributing to a community-led multilingual cultural reasoning benchmark (~37 languages, paper + HuggingFace release planned Aug–Sep 2026). Tests whether LLMs understand implicit local cultural knowledge rather than just multilingual fluency.
+
+Currently active on the Benchmarking team across two task tracks, with intent to continue into the human evaluation and analysis phases as those open.
+
+**Data work (T2.1.2):**
+- Built `contributor_feedback.py`: translates validator output into plain-English actionable guidance for ~30 non-engineer contributors (merged PR)
+- Designed and shipped pilot dataset v1: 26 communities, 2,600 riddles, mapped to canonical schema via anti-corruption-layer pattern
+- Fixed phantom-row bug in the Excel reader that was causing false-positive validation failures for 3 contributors
+- Verified 6 language code mappings (Arabic dialects, Cantonese, Mongondow) by source inspection
+- Coordinating daily validation sweeps and contributor follow-up across Discord
+
+**Benchmarking framework (T2.2.1):**
+- Drafting design doc for the lean-metadata evaluation framework supporting both API and open-weight models, with hint/no-hint and source-language/English conditions
+
+Tech: Python · pandas · uv · ISO 639-2/3 · multilingual data pipelines · cross-team schema design
+Repo: https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
+
 ### Tamil Agricultural Advisory Dataset — Adaption Labs Uncharted Data Challenge (April 2026)
 Grade A (9.4/10) Tamil-language agricultural instruction dataset for smallholder farmers — built from 679MB of Kisan Call Centre government data, TNAU extension guides, and ICAR contingency plans. One of the only agricultural datasets in the world with farmer mental health crisis routing.
 
