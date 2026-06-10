@@ -22,13 +22,11 @@ Currently active on the Benchmarking team across two task tracks, with intent to
 
 **Data work (T2.1.2):**
 - Built `contributor_feedback.py`: translates validator output into plain-English actionable guidance for ~30 non-engineer contributors (merged PR)
-- Designed and shipped pilot dataset v1: 26 communities, 2,600 riddles, mapped to canonical schema via anti-corruption-layer pattern
-- Fixed phantom-row bug in the Excel reader that was causing false-positive validation failures for 3 contributors
-- Verified 6 language code mappings (Arabic dialects, Cantonese, Mongondow) by source inspection
-- Coordinating daily validation sweeps and contributor follow-up across Discord
+- Designed and shipped pilot dataset v1: 40 communities, 40,000 riddles, mapped to canonical schema via anti-corruption-layer pattern
 
 **Benchmarking framework (T2.2.1):**
 - Drafting design doc for the lean-metadata evaluation framework supporting both API and open-weight models, with hint/no-hint and source-language/English conditions
+- Communicate with the data creation team to resolve potential issues; Organising the cleaned data into a standardised format for benchmarking. Release them on Hugging Face and GitHub.
 
 Tech: Python · pandas · uv · ISO 639-2/3 · multilingual data pipelines · cross-team schema design
 Repo: https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
