@@ -25,7 +25,7 @@ Currently active on the Benchmarking team across two task tracks, with intent to
 - Designed and shipped pilot dataset v1: 40 communities, 40,000 riddles, mapped to canonical schema via anti-corruption-layer pattern
 
 **Benchmarking framework (T2.2.1):**
-- Drafting design doc for the lean-metadata evaluation framework supporting both API and open-weight models, with hint/no-hint and source-language/English conditions
+- Drafting design doc and entier backbone framework supporting both API and open-weight models, with hint/no-hint and source-language/English conditions
 - Communicate with the data creation team to resolve potential issues; Organising the cleaned data into a standardised format for benchmarking. Release them on Hugging Face and GitHub.
 
 Tech: Python · pandas · uv · ISO 639-2/3 · multilingual data pipelines · cross-team schema design
