@@ -15,7 +15,7 @@ I optimize systems under constraints. Whether managing supply chains or training
 
 ## Current Work
 
-### Multicultural Riddles Benchmark — Cohere Labs Open Science Community (June 2026 – present)
+### Multicultural Riddles Benchmark - Cohere Labs Open Science Community (June 2026 – present)
 Contributing to a community-led multilingual cultural reasoning benchmark (~37 languages, paper + HuggingFace release planned Aug–Sep 2026). Tests whether LLMs understand implicit local cultural knowledge rather than just multilingual fluency.
 
 Currently active on the Benchmarking team across two task tracks, with intent to continue into the human evaluation and analysis phases as those open.
