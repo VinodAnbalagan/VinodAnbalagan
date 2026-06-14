@@ -31,7 +31,7 @@ Currently active on the Benchmarking team across two task tracks, with intent to
 Tech: Python · pandas · uv · ISO 639-2/3 · multilingual data pipelines · cross-team schema design
 Repo: https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
 
-### Tamil Agricultural Advisory Dataset — Adaption Labs Uncharted Data Challenge (April 2026)
+### Tamil Agricultural Advisory Dataset - Adaption Labs Uncharted Data Challenge (April 2026)
 Grade A (9.4/10) Tamil-language agricultural instruction dataset for smallholder farmers — built from 679MB of Kisan Call Centre government data, TNAU extension guides, and ICAR contingency plans. One of the only agricultural datasets in the world with farmer mental health crisis routing.
 
 Solo builder — data collection, pipeline engineering, metadata design, platform optimization
