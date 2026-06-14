@@ -41,7 +41,7 @@ Solo builder — data collection, pipeline engineering, metadata design, platfor
 - Tech: Cohere · Adaption Adaptive Data · Python · pandas
 - Dataset: [HuggingFace](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa) | Repo: [GitHub](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)
 
-### DocuNative — Cohere Expedition Hackathon (March 2026)
+### DocuNative - Cohere Expedition Hackathon (March 2026)
 Privacy-first, fully offline cross-lingual document QA for migrants and newcomers. Upload a foreign legal document, ask questions in your own language, get answers with source citations and a hallucination trust score — entirely on-device, nothing sent to the cloud.
 
 - Pipeline lead and eval researcher on a 7-person team
