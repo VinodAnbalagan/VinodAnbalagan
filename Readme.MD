@@ -1,5 +1,5 @@
 # Vinod Anbalagan
-**ML Engineer & Researcher** | Operations → AI | Efficient Architectures for Reasoning
+**Data Analyst | Machine Learning Engineer** | Operations -> AI | Efficient Architectures for Reasoning
 
 ---
 
