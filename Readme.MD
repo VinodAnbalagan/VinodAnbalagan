@@ -2,7 +2,7 @@
 **Machine Learning Engineer | Data Analyst | Multilingual NLP, Evaluation, and Efficient ML Systems**
 
 Toronto, ON  
-[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [GitHub](https://github.com/VinodAnbalagan) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [Substack](https://substack.com/@vinodanbalagan)
+[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [Substack](https://substack.com/@vinodanbalagan)
 
 ---
 
