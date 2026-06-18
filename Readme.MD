@@ -5,9 +5,7 @@
 
 ## About
 
-I optimize systems under constraints. Whether managing supply chains or training neural networks, the goal is the same: **maximum performance, minimum waste**.
-
-**Background:** 10+ years in operations and supply chain → systematic pivot to AI/ML engineering and research (2024–present)
+I’m a machine learning and data professional with a background in operations, analytics, and process optimization. I’m currently focused on ML engineering, multilingual NLP, dataset development, evaluation pipelines, and efficient model architectures. My work spans practical ML systems, open-source benchmark contributions, and technical writing.
 
 **Research focus:** I'm interested in how intelligence emerges from structure rather than scale. Specifically: architectures that reason iteratively rather than in a single forward pass, where the answer emerges from an internal simulation, not a lookup. My current thread runs through object-centric representations, state space models, and geometric deep learning as building blocks for more efficient, interpretable reasoning systems.
 
