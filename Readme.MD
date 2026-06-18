@@ -32,7 +32,7 @@ My work spans practical ML engineering, open-source benchmark contributions, dat
 - Organizing cleaned data for standardized release on Hugging Face and GitHub
 
 **Tech:** Python, pandas, Hugging Face Datasets, ISO 639-2/3, multilingual data pipelines  
-[Repo](https://github.com/Cohere-Labs-Community/RiddlesBenchmarking)
+**[Repo](https://github.com/Cohere-Labs-Community/RiddlesBenchmarking)**
 
 ---
 
@@ -46,7 +46,7 @@ My work spans practical ML engineering, open-source benchmark contributions, dat
 
 **Tech:** Python, pandas, dataset curation, metadata design, Cohere  
 **Dataset:** [Hugging Face](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa)  
-[Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)
+**[Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)**
 
 ---
 
@@ -59,7 +59,7 @@ My work spans practical ML engineering, open-source benchmark contributions, dat
 - Key finding: retrieval quality was driven more by cross-lingual embedding mismatch than by LLM capability
 
 **Tech:** Python, PyTorch, BGE-M3, ChromaDB, mDeBERTa, Gradio, llama-server  
-[Repo](https://github.com/docunative-AI/docunative)
+**[Repo](https://github.com/docunative-AI/docunative)**
 
 ---
 
