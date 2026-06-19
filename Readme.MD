@@ -45,11 +45,12 @@ My work spans practical ML engineering, open-source benchmark contributions, dat
 - Received Grade A (9.4/10) and honorary recognition from Sara Hooker
 
 **Tech:** Python, pandas, dataset curation, metadata design, Cohere  
-**Dataset:** [Hugging Face](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa)  - **[Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)**
+**Dataset:** [Hugging Face](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa)  
+**[Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)**
 
 ---
 
-### DocuNative — Cohere Expedition Hackathon
+### DocuNative - Cohere Expedition Hackathon
 **Fully offline cross-lingual document QA for migrants and newcomers**
 
 - Pipeline lead on a 7-person team
@@ -57,7 +58,8 @@ My work spans practical ML engineering, open-source benchmark contributions, dat
 - Ran 9,063 automated evaluations across Chinese, Hindi, and Polish
 - Key finding: retrieval quality was driven more by cross-lingual embedding mismatch than by LLM capability
 
-**Tech:** Python, PyTorch, BGE-M3, ChromaDB, mDeBERTa, Gradio, llama-server  - **[Repo](https://github.com/docunative-AI/docunative)**
+**Tech:** Python, PyTorch, BGE-M3, ChromaDB, mDeBERTa, Gradio, llama-server  
+**[Repo](https://github.com/docunative-AI/docunative)**
 
 ---
 
