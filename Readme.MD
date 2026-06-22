@@ -24,7 +24,7 @@ My work spans practical ML engineering, open-source benchmark contributions, dat
 ## Selected Projects
 
 ### Multicultural Riddles Benchmark — Cohere Labs Open Science Community
-**Data pipelines, schema design, and benchmarking workflows for a multilingual cultural reasoning benchmark (~37 languages)**
+**Data pipelines, frameworks, and benchmarking workflows for a multilingual cultural reasoning benchmark (~37 languages)**
 
 - Built `contributor_feedback.py` to convert validator output into plain-language guidance for non-technical contributors
 - Designed and shipped pilot dataset v1 covering 40 communities and 40,000 riddles mapped to a canonical schema
