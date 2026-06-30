@@ -1,138 +1,260 @@
-# Vinod Anbalagan
-**Machine Learning Engineer | Data Analyst | Multilingual NLP, Evaluation, and Efficient ML Systems**
+# Hi, I'm Vinod Anbalagan 👋
 
-Toronto, ON  
-[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [Substack](https://substack.com/@vinodanbalagan)
+**Machine Learning Engineer building multilingual NLP systems, evaluation frameworks, and efficient AI architectures.**
 
----
+📍 Toronto, Ontario, Canada
 
-## About
-
-I’m a machine learning and data professional with a background in operations, analytics, and process optimization. I’m currently focused on applied AI, multilingual NLP, dataset development, evaluation pipelines, and efficient machine learning systems.
-
-My work spans practical ML engineering, open-source benchmark contributions, data pipeline design, and technical writing. Long term, I’m interested in research on efficient reasoning, sequence modeling, and architectures that do more with less compute.
-
-**Current interests**
-- Multilingual NLP and cultural reasoning benchmarks
-- Retrieval-augmented generation and evaluation
-- Sequence modeling, state space models, and efficient architectures
-- Dataset design, schema standardization, and data quality workflows
-- Practical ML systems built under real-world constraints
+[LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) • [Hugging Face](https://huggingface.co/vinod-anbalagan) • [The Meta Gradient](https://substack.com/@vinodanbalagan)
 
 ---
 
-## Selected Projects
+# About
 
-### Multicultural Riddles Benchmark — Cohere Labs Open Science Community
-**Data pipelines, frameworks, and benchmarking workflows for a multilingual cultural reasoning benchmark (~37 languages)**
+I'm a Machine Learning Engineer focused on multilingual NLP, evaluation systems, dataset engineering, and efficient machine learning architectures. My work spans open-source research, data pipelines, ML engineering, and technical writing, with an emphasis on building practical, reproducible systems grounded in real-world data.
 
-- Built `contributor_feedback.py` to convert validator output into plain-language guidance for non-technical contributors
-- Designed and shipped pilot dataset v1 covering 40 communities and 40,000 riddles mapped to a canonical schema
-- Contributing to benchmarking workflow design across API and open-weight model settings
-- Organizing cleaned data for standardized release on Hugging Face and GitHub
+I currently serve as **Cross-Team Coordination Lead** for the **Multicultural Riddles Benchmark** within the **Cohere Labs Open Science Community**, where I help coordinate multilingual dataset development, evaluation workflows, and benchmark infrastructure across a global contributor community.
 
-**Tech:** Python, pandas, Hugging Face Datasets, ISO 639-2/3, multilingual data pipelines  
-**[Repo](https://github.com/Cohere-Labs-Community/RiddlesBenchmarking)**
+Alongside open-source work, I independently research efficient sequence models, representation learning, reasoning systems, and optimization dynamics while publishing implementation-focused articles through **The Meta Gradient**.
 
 ---
 
-### Tamil Agricultural Advisory Dataset — Adaption Labs Uncharted Data Challenge
-**Tamil-language agricultural instruction dataset built from 679MB of public-sector data**
+# Currently
 
-- Solo-built dataset from Kisan Call Centre, TNAU extension guides, and ICAR contingency plans
-- Curated 187 structured rows across 20 categories, 48 crops, and 17 columns with zero null values
-- Completed 10 iterative submissions over 6 weeks
-- Received Grade A (9.4/10) and honorary recognition from Sara Hooker
-
-**Tech:** Python, pandas, dataset curation, metadata design, Cohere  
-**Dataset:** [Hugging Face](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa)  
-**[Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-.git)**
+- 🌍 Cross-Team Coordination Lead for the **Multicultural Riddles Benchmark** (Cohere Labs Open Science Community)
+- 🤖 Building multilingual NLP datasets and evaluation pipelines
+- 🧠 Researching State Space Models (SSMs), Mamba, and efficient neural architectures
+- 📊 Designing scalable datasets, schemas, and ML data pipelines
+- ✍️ Writing implementation-focused deep learning articles on **The Meta Gradient**
 
 ---
 
-### DocuNative - Cohere Expedition Hackathon
-**Fully offline cross-lingual document QA for migrants and newcomers**
+# Selected Projects
 
-- Pipeline lead on a 7-person team
-- Built end-to-end RAG pipeline: PDF extraction → BGE-M3 embeddings → ChromaDB retrieval → Tiny Aya 3.35B generation → mDeBERTa hallucination check
-- Ran 9,063 automated evaluations across Chinese, Hindi, and Polish
-- Key finding: retrieval quality was driven more by cross-lingual embedding mismatch than by LLM capability
+## 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community
 
-**Tech:** Python, PyTorch, BGE-M3, ChromaDB, mDeBERTa, Gradio, llama-server  
-**[Repo](https://github.com/docunative-AI/docunative)**
+**Cross-team coordination, multilingual data pipelines, and evaluation workflows for an open-source cultural reasoning benchmark spanning 49 languages, ~49,000 riddles, and 70+ contributors.**
 
----
+- Appointed **Cross-Team Coordination Lead**, coordinating across data creation, evaluation, and analysis teams.
+- Developed internal tooling that converts validator output into actionable guidance for 70+ contributors, improving annotation quality and review efficiency.
+- Designed and shipped the pilot dataset (v1) covering 40 communities and 40,000 riddles using a canonical schema for downstream benchmarking.
+- Help standardize multilingual datasets for structured releases on GitHub and Hugging Face.
+- Collaborate on benchmark design across API-based and open-weight language models.
+- Support preparation for an upcoming open-science research publication.
 
-### Rethinking RNN *(In Progress)*
-**Implementing sequence models from scratch to understand architectural evolution**
+**Tech**
 
-- Building RNN, LSTM, Transformer, and Mamba-style models from first principles
-- Analyzing gradient flow, computational tradeoffs, and why each architectural step matters
+`Python` • `Pandas` • `Hugging Face Datasets` • `Git` • `GitHub` • `Schema Design` • `ISO 639-2/3` • `Multilingual NLP`
 
-**Tech:** PyTorch, NumPy, comparative benchmarking
+**Repository**
 
----
-
-### Loss Landscape Visualization
-**Exploring neural network optimization surfaces and training dynamics**
-
-- Visualizing loss surfaces to compare optimization behavior across model settings
-- Studying why some architectures train more reliably than others
-
-**Tech:** PyTorch, matplotlib, 3D visualization
+https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
 
 ---
 
-## Experience
+## 📄 DocuNative — Cohere Expedition Hackathon
 
-### Machine Learning Engineer Intern — M2M Tech
-- Built and deployed an end-to-end ML pipeline for a client startup using XGBoost
-- Worked across data cleaning, feature engineering, training, API deployment, and monitoring
-- Stack: Python, FastAPI, Docker, AWS
+**Fully offline multilingual document question-answering system for newcomers and migrants.**
 
-### Analytics and Operations Experience
-- Applied data analysis to inventory systems, forecasting, and process optimization
-- Contributed to measurable operational impact, including waste reduction and reporting automation
-- Background in translating operational data into business decisions
+- Pipeline Lead on a 7-person team.
+- Built an end-to-end RAG pipeline:
+  - PDF extraction
+  - BGE-M3 embeddings
+  - ChromaDB retrieval
+  - Tiny Aya generation
+  - mDeBERTa hallucination verification
+- Executed over **9,000 automated evaluations** across Chinese, Hindi, and Polish.
+- Identified cross-lingual embedding quality—not LLM capability—as the primary retrieval bottleneck.
+
+**Tech**
+
+`Python` • `PyTorch` • `BGE-M3` • `ChromaDB` • `Tiny Aya` • `mDeBERTa` • `Gradio`
+
+**Repository**
+
+https://github.com/docunative-AI/docunative
 
 ---
 
-## Technical Skills
+## 🌾 Tamil Agricultural Advisory Dataset
 
-**Languages:** Python, SQL, Bash  
-**Data:** pandas, NumPy, data cleaning, EDA, dataset curation, schema design  
-**Machine Learning:** scikit-learn, XGBoost, PyTorch, model evaluation, feature engineering  
-**NLP / LLM:** Transformers, RAG, embeddings, multilingual NLP, Hugging Face, ChromaDB  
-**Deployment:** FastAPI, Docker, AWS, Git/GitHub, Linux  
-**Visualization:** matplotlib, Seaborn
+**Adaption Labs Uncharted Data Challenge**
+
+Created a high-quality Tamil agricultural instruction dataset from public-sector resources.
+
+- Built the entire dataset independently from Kisan Call Centre, TNAU Extension Guides, and ICAR contingency plans.
+- Curated 187 structured records covering 48 crops across 20 agricultural categories.
+- Completed 10 iterative submissions over six weeks.
+- Awarded **Grade A (9.4/10)** with honorary recognition from **Sara Hooker**.
+
+**Tech**
+
+`Python` • `Pandas` • `Dataset Engineering` • `Metadata Design`
+
+Dataset
+
+https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa
+
+Repository
+
+https://github.com/VinodAnbalagan/tamil-agri-dataset-
 
 ---
 
-## Education
+## 🔬 Rethinking RNN *(In Progress)*
 
-**M.A.Sc. Electrical Engineering** — University of Windsor  
-**B.E. Electronics & Communication** — Anna University
+Implementing neural architectures from first principles to better understand the evolution of sequence modeling.
 
-**Recent Training**
-- MIT MicroMasters in Statistics and Data Science *(in progress)*
-- Machine Learning Specialization — Stanford
-- Machine Learning & Data Science Certificate — University of Toronto
+Current implementations include:
+
+- Vanilla RNN
+- LSTM
+- GRU
+- Transformer
+- State Space Models (Mamba)
+
+Research focuses on:
+
+- Gradient flow
+- Memory mechanisms
+- Computational efficiency
+- Scaling behavior
+- Architectural trade-offs
+
+**Tech**
+
+`PyTorch` • `NumPy`
+
+---
+
+## 📈 Loss Landscape Visualization
+
+Studying optimization dynamics and neural network convergence through visualization.
+
+- Compare optimization behavior across architectures.
+- Explore why certain models converge more reliably.
+- Visualize training dynamics and loss surfaces.
+
+**Tech**
+
+`PyTorch` • `Matplotlib`
+
+---
+
+# Open Source
+
+### Cohere Labs Open Science Community
+
+- Cross-Team Coordination Lead
+- Multilingual benchmark development
+- Evaluation pipelines
+- Dataset engineering
+
+### Hugging Face
+
+Publishing datasets and machine learning resources.
+
+### The Meta Gradient
+
+Technical articles focused on deep learning, efficient architectures, and implementation from first principles.
+
+---
+
+# Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- Bash
+
+### Machine Learning
+
+- PyTorch
+- Scikit-learn
+- XGBoost
+- Model Evaluation
+- Feature Engineering
+
+### NLP & LLMs
+
+- Transformers
+- Retrieval-Augmented Generation (RAG)
+- Sentence Embeddings
+- Hugging Face
+- ChromaDB
+- Multilingual NLP
+
+### Data Engineering
+
+- Pandas
+- NumPy
+- Dataset Curation
+- Data Cleaning
+- Schema Design
+- Evaluation Pipelines
+
+### Deployment
+
+- FastAPI
+- Docker
+- AWS
+- Git
+- GitHub
+- Linux
+
+### Visualization
+
+- Matplotlib
+
+---
+
+# Education
+
+**M.A.Sc. Electrical Engineering**  
+University of Windsor
+
+**B.E. Electronics & Communication Engineering**  
+Anna University
+
+### Recent Learning
+
+- MIT MicroMasters in Statistics and Data Science *(In Progress)*
+- Stanford Machine Learning Specialization
+- University of Toronto Machine Learning & Data Science Certificate
 - Google Advanced Data Analytics
 
 ---
 
-## Writing
+# Writing
 
-I write about machine learning, architectures, and learning from first principles on **[The Meta Gradient](https://substack.com/@vinodanbalagan)**.
+I write implementation-focused articles that break down modern machine learning research into practical, reproducible code.
+
+Topics include:
+
+- Efficient neural architectures
+- State Space Models
+- Deep learning fundamentals
+- Optimization
+- Representation learning
+- Machine learning engineering
+
+**The Meta Gradient**
+
+https://substack.com/@vinodanbalagan
 
 ---
 
-## Notes
+# Interests
 
-I’m currently seeking opportunities in:
-- Data Analysis
-- Data Science / ML Internships
-- Junior Machine Learning Engineering
-- Research-oriented applied AI work
+- Multilingual NLP
+- Efficient AI
+- Representation Learning
+- State Space Models
+- Evaluation Frameworks
+- Dataset Engineering
+- Open-source ML
+- AI for Scientific Research
 
-Long term, I’m building toward research in efficient reasoning and sequence modeling.
+---
+
+> *"Learning by building, understanding by implementing, and improving through open collaboration."*
