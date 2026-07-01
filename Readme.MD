@@ -45,9 +45,9 @@ Alongside open-source work, I independently research efficient sequence models, 
 
 `Python` • `Pandas` • `Hugging Face Datasets` • `Git` • `GitHub` • `Schema Design` • `ISO 639-2/3` • `Multilingual NLP`
 
-**Repository**
+**Repository** (Private)
 
-https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
+// https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
 
 ---
 
