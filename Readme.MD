@@ -47,7 +47,7 @@ Alongside open-source work, I independently research efficient sequence models, 
 
 **Repository** (Private)
 
-// https://github.com/Cohere-Labs-Community/RiddlesBenchmarking
+<!-- https://github.com/Cohere-Labs-Community/RiddlesBenchmarking -->
 
 ---
 
