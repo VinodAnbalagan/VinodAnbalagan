@@ -218,9 +218,8 @@ Anna University
 
 ### Recent Learning
 
-- MIT MicroMasters in Statistics and Data Science *(In Progress)*
-- Stanford Machine Learning Specialization
 - University of Toronto Machine Learning & Data Science Certificate
+- Stanford Machine Learning Specialization
 - Google Advanced Data Analytics
 
 ---
