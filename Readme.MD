@@ -71,6 +71,3 @@ Certifications: Stanford ML Specialization · Google Advanced Data Analytics
 
 *Learning by building, understanding by implementing, improving through open collaboration.*
 
----
-
-*Learning by building, understanding by implementing, improving through open collaboration.*
