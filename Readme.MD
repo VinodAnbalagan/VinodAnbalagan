@@ -49,7 +49,8 @@ Tamil agricultural instruction dataset built independently from public-sector so
 ---
 
 ## Skills
-                                                                               
+
+|                  |                                                                              |
 | ---------------- | ---------------------------------------------------------------------------- |
 | **Languages**    | Python · SQL · Bash                                                           |
 | **Analytics**    | EDA · statistical analysis · hypothesis testing · Tableau · Excel · KPI reporting · dashboarding |
@@ -60,12 +61,15 @@ Tamil agricultural instruction dataset built independently from public-sector so
 
 ## Education
 
-Machine Learning & Data Science (Certificate) — University of Toronto, Data Sciences Institute
-M.A.Sc. Electrical Engineering — University of Windsor
-B.E. Electronics & Communication — Anna University
-
+- **Machine Learning & Data Science** (Certificate) — University of Toronto, Data Sciences Institute
+- **M.A.Sc. Electrical Engineering** — University of Windsor
+- **B.E. Electronics & Communication** — Anna University
 
 Certifications: Stanford ML Specialization · Google Advanced Data Analytics
+
+---
+
+*Learning by building, understanding by implementing, improving through open collaboration.*
 
 ---
 
