@@ -60,11 +60,12 @@ Tamil agricultural instruction dataset built independently from public-sector so
 
 ## Education
 
-- **Machine Learning & Data Science** University of Toronto
-- **M.A.Sc. Electrical Engineering**, University of Windsor 
-- **B.E. Electronics & Communication**, Anna University
+Machine Learning & Data Science (Certificate) — University of Toronto, Data Sciences Institute
+M.A.Sc. Electrical Engineering — University of Windsor
+B.E. Electronics & Communication — Anna University
 
-Certifications:Stanford ML Specialization · Google Advanced Data Analytics
+
+Certifications: Stanford ML Specialization · Google Advanced Data Analytics
 
 ---
 
