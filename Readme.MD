@@ -10,7 +10,7 @@ I turn data into decisions and models into systems — from procurement analytic
 
 ## Featured Work
 
-### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community
+### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community (Private Repo) 
 
 Open-source cultural reasoning benchmark: **49 languages · ~49,000 riddles · 70+ contributors**
 
