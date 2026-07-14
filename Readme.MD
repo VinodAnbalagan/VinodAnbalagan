@@ -4,7 +4,7 @@
 
 📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient](https://substack.com/@vinodanbalagan)
 
-I turn data into decisions and models into systems — from procurement analytics that drove ~$500K in waste reduction to multilingual datasets, evaluation pipelines, and retrieval systems. I write about deep learning from first principles. Currently **Cross-Team Coordination Lead** for the Multicultural Riddles Benchmark in the **Cohere Labs Open Science Community**, alongside independent research on efficient sequence models (SSMs / Mamba) and optimization dynamics.
+I turn data into decisions and models into systems, from procurement analytics that drove ~$500K in waste reduction to multilingual datasets, evaluation pipelines, and retrieval systems. I write about deep learning from first principles. Currently **Cross-Team Coordination Lead** for the Multicultural Riddles Benchmark in the **Cohere Labs Open Science Community**, alongside independent research on efficient sequence models (SSMs / Mamba) and optimization dynamics.
 
 ---
 
