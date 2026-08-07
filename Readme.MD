@@ -24,7 +24,17 @@ Run with pre-registered hypotheses, an append-only results log, and a decisions 
 
 ## 📌 Selected Work
 
-### 📄 [DocuNative](https://github.com/docunative-AI/docunative) — Cohere Expedition Hackathon
+### 🌍 Multicultural Riddles Benchmark - Cohere Labs Open Science Community *(private repo)*
+Cultural reasoning benchmark: **49 languages · ~49,000 riddles · 70+ contributors**
+
+- Cross-team coordination across data creation, evaluation, and analysis tracks
+- Shipped the v1 pilot dataset on a canonical schema for downstream benchmarking
+- Built tooling that turns validator output into plain-language guidance for non-technical contributors
+- Open-science publication in preparation
+
+`Python` `Pandas` `Hugging Face Datasets` `Schema Design`
+
+### 📄 [DocuNative](https://github.com/docunative-AI/docunative) - Cohere Expedition Hackathon
 Fully offline multilingual document QA for newcomers and migrants. **Pipeline lead**, 7-person team.
 
 - End-to-end RAG: PDF extraction → BGE-M3 embeddings → ChromaDB retrieval → Tiny Aya generation → mDeBERTa hallucination verification
@@ -48,16 +58,6 @@ Synthetic dataset pairing business charts with visual question answering and cha
 Paired with a [Llama-3.2-3B LoRA adapter](https://huggingface.co/vinod-anbalagan/Llama-3.2-3B-marketing-spend-revenue-qa) fine-tuned for table-grounded QA with reasoning traces.
 
 `LoRA/PEFT` `Multimodal` `Synthetic Data`
-
-### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community *(private repo)*
-Cultural reasoning benchmark: **49 languages · ~49,000 riddles · 70+ contributors**
-
-- Cross-team coordination across data creation, evaluation, and analysis tracks
-- Shipped the v1 pilot dataset on a canonical schema for downstream benchmarking
-- Built tooling that turns validator output into plain-language guidance for non-technical contributors
-- Open-science publication in preparation
-
-`Python` `Pandas` `Hugging Face Datasets` `Schema Design`
 
 ### 🧪 Implementations from First Principles
 - [**building-blocks-ml**](https://github.com/VinodAnbalagan/building-blocks-ml) — core ML and deep learning components written from scratch
