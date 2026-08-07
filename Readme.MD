@@ -12,11 +12,10 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 
 **Inductive Bias & Representation** *(in progress)*
 
-How does a constraint — built into the architecture, or into the learning rule — change what a network actually represents?
+How does a constraint built into the architecture, or into the learning rule change what a network actually represents?
 
 The design is one measurement harness pointed at a sequence of probes rather than a single experiment: local learning rules first, then architectural equivariance, then world models. Built in JAX/Equinox, with a PyTorch lane reserved for reproducing published baselines.
 
-Run with pre-registered hypotheses, an append-only results log, and a decisions file that records *reasoning* rather than conclusions — so it's obvious later when a decision's assumptions have expired. A null result should be publishable, not inconvenient.
 
 `JAX` `Equinox` `PyTorch` `Mechanistic Interpretability` `Representation Learning`
 
