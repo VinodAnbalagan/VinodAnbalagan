@@ -12,28 +12,33 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 
 **Inductive Bias & Representation** *(in progress)*
 
-How does a constraint built into the architecture, or into the learning rule change what a network actually represents?
+How does a constraint — built into the architecture, or into the learning rule — change what a network actually represents?
 
-The design is one measurement harness pointed at a sequence of probes rather than a single experiment: local learning rules first, then architectural equivariance, then world models. Built in JAX/Equinox, with a PyTorch lane reserved for reproducing published baselines.
+One measurement harness pointed at a sequence of probes rather than a single experiment: local learning rules first, then architectural equivariance, then world models. Built in JAX/Equinox, with a PyTorch lane reserved for reproducing published baselines before a reimplementation counts.
 
+Run with pre-registered hypotheses, an append-only results log, and a decisions file recording reasoning rather than conclusions — so it's visible later when a decision's assumptions have expired.
 
 `JAX` `Equinox` `PyTorch` `Mechanistic Interpretability` `Representation Learning`
 
 ---
 
+## 🧪 Implementations from First Principles
+
+Architectures written from scratch to study how they actually behave, rather than to use them.
+
+| Repo | What it's for |
+| --- | --- |
+| [**building-blocks-ml**](https://github.com/VinodAnbalagan/building-blocks-ml) | Core ML and deep learning components, implemented from zero |
+| [**Deep_Learning_Experiments**](https://github.com/VinodAnbalagan/Deep_Learning_Experiments) | RNN → LSTM → GRU → Transformer → Mamba; gradient flow, memory, efficiency trade-offs |
+| [**Loss_Landscape**](https://github.com/VinodAnbalagan/Loss_Landscape) | Visualizing optimization surfaces and why some architectures converge more reliably |
+| [**Uzumaki**](https://github.com/VinodAnbalagan/Uzumaki) | Growing proto-cognition from a substrate rather than engineering it toward a goal |
+| [**chaos-canvas**](https://github.com/VinodAnbalagan/chaos-canvas) | Learning mathematics through generative art |
+
+---
+
 ## 📌 Selected Work
 
-### 🌍 Multicultural Riddles Benchmark - Cohere Labs Open Science Community *(private repo)*
-Cultural reasoning benchmark: **49 languages · ~49,000 riddles · 70+ contributors**
-
-- Cross-team coordination across data creation, evaluation, and analysis tracks
-- Shipped the v1 pilot dataset on a canonical schema for downstream benchmarking
-- Built tooling that turns validator output into plain-language guidance for non-technical contributors
-- Open-science publication in preparation
-
-`Python` `Pandas` `Hugging Face Datasets` `Schema Design`
-
-### 📄 [DocuNative](https://github.com/docunative-AI/docunative) - Cohere Expedition Hackathon
+### 📄 [DocuNative](https://github.com/docunative-AI/docunative) — Cohere Expedition Hackathon
 Fully offline multilingual document QA for newcomers and migrants. **Pipeline lead**, 7-person team.
 
 - End-to-end RAG: PDF extraction → BGE-M3 embeddings → ChromaDB retrieval → Tiny Aya generation → mDeBERTa hallucination verification
@@ -42,15 +47,6 @@ Fully offline multilingual document QA for newcomers and migrants. **Pipeline le
 
 `Python` `PyTorch` `ChromaDB` `BGE-M3` `Gradio`
 
-### 🌾 [Tamil Agricultural Advisory Dataset](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa) — Adaption Labs Uncharted Data Challenge
-Tamil agricultural instruction dataset built from public-sector sources (Kisan Call Centre, TNAU, ICAR). [Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-)
-
-- 187 structured records · 48 crops · 20 categories · 10 iterative submissions over six weeks
-- **Grade A (9.4/10)**, recognized by Sara Hooker, co-founder of Adaption Labs
-- Follow-up: [11-language Indian agricultural dataset](https://huggingface.co/datasets/vinod-anbalagan/indian-agri-advice-multilingual) using a layered regex + LLM-as-judge filtering pipeline
-
-`Python` `Pandas` `Dataset Engineering` `Multilingual NLP`
-
 ### 📊 [Adaption Charts P2](https://huggingface.co/datasets/vinod-anbalagan/adaption-charts-p2) — Multimodal Chart Understanding
 Synthetic dataset pairing business charts with visual question answering and chart-to-table extraction. 500+ downloads across versions.
 
@@ -58,12 +54,24 @@ Paired with a [Llama-3.2-3B LoRA adapter](https://huggingface.co/vinod-anbalagan
 
 `LoRA/PEFT` `Multimodal` `Synthetic Data`
 
-### 🧪 Implementations from First Principles
-- [**building-blocks-ml**](https://github.com/VinodAnbalagan/building-blocks-ml) — core ML and deep learning components written from scratch
-- [**Loss_Landscape**](https://github.com/VinodAnbalagan/Loss_Landscape) — visualizing optimization surfaces and why some architectures converge more reliably
-- [**Deep_Learning_Experiments**](https://github.com/VinodAnbalagan/Deep_Learning_Experiments) — RNN → LSTM → GRU → Transformer → Mamba, comparing gradient flow, memory, and efficiency trade-offs
-- [**Uzumaki**](https://github.com/VinodAnbalagan/Uzumaki) — growing proto-cognition from a substrate rather than engineering it toward a goal
-- [**chaos-canvas**](https://github.com/VinodAnbalagan/chaos-canvas) — learning mathematics through generative art
+### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community *(private repo)*
+Cultural reasoning benchmark spanning 50+ languages and 70+ contributors.
+
+- Cross-team coordination across data creation, evaluation, and analysis tracks
+- Shipped the v1 pilot dataset on a canonical schema for downstream benchmarking
+- Built tooling that turns validator output into plain-language guidance for non-technical contributors
+- Open-science publication in preparation
+
+`Python` `Pandas` `Hugging Face Datasets` `Schema Design`
+
+### 🌾 [Tamil Agricultural Advisory Dataset](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa) — Adaption Labs Uncharted Data Challenge
+Tamil agricultural instruction dataset built from public-sector sources (Kisan Call Centre, TNAU, ICAR). [Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-)
+
+- 187 structured records · 48 crops · 20 categories · 10 iterative submissions over six weeks
+- **Grade A (9.4/10)**, honorary recognition from Sara Hooker, co-founder of Adaption Labs
+- Follow-up: [11-language Indian agricultural dataset](https://huggingface.co/datasets/vinod-anbalagan/indian-agri-advice-multilingual) using a layered regex + LLM-as-judge filtering pipeline
+
+`Python` `Pandas` `Dataset Engineering` `Multilingual NLP`
 
 ---
 
@@ -78,16 +86,21 @@ Building and breaking AI systems to understand them, with the philosophical bits
 
 ---
 
+## 📚 Currently Learning
+
+Deep learning theory through a structured reading list, and backend systems engineering in Python and Go — the parts of ML engineering that live outside the model.
+
+---
+
 ## 🛠 Skills
 
 | Area | Tools |
 | --- | --- |
-| **Languages** | Python · SQL · Bash |
+| **Languages** | Python · Go *(learning)* · SQL · Bash |
 | **Research** | JAX · Equinox · PyTorch · mechanistic interpretability · experiment design · pre-registration |
-| **ML / DL** | scikit-learn · XGBoost · Transformers · LoRA/PEFT · model evaluation · probability calibration |
+| **ML / DL** | Transformers · LoRA/PEFT · state space models · scikit-learn · XGBoost · model evaluation · probability calibration |
 | **NLP & Retrieval** | Hugging Face · embeddings · RAG · ChromaDB · multilingual NLP · LLM evaluation |
 | **Data** | Pandas · NumPy · dataset curation · schema design · data validation · evaluation pipelines |
-| **Analytics** | EDA · statistical analysis · hypothesis testing · Tableau · Power BI · Excel · KPI reporting |
 | **Deployment** | Docker · FastAPI · AWS · Git · Linux |
 
 ---
@@ -95,12 +108,11 @@ Building and breaking AI systems to understand them, with the philosophical bits
 ## 🎓 Background
 
 - **Microcredential, Artificial Intelligence** — University of Toronto, 2025
-- **Junior Data Analyst Program** — NPower Canada, 2025
 - **M.A.Sc., Electronic & Computer Science Engineering** — University of Windsor
   *Thesis: FPGA implementation of face recognition using Eigenfaces*
 - **B.E., Electronics & Communication Engineering** — Anna University
 
-Certifications: Wolfram ML Statistical Foundations · NVIDIA AI Infrastructure & Operations · Stanford Online / Coursera ML Specialization · Google Advanced Data Analytics · Azure AI-900
+Certifications: Wolfram ML Statistical Foundations · NVIDIA AI Infrastructure & Operations · Stanford Online / Coursera ML Specialization · Azure AI-900
 
 Before all of this: ten years in supply chain operations, procurement analysis, and process optimization.
 
