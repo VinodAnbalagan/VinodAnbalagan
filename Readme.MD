@@ -38,6 +38,16 @@ Architectures written from scratch to study how they actually behave, rather tha
 
 ## 📌 Selected Work
 
+### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community *(private repo)*
+Cultural reasoning benchmark spanning 50+ languages and 70+ contributors.
+
+- Cross-team coordination across data creation, evaluation, and analysis tracks
+- Shipped the v1 pilot dataset on a canonical schema for downstream benchmarking
+- Built tooling that turns validator output into plain-language guidance for non-technical contributors
+- Open-science publication in preparation
+
+`Python` `Pandas` `Hugging Face Datasets` `Schema Design`
+
 ### 📄 [DocuNative](https://github.com/docunative-AI/docunative) — Cohere Expedition Hackathon
 Fully offline multilingual document QA for newcomers and migrants. **Pipeline lead**, 7-person team.
 
@@ -53,16 +63,6 @@ Synthetic dataset pairing business charts with visual question answering and cha
 Paired with a [Llama-3.2-3B LoRA adapter](https://huggingface.co/vinod-anbalagan/Llama-3.2-3B-marketing-spend-revenue-qa) fine-tuned for table-grounded QA with reasoning traces.
 
 `LoRA/PEFT` `Multimodal` `Synthetic Data`
-
-### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community *(private repo)*
-Cultural reasoning benchmark spanning 50+ languages and 70+ contributors.
-
-- Cross-team coordination across data creation, evaluation, and analysis tracks
-- Shipped the v1 pilot dataset on a canonical schema for downstream benchmarking
-- Built tooling that turns validator output into plain-language guidance for non-technical contributors
-- Open-science publication in preparation
-
-`Python` `Pandas` `Hugging Face Datasets` `Schema Design`
 
 ### 🌾 [Tamil Agricultural Advisory Dataset](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa) — Adaption Labs Uncharted Data Challenge
 Tamil agricultural instruction dataset built from public-sector sources (Kisan Call Centre, TNAU, ICAR). [Repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-)
