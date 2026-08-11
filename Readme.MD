@@ -22,20 +22,6 @@ Run with pre-registered hypotheses, an append-only results log, and a decisions 
 
 ---
 
-## 🧪 Implementations from First Principles
-
-Architectures written from scratch to study how they actually behave, rather than to use them.
-
-| Repo | What it's for |
-| --- | --- |
-| [**building-blocks-ml**](https://github.com/VinodAnbalagan/building-blocks-ml) | Core ML and deep learning components, implemented from zero |
-| [**Deep_Learning_Experiments**](https://github.com/VinodAnbalagan/Deep_Learning_Experiments) | RNN → LSTM → GRU → Transformer → Mamba; gradient flow, memory, efficiency trade-offs |
-| [**Loss_Landscape**](https://github.com/VinodAnbalagan/Loss_Landscape) | Visualizing optimization surfaces and why some architectures converge more reliably |
-| [**Uzumaki**](https://github.com/VinodAnbalagan/Uzumaki) | Growing proto-cognition from a substrate rather than engineering it toward a goal |
-| [**chaos-canvas**](https://github.com/VinodAnbalagan/chaos-canvas) | Learning mathematics through generative art |
-
----
-
 ## 📌 Selected Work
 
 ### 🌍 Multicultural Riddles Benchmark — Cohere Labs Open Science Community *(private repo)*
