@@ -14,22 +14,8 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 A cultural-reasoning benchmark spanning **51 languages and ~6,100 riddles**, built with ~100 contributors. Riddles are a setting where surface fluency and genuine understanding come apart sharply: a model can produce perfect Tamil and still miss what a Tamil riddle is actually about.
 
 **Reverie: does a world model represent what it cannot see?** · *active*
-Balls bounce and collide in a box, and sometimes one passes behind an occluder. The model is trained on the video with **no physics in the loss**. While the ball is hidden, does the internal state still contain it?
-
-Three analyses on an RSSM:
-
-- **Probe** whether position, velocity and presence stay decodable from the deterministic state and the stochastic latent, tracked frame by frame through the occlusion window
-- **Patch** the latent at occlusion onset, against a random-direction control of equal norm, to test whether that representation is load-bearing rather than merely correlated
-- **Dynamics**: while blind, does the state hold a fixed point, drift along a slow manifold, or decay toward the prior
-
-The sharpest control is a ball-ball collision hidden behind the occluder. It is unpredictable from the pre-occlusion state, which is what separates genuine integration from velocity extrapolation. External validation on CLEVRER, where the occlusion mechanism differs but the question does not.
 
 **World model evaluation harness** · Cohere Labs "World Models from Scratch" · *in progress*
-One small, fully instrumented 2D physics platform with exact ground truth, and a gated sequence of pre-registered experiments run on it, rather than eight unrelated demos. The through-line is measurement: when does a learned world model look plausible and fail dynamically? First a calibration study asking whether sampling disagreement is actually a usable uncertainty signal, then an architecture comparison, then exposure bias and test-time compute. Open-loop rollout is always reported separately from teacher-forced one-step quality, and visual error, state error and action error are never collapsed into one number.
-
-Both run the same way: hypotheses and falsification conditions written down before training, a run manifest behind every figure, seed-level results rather than mean curves alone, and an append-only log so it stays visible later when a decision's assumptions have expired.
-
-`JAX` `Equinox` `PyTorch` `probing` `activation patching` `pre-registration`
 
 ---
 
