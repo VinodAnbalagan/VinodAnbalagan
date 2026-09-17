@@ -16,7 +16,7 @@ A cultural-reasoning benchmark spanning **51 languages and ~6,100 riddles**, bui
 **Reverie: does a world model represent what it cannot see?** · *active*
 Balls bounce and collide in a box, and sometimes one passes behind an occluder. The model is trained on the video with **no physics in the loss**. While the ball is hidden, does the internal state still contain it?
 
-Three analyses on an RSSM, with a JEPA arm for comparison:
+Three analyses on an RSSM:
 
 - **Probe** whether position, velocity and presence stay decodable from the deterministic state and the stochastic latent, tracked frame by frame through the occlusion window
 - **Patch** the latent at occlusion onset, against a random-direction control of equal norm, to test whether that representation is load-bearing rather than merely correlated
