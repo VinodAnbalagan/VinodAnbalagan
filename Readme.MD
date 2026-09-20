@@ -13,17 +13,9 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 **Multicultural Riddles Benchmark** · Cohere Labs Open Science Community · *first author, paper in preparation*
 A cultural-reasoning benchmark spanning **51 languages and ~6,100 riddles**, built with ~100 contributors. Riddles are a setting where surface fluency and genuine understanding come apart sharply: a model can produce perfect Tamil and still miss what a Tamil riddle is actually about.
 
-**Reverie: does a world model represent what it cannot see?** · *active*
+**Reverie: does a world model represent what it cannot see?** · *in progress*
 
-**World model evaluation harness** · Cohere Labs "World Models from Scratch" · *in progress*
-
----
-
-## 🎛 Try something
-
-**[Loss Landscape Explorer](https://molab.marimo.io/notebooks/nb_Nc8hhS2UiJqyGRsvpY1nFo/app)** · interactive
-A 2D slice through a 50,000-dimensional weight space you can rotate, with a noise-injection slider that tests whether a minimum is genuinely flat or just got lucky. Built on Ziming Liu's local-plane blending method, extended with 3D Plotly rendering and a robustness test.
-Write-up: **[Finding the Manifold](https://vinodanbalagan.substack.com/p/finding-the-manifold-where-neural)**
+**World models demo** · Cohere Labs "World Models from Scratch" · *in progress*
 
 ---
 
