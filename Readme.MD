@@ -73,10 +73,9 @@ Follow-up: **[11-language Indian agricultural dataset](https://huggingface.co/da
 
 Building and breaking AI systems to understand them, with the philosophical bits left in.
 
-- **[Finding the Manifold: Where Neural Networks Land](https://vinodanbalagan.substack.com/p/finding-the-manifold-where-neural)** · the geometry of optimization, with a live demo
-- **[NeurIPS 2025: The Year We Admitted We Were Lost](https://vinodanbalagan.substack.com/p/neurips-2025-the-year-we-admitted)** · notes on the cracks in scaling orthodoxy
-- **[Animals, Ghosts, and Chimeras](https://vinodanbalagan.substack.com/p/animals-ghosts-and-chimeras-the-ai)** · a four-part series on the embodiment debate
-- **[Building the Dataset Tamil Farmers Deserve](https://vinodanbalagan.substack.com/p/building-the-dataset-tamil-farmers)** · where AI fails the Global South
+- **[Finding the Manifold: Where Neural Networks Land](https://vinodanbalagan.substack.com/p/finding-the-manifold-where-neural)** · the geometry of loss landscape, with a live demo
+- **[The Architecture of Dreams: How Neural Networks Learned to Imagine](https://vinodanbalagan.substack.com/p/the-architecture-of-dreams-how-neural)** 
+- **[Freezing the Noise](https://vinodanbalagan.substack.com/p/freezing-the-noise)** · How one line of algebra made sampling differentiable
 
 ---
 
