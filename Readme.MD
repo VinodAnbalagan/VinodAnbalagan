@@ -32,7 +32,7 @@ Cohere Labs Open Science Community · **First author** · Apr 2026 to present ·
 `Python` `Pandas` `Hugging Face Datasets` `schema design` `LLM evaluation`
 
 ### 📊 Adaption Labs AutoScientist Challenge
-**2nd place, $1,000** · Data & Visualization track · 2026
+**2nd place, $1,000 USD** · Data & Visualization track · 2026
 
 - **[Adaption Charts P2](https://huggingface.co/datasets/vinod-anbalagan/adaption-charts-p2)**: synthetic multimodal dataset for chart QA and chart-to-table extraction, designed to raise difficulty through varied chart styles, truncated axes, and reduced dependence on superficial visual cues
 - Paired **[Llama-3.2-3B LoRA adapter](https://huggingface.co/vinod-anbalagan/Llama-3.2-3B-marketing-spend-revenue-qa)** fine-tuned for table-grounded QA with reasoning traces
