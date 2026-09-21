@@ -1,7 +1,7 @@
 # Hi, I'm Vinod 👋
 
 **ML engineer working on representation and evaluation: when a model succeeds, has it learned the structure of the problem, or the surface cues that happen to correlate with it?**
-> 🎓 **I'm looking for Ms or PhD positions and research internships in AI** in world models, multimodal learning and representation learning, in Europe, Canada or the US, and I can start immediately. If you lead a lab or research group and think my work might fit, I'd be glad to hear from you at [your email] or on [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/).
+> 🎓 **I'm looking for MS or PhD positions and research internships in AI** in world models, multimodal learning and representation learning, in Europe, Canada or the US, and I can start immediately. If you lead a lab or research group and think my work might fit, I'd be glad to hear from you at [your email] or on [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/).
 
 📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient](https://substack.com/@vinodanbalagan)
 
