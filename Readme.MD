@@ -2,7 +2,7 @@
 
 **ML engineer and independent researcher working on representation learning, multimodal AI, and world models. I’m interested in a simple question: when a model succeeds, has it learned the structure of the problem, or the surface cues that happen to correlate with it?**
 
-🔬 **I'm looking to join research groups working on world models, representation learning, and multimodal learning — through research engineering, research assistantships, internships, or funded MS/PhD positions.** If you lead a lab or research group and think my work might fit, I'd be glad to hear from you.
+🔬 **I'm looking to join research groups working on world models, representation learning, and multimodal learning, through research engineering, research assistantships, internships, or funded MS/PhD positions.** If you lead a lab or research group and think my work might fit, I'd be glad to hear from you.
 
 📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient](https://substack.com/@vinodanbalagan) · [Website](https://vinodanbalagan.vercel.app/)
 
