@@ -17,8 +17,6 @@ A cultural-reasoning benchmark spanning **51 languages and ~6,100 riddles**, bui
 
 **Reverie: does a world model represent what it cannot see?** · *in progress*
 
-**World models demo** · Cohere Labs "World Models from Scratch" · *in progress*
-
 ---
 
 ## 📌 Selected work
