@@ -22,7 +22,7 @@ A cultural-reasoning benchmark spanning **51 languages and ~6,100 riddles**, bui
 
 ## 📌 Selected work
 
-### 🌍 Multicultural Riddles Benchmark
+### 🌍 Cultural Riddles Benchmark
 Cohere Labs Open Science Community · **First author** · Apr 2026 to present · *(repo private until publication)*
 
 - Lead data creation, validation, evaluation, and analysis across 51 languages and ~6,100 riddles
