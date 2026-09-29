@@ -25,10 +25,11 @@ A cultural-reasoning benchmark spanning **51 languages and ~6,100 riddles**, bui
 ### 🌍 Cultural Riddles Benchmark
 Cohere Labs Open Science Community · **First author** · Apr 2026 to present · *(repo private until publication)*
 
-- Lead data creation, validation, evaluation, and analysis across 51 languages and ~6,100 riddles
-- Align ~100 contributors across data, evaluation, and analysis tracks on schema design, validation rules, and release requirements
-- Built Python tooling that turns validator output into contributor-actionable guidance, improving annotation consistency and cutting review cycles
-- Designed the canonical schema, benchmarking pipeline, and structured dataset releases on GitHub and Hugging Face
+- Lead the data, publishing, and analysis infrastructure for a multilingual cultural-reasoning benchmark of ~6,100 natively written, human-evaluated riddles across 61 communities and 51 languages (paper in preparation).
+- Built the self-serve contribution pipeline: fork-based submissions auto-validated on each pull request via GitHub Actions, plus a one-command publisher that rebuilds the dataset and ships versioned releases to Hugging Face with contributor credits and ISO language codes, so the benchmark keeps growing after release without the core team.
+- Built a public results dashboard on Hugging Face Spaces with per-model, per-culture, difficulty, and error-type views, every figure reconciled to the human-evaluation source data.
+- Owned data integrity across 30 evaluated models: caught scoring-definition and coverage issues that were inflating results, added automated reconciliation checks, and ran an annotation audit that led to re-validating a community whose scores were unreliable.
+- Coordinated ~100 contributors across writing, validation, and evaluation on shared schema, validation rules, and release requirements, and built Python tooling that turns validator output into contributor-ready feedback to speed up review.
 
 `Python` `Pandas` `Hugging Face Datasets` `schema design` `LLM evaluation`
 
