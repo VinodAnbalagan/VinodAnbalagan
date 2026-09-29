@@ -1,9 +1,10 @@
 # Hi, I'm Vinod 👋
 
-**ML engineer working on representation and evaluation: when a model succeeds, has it learned the structure of the problem, or the surface cues that happen to correlate with it?**
-> 🎓 **I'm looking for MS or PhD positions and research internships in AI** in world models, multimodal learning and representation learning, in Europe, Canada or the US, and I can start immediately. If you lead a lab or research group and think my work might fit, I'd be glad to hear from you.
+**ML engineer and independent researcher working on representation learning, multimodal AI, and world models. I’m interested in a simple question: when a model succeeds, has it learned the structure of the problem, or the surface cues that happen to correlate with it?**
 
-📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient - Substack](https://substack.com/@vinodanbalagan) · [Website](https://vinodanbalagan.vercel.app/)
+🔬 **I'm looking to join research groups working on world models, representation learning, and multimodal learning — through research engineering, research assistantships, internships, or funded MS/PhD positions.** If you lead a lab or research group and think my work might fit, I'd be glad to hear from you.
+
+📍 Toronto, Canada · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient](https://substack.com/@vinodanbalagan) · [Website](https://vinodanbalagan.vercel.app/)
 
 I spent ten years forecasting demand in warehouses and grocery stores, which is a crude way of modelling a world that keeps surprising you. I learned machine learning trying to understand why those models failed, and I am still on that question with better tools.
 
