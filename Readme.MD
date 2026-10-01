@@ -76,8 +76,8 @@ Building and breaking AI systems to understand them, with the philosophical bits
 
 | Area | Tools |
 | --- | --- |
-| **Languages** | Python · SQL · Bash · Go *(learning)* |
-| **Research** | JAX · Equinox · PyTorch · probing · causal intervention · experiment design · pre-registration |
+| **Languages** | Python · SQL · Bash  |
+| **Research** | JAX · PyTorch · probing · causal intervention · experiment design  |
 | **ML / DL** | Transformers · LoRA/PEFT · state space models · scikit-learn · XGBoost · probability calibration |
 | **NLP & retrieval** | Hugging Face · embeddings · RAG · ChromaDB · multilingual NLP · LLM-as-judge evaluation |
 | **Data** | Pandas · NumPy · dataset curation · schema design · data validation · benchmark construction |
