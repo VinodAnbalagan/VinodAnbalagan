@@ -97,10 +97,11 @@ Building and breaking AI systems to understand them, with the philosophical bits
 
 ## 🎓 Background
 
+- **Machine Learning Foundations** · University of Toronto, 2025
 - **MASc, Electronic & Computer Science Engineering** · University of Windsor, 2010–2012
   *Thesis: FPGA implementation of face recognition using Eigenfaces*
 - **BE, Electronics & Communication Engineering** · Anna University, 2004–2008
-- **Machine Learning Foundations** · University of Toronto, 2025
+
 
 Cohere Labs ML Summer School (2026) · Wolfram ML Statistical Foundations · NVIDIA AI Infrastructure & Operations · Stanford Online ML Specialization · Azure AI-900 · OpenEDG Python Institute
 
