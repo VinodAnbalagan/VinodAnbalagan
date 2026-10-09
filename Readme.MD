@@ -12,7 +12,7 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 
 ## 🔭 Now
 
-**[Reverie](https://vinodanbalagan.vercel.app/research): does a world model represent what it cannot see?** · *pre-registered, in progress*
+**[Reverie](https://vinodanbalagan.vercel.app/research): does a world model represent what it cannot see?** · *in progress*
 Testing whether recurrent state-space world models trained on video keep a decodable, causally used representation of objects behind occluders, or just extrapolate in straight lines. Linear and MLP probes, activation patching, and hidden collisions as the control. Built in JAX.
 
 **Learning model-based RL from the ground up** · *ongoing*
