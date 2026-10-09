@@ -27,7 +27,7 @@ Working through *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.) and impl
 ### 🌍 Multicultural Riddles Benchmark
 Cohere Labs Open Science Community · **First author & cross-team lead** · Apr 2026 to present · MRL 2026 · under review at TACL · *(repo private until publication)*
 
-A cultural-reasoning benchmark of **~6,100 natively written, human-evaluated riddles across 51 languages and 61 communities**, built with ~100 contributors. Riddles are a setting where surface fluency and genuine understanding come apart sharply: a model can produce perfect Tamil and still miss what a Tamil riddle is actually about.
+A cultural-reasoning benchmark of **~6,100 natively written, human-evaluated riddles across 51 languages and 61 communities**, built with ~187+ contributors. Riddles are a setting where surface fluency and genuine understanding come apart sharply: a model can produce perfect Tamil and still miss what a Tamil riddle is actually about.
 
 - Owned data integrity across 30 evaluated models: caught scoring-definition and coverage issues that were inflating results, added automated reconciliation checks, and ran an annotation audit that led to re-validating a community whose scores were unreliable.
 - Built the self-serve contribution pipeline: fork-based submissions auto-validated on each pull request via GitHub Actions, plus a one-command publisher that ships versioned releases to Hugging Face with contributor credits and ISO language codes.
