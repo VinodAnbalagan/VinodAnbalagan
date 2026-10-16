@@ -1,8 +1,8 @@
 # Hi, I'm Vinod 👋
 
-**I study what models actually learn. When a model succeeds, has it learned the structure of the problem, or cues that happen to correlate with it? I build datasets, evaluations, and probes to find out, and I'm now taking that question into world models and model-based RL.**
+**ML engineer working across fine-tuning, retrieval, and data pipelines. My research asks what models actually learn: when a model succeeds, has it learned the structure of the problem, or cues that happen to correlate with it? I build datasets and probes to find out, and I'm now taking that question into world models and model-based learning for embodied agents.**
 
-🔬 **I'm looking to join a research group or team working on world models, representation learning, or evaluation, as a research engineer, research assistant, intern, or funded MS/PhD student.** If you think my work might fit, I'd be glad to hear from you.
+🔬 **Open to ML engineer, research engineer, and applied scientist roles, and to research assistant, internship, or funded MS/PhD positions, especially on teams working on world models, robot learning, or model-based RL.** If you think my work might fit, I'd be glad to hear from you.
 
 📍 Toronto, Canada · [Website](https://vinodanbalagan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient](https://substack.com/@vinodanbalagan)
 
@@ -15,8 +15,8 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 **[Reverie](https://vinodanbalagan.vercel.app/research): does a world model represent what it cannot see?** · *in progress*
 Testing whether recurrent state-space world models trained on video keep a decodable, causally used representation of objects behind occluders, or just extrapolate in straight lines. Linear and MLP probes, activation patching, and hidden collisions as the control. Built in JAX.
 
-**Learning model-based RL from the ground up** · *ongoing*
-Working through *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.) and implementing the pieces myself, one small measured experiment at a time, in the [Lab](https://vinodanbalagan.vercel.app/lab).
+**Learning model-based RL and robot learning from the ground up** · *ongoing*
+Following Berkeley's CS 285 alongside *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.), then imitation learning (BC, ACT, Diffusion Policy) and vision-language-action models in simulation with MuJoCo and LeRobot. I implement the pieces myself, one small measured experiment at a time, in the [Lab](https://vinodanbalagan.vercel.app/lab).
 
 **Multicultural Riddles Benchmark** · Cohere Labs Open Science Community · *first author* · presenting at **MRL 2026**, under review at **TACL**, arXiv preprint coming soon
 
