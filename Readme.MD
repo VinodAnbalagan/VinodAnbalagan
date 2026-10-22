@@ -26,6 +26,7 @@ Following Berkeley's CS 285 alongside *Deep Reinforcement Learning Hands-On* (La
 ### 🌍 [Cultural Riddles Benchmark](https://github.com/Cohere-Labs-Community/CulturalRiddles)
 Cohere Labs Open Science Community · **First author & cross-team lead** · Apr 2026 to present  
 - Presenting: 6th Workshop on Multilingual Representation Learning (MRL) · under review at TACL · [arxiv](https://arxiv.org/abs/2610.29968)
+- [Dashboard](https://huggingface.co/spaces/CohereLabsCommunity/CulturalRiddles)
 
 Data and release infrastructure for CulturalRiddles: a community-built multilingual benchmark of 6,191 cultural riddles, with a CI-validated contribution pipeline, open Hugging Face release, and interactive results dashboard.
 
