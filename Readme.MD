@@ -18,7 +18,6 @@ Testing whether recurrent state-space world models trained on video keep a decod
 **Learning model-based RL and robot learning from the ground up** · *ongoing*
 Following Berkeley's CS 285 alongside *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.), then imitation learning (BC, ACT, Diffusion Policy) and vision-language-action models in simulation with MuJoCo and LeRobot. I implement the pieces myself, one small measured experiment at a time, in the [Lab](https://vinodanbalagan.vercel.app/lab).
 
-**Multicultural Riddles Benchmark** · Cohere Labs Open Science Community · *first author* · presenting at **MRL 2026**, under review at **TACL**, arXiv preprint coming soon
 
 ---
 
