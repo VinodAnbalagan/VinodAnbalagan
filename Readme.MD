@@ -24,7 +24,7 @@ Following Berkeley's CS 285 alongside *Deep Reinforcement Learning Hands-On* (La
 
 ## 📌 Selected work
 
-### 🌍 Multicultural Riddles Benchmark
+### 🌍 [Cultural Riddles Benchmark](https://github.com/Cohere-Labs-Community/CulturalRiddles)
 Cohere Labs Open Science Community · **First author & cross-team lead** · Apr 2026 to present  
 - Presenting: 6th Workshop on Multilingual Representation Learning (MRL) · under review at TACL · [arxiv](https://arxiv.org/abs/2610.29968)
 
