@@ -29,7 +29,7 @@ Cohere Labs Open Science Community · **First author & cross-team lead** · Apr 
 
 Data and release infrastructure for CulturalRiddles: a community-built multilingual benchmark of 6,191 cultural riddles, with a CI-validated contribution pipeline, open Hugging Face release, and interactive results dashboard.
 
-### 📊 Gridline & Prism: what does a win rate actually measure?
+### 📊 Gridline & Prism: what does a win rate in AutoScientist actually measure?
 Adaption Labs AutoScientist Challenge · **2nd place, $1,000** · Data & Visualization track · 2026
 
 LoRA fine-tunes of vision-language models (Gemma-3-27B, Qwen3.5-9B) for short-answer chart QA, trained on two correct-by-construction datasets (one visual style for Gridline, ten for Prism) where every answer is computed from seeded values *before* the chart is drawn, plus a hand-authored hardset from real StatCan, BLS, ECB, and WHO charts.
