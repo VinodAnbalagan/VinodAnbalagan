@@ -1,6 +1,6 @@
 # Hi, I'm Vinod 👋
 
-**ML engineer working across fine-tuning, retrieval, and data pipelines. My research asks what models actually learn: when a model succeeds, has it learned the structure of the problem, or cues that happen to correlate with it? I build datasets and probes to find out, and I'm now taking that question into world models and model-based learning for embodied agents.**
+**ML engineer working across fine-tuning, retrieval, and data pipelines. My research asks what models actually learn: when a model succeeds, has it learned the structure of the problem, or cues that happen to correlate with it? I’m now taking that question into world models, embodied AI, and robotics.**
 
 🔬 **Open to ML engineer, research engineer, and applied scientist roles, and to research assistant, internship, or funded MS/PhD positions, especially on teams working on world models, robot learning, or model-based RL.** If you think my work might fit, I'd be glad to hear from you.
 
