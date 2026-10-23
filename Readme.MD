@@ -12,8 +12,8 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 
 ## 🔭 Now
 
-**[Reverie](https://vinodanbalagan.vercel.app/research): does a world model represent what it cannot see?** · *in progress*
-Testing whether recurrent state-space world models trained on video keep a decodable, causally used representation of objects behind occluders, or just extrapolate in straight lines. Linear and MLP probes, activation patching, and hidden collisions as the control. Built in JAX.
+**[Reverie](https://github.com/VinodAnbalagan/reverie): does a world model keep track of what it can't see?** · *in progress*
+A world model learns bouncing-ball video from pixels. While a ball is hidden behind a wall, I test whether its position can be read from the model's internal state, and whether swapping that state changes where the model expects the ball to reappear. Collisions that happen behind the wall separate real tracking from straight-line guessing. Hypotheses registered before training.
 
 **Learning model-based RL and robot learning from the ground up** · *ongoing*
 Following Berkeley's CS 285 alongside *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.), then imitation learning (BC, ACT, Diffusion Policy) and vision-language-action models in simulation with MuJoCo and LeRobot. I implement the pieces myself, one small measured experiment at a time, in the [Lab](https://vinodanbalagan.vercel.app/lab).
