@@ -12,8 +12,8 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 
 ## 🔭 Now
 
-**[Keepsake](https://github.com/VinodAnbalagan/keepsake): can a robot remember only what surprises it?** · *in progress, preprint planned for December 2026*
-Most robot foundation models act on the current camera frame alone, which breaks on long tasks where the frame does not show how far along you are. Keepsake tests whether a fast latent world-model planner can fill a small, fixed memory using its own surprise, writing only when its prediction fails, and measures task success and planning time per decision together, against no memory, frame stacking, a recurrent state, full history and an oracle. Simulation first, then a low-cost robot arm. Progress, step by step, in the [Lab](https://vinodanbalagan.vercel.app/lab).
+**[Keepsake](https://github.com/VinodAnbalagan/keepsake): what should a robot remember?** · *in progress, preprint planned for December 2026*
+Most robot foundation models act on the current camera frame alone, which breaks on long tasks where the frame does not show how far along you are. Keepsake tests whether a world model's own surprise is a good guide to what a fast planner should keep in a small, fixed memory, and measures task success and planning time per decision together, against no memory, frame stacking, a recurrent state, full history and an oracle. Simulation first, then a low-cost robot arm. Progress, step by step, in the [Lab](https://vinodanbalagan.vercel.app/lab).
 
 **Learning RL and robot learning from the ground up** · *ongoing*
 Berkeley's CS 185/285 (Deep RL), the University of Alberta RL specialization, and *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.), alongside Princeton's ROB 345/549 (Introduction to Robotics), ETH Zürich's Robot Learning (2026), and Russ Tedrake's Robotic Manipulation and Underactuated Robotics. In practice: imitation learning (BC, ACT, Diffusion Policy) and vision-language-action models in simulation with MuJoCo and LeRobot, one small measured experiment at a time.
