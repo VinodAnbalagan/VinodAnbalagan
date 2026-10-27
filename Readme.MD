@@ -1,6 +1,6 @@
 # Hi, I'm Vinod 👋
 
-**ML engineer working across fine-tuning, retrieval, and data pipelines. My research asks what models actually learn: when a model succeeds, has it learned the structure of the problem, or cues that happen to correlate with it? I’m now taking that question into world models, embodied AI, and robotics.**
+**ML engineer and independent researcher. I study what models actually learn, and what they need to remember. Right now: world models that plan for robots, and the leanest memory that keeps them reliable.**
 
 🔬 **Open to ML engineer, research engineer, and applied scientist roles, and to research assistant, internship, or funded MS/PhD positions, especially on teams working on world models, robot learning, or model-based RL.** If you think my work might fit, I'd be glad to hear from you.
 
@@ -12,11 +12,11 @@ I spent ten years forecasting demand in warehouses and grocery stores, which is 
 
 ## 🔭 Now
 
-**[Reverie](https://github.com/VinodAnbalagan/reverie): does a world model keep track of what it can't see?** · *in progress*
-A world model learns bouncing-ball video from pixels. While a ball is hidden behind a wall, I test whether its position can be read from the model's internal state, and whether swapping that state changes where the model expects the ball to reappear. Collisions that happen behind the wall separate real tracking from straight-line guessing. Hypotheses registered before training.
+**[Keepsake](https://vinodanbalagan.vercel.app/research#keepsake): can a robot remember only what surprises it?** · *in progress, preprint planned for December 2026*
+Most robot foundation models act on the current camera frame alone, which breaks on long tasks where the frame does not show how far along you are. Keepsake gives a fast latent world-model planner a small, fixed memory that it writes to only when its own prediction fails, then measures task success and planning time per decision together, against no memory, frame stacking, full history and an oracle. Simulation first, then a low-cost robot arm. Progress, step by step, in the [Lab](https://vinodanbalagan.vercel.app/lab).
 
-**Learning model-based RL and robot learning from the ground up** · *ongoing*
-Following Berkeley's CS 285 alongside *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.), then imitation learning (BC, ACT, Diffusion Policy) and vision-language-action models in simulation with MuJoCo and LeRobot. I implement the pieces myself, one small measured experiment at a time, in the [Lab](https://vinodanbalagan.vercel.app/lab).
+**Learning RL and robot learning from the ground up** · *ongoing*
+Berkeley's CS 185/285 (Deep RL), the University of Alberta RL specialization, and *Deep Reinforcement Learning Hands-On* (Lapan, 3rd ed.), alongside Princeton's ROB 345/549 (Introduction to Robotics), ETH Zürich's Robot Learning (2026), and Russ Tedrake's Robotic Manipulation and Underactuated Robotics. In practice: imitation learning (BC, ACT, Diffusion Policy) and vision-language-action models in simulation with MuJoCo and LeRobot, one small measured experiment at a time.
 
 
 ---
@@ -82,6 +82,7 @@ Building and breaking AI systems to understand them, with the philosophical bits
 | --- | --- |
 | **Languages** | Python · SQL · Bash |
 | **Research** | JAX · PyTorch · probing · activation patching · experiment design |
+| **Robot learning** *(learning)* | MuJoCo · LeRobot · imitation learning · VLAs · latent world models and planning |
 | **ML / DL** | Transformers · LoRA/PEFT · vision-language fine-tuning · state space models · scikit-learn · XGBoost · probability calibration |
 | **Evaluation & data** | benchmark construction · LLM/VLM evaluation · LLM-as-judge · dataset curation · schema design · data validation |
 | **NLP & retrieval** | Hugging Face · embeddings · RAG · ChromaDB · multilingual NLP |
