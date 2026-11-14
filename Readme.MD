@@ -1,116 +1,89 @@
-# Hi, I'm Vinod 👋
+<h1 align="center">Vinod Anbalagan</h1>
 
-**ML engineer and independent researcher. I study what models actually learn, and what they need to remember. Right now: world models that plan for robots, and the leanest memory that keeps them reliable.**
+<p align="center">ML engineer and independent researcher · Toronto</p>
 
-🔬 **Open to ML engineer, research engineer, and applied scientist roles, and to research assistant, internship, or funded MS/PhD positions, especially on teams working on world models, robot learning, or model-based RL.** If you think my work might fit, I'd be glad to hear from you.
+<p align="center">
+  <a href="https://vinodanbalagan.vercel.app/"><img src="https://img.shields.io/badge/Website-1f2328?style=flat-square" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/vinod-anbalagan/"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/vinod-anbalagan"><img src="https://img.shields.io/badge/Hugging%20Face-1f2328?style=flat-square" alt="Hugging Face"></a>
+  <a href="https://substack.com/@vinodanbalagan"><img src="https://img.shields.io/badge/The%20Meta%20Gradient-1f2328?style=flat-square" alt="The Meta Gradient"></a>
+</p>
 
-📍 Toronto, Canada · [Website](https://vinodanbalagan.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vinod-anbalagan/) · [Hugging Face](https://huggingface.co/vinod-anbalagan) · [The Meta Gradient](https://substack.com/@vinodanbalagan)
-
-I spent ten years forecasting demand in warehouses and grocery stores, which is a crude way of modelling a world that keeps surprising you. I learned machine learning trying to understand why those models failed, and I am still on that question with better tools.
-
----
-
-## 🔭 Now
-
-**[Notch](https://github.com/VinodAnbalagan/notch): what should a robot remember?** · *in progress*
-A robot that acts only on its current camera frame fails as soon as the frame stops showing what it needs. Notch studies what should decide what a world-model planner writes into a small, fixed memory: on one trained model with one memory budget, it compares five write rules, time, chance, the model's own surprise, whether an observation changed the plan, and the two combined. Plan change is a signal only a planner can measure about itself. Task success and planning time per decision are measured together, against no memory, frame stacking, a recurrent state, learned memory slots, full history and an oracle. Simulation first, then a robot arm. Progress, step by step, in the [Lab](https://vinodanbalagan.vercel.app/lab).
-
+<p align="center"><i>I study what models actually learn, and what they need to remember.</i></p>
 
 ---
 
-## 📌 Selected work
+I build and evaluate ML systems: multilingual benchmarks, RAG pipelines, fine-tuned vision-language models, and audits of what training really changed. The question underneath all of it is whether a result means what it appears to. Right now I'm working on world models that plan for robots, and the leanest memory that keeps them reliable.
 
-### 🌍 [Cultural Riddles Benchmark](https://github.com/Cohere-Labs-Community/CulturalRiddles)
-Cohere Labs Open Science Community · **Co-first author & cross-team lead** · Apr 2026 to present  
-- Presenting: 6th Workshop on Multilingual Representation Learning (MRL) · under review at TACL · [arxiv](https://arxiv.org/abs/2610.29968)
-- [Dashboard](https://huggingface.co/spaces/CohereLabsCommunity/CulturalRiddles)
+Before ML, I spent ten years forecasting demand in warehouses and grocery stores, a crude way of modelling a world that keeps surprising you. I learned machine learning trying to understand why those models failed.
 
-Data and release infrastructure for CulturalRiddles: a community-built multilingual benchmark of 6,191 cultural riddles, with a CI-validated contribution pipeline, open Hugging Face release, and interactive results dashboard.
+**Open to** ML engineer, AI engineer, research engineer, and applied scientist roles, and to research internships and funded MS/PhD positions, especially in world models, robot learning, and model-based RL.
 
-### 📊 Gridline & Prism: what does a win rate in AutoScientist actually measure?
-Adaption Labs AutoScientist Challenge · **2nd place, $1,000** · Data & Visualization track · 2026
+## Now
 
-LoRA fine-tunes of vision-language models (Gemma-3-27B, Qwen3.5-9B) for short-answer chart QA, trained on two correct-by-construction datasets (one visual style for Gridline, ten for Prism) where every answer is computed from seeded values *before* the chart is drawn, plus a hand-authored hardset from real StatCan, BLS, ECB, and WHO charts.
+**[Notch](https://github.com/VinodAnbalagan/notch)** · what should a robot remember? · *in progress*
 
-- **The metric rewards easy exams.** With the base model fixed, pairwise win rate fell from 62% to 24% as perceptual difficulty and visual variety rose. Part of what the number measures is how easy you made your own test set.
-- **The data platform was corrupting answers.** Maximal enhancement settings made models *worse* than their base (31 to 35% win rate). Diffing the platform's rewrites against the source found 31.6% of answers changed even under explicit guard instructions, including 41 altered numbers.
-- **Perceptual, not arithmetic, difficulty.** Eight mechanics, such as truncated and log axes, unlabeled gridline values, near-ties, near-identical colours, and dual axes, target what VLMs actually struggle with: reading the value in the first place.
+A robot that acts only on its current camera frame fails as soon as the frame stops showing what it needs. Notch compares five rules for what a world-model planner writes into a small, fixed memory: time, chance, the model's own surprise, whether an observation changed the plan, and the two combined. Plan change is a signal only a planner can measure about itself. Task success and planning time are measured together, against baselines from no memory to full history. Simulation first, then a robot arm. Progress is logged in the [Lab](https://vinodanbalagan.vercel.app/lab).
 
-Datasets: [v1, one style](https://huggingface.co/datasets/vinod-anbalagan/gridline-chartqa) · [v2, ten styles](https://huggingface.co/datasets/vinod-anbalagan/adaption-charts-p2-gold) · Models: [Gridline](https://huggingface.co/vinod-anbalagan/gridline) · [Prism](https://huggingface.co/vinod-anbalagan/prism) · also a [Llama-3.2-3B LoRA](https://huggingface.co/vinod-anbalagan/Llama-3.2-3B-marketing-spend-revenue-qa) for table-grounded QA
+## Recent
 
-`LoRA/PEFT` `vision-language models` `synthetic data` `evaluation design`
+- **Nov 2026** · [Where Does Forgotten Knowledge Go?](https://huggingface.co/spaces/vinod-anbalagan/where-forgotten-knowledge-goes), an unlearning audit for the Lexsi Labs AI Safety Hackathon
+- **Oct 2026** · [A Multicultural Benchmark of Riddles](https://arxiv.org/abs/2610.29968) on arXiv, to be presented at MRL 2026
+- **Sep 2026** · [Freezing the Noise](https://vinodanbalagan.substack.com/p/freezing-the-noise), how one line of algebra made sampling differentiable
 
-### 🔍 [Where Does Forgotten Knowledge Go?](https://huggingface.co/spaces/vinod-anbalagan/where-forgotten-knowledge-goes)
-**Auditing machine unlearning in English and Tamil** · Lexsi Labs AI Safety Hackathon, Nov 2026
+## Selected work
 
-I taught Tiny Aya 96 facts about invented people, unlearned 24 with SafeTune (on layers chosen by CircuitKIT), and checked whether they were really gone.
+**[CulturalRiddles](https://github.com/Cohere-Labs-Community/CulturalRiddles)** · multilingual LLM benchmark<br>
+<sub>Cohere Labs Open Science Community · co-first author & cross-team lead · MRL 2026 · under review at TACL</sub><br>
+6,191 native-written cultural riddles across 51 languages. I built the data and release infrastructure: a CI-validated contribution pipeline, the open Hugging Face release, and the interactive results dashboard.<br>
+[Paper](https://arxiv.org/abs/2610.29968) · [Dashboard](https://huggingface.co/spaces/CohereLabsCommunity/CulturalRiddles) · [Code](https://github.com/Cohere-Labs-Community/CulturalRiddles)
 
-- 34 of 34 facts forgotten in English were still answered in Tamil
-- Unlearned models avoid the answer more than a never-learned model would, a detectable trace
-- 2,022 blind human labels (κ 0.96), every run pre-registered and public
+**[Where Does Forgotten Knowledge Go?](https://huggingface.co/spaces/vinod-anbalagan/where-forgotten-knowledge-goes)** · auditing machine unlearning in English and Tamil<br>
+<sub>Lexsi Labs AI Safety Hackathon · Nov 2026</sub><br>
+Taught Tiny Aya 96 facts about invented people, unlearned 24 with SafeTune on layers chosen by CircuitKIT, then checked whether they were really gone. All 34 facts forgotten in English were still answered in Tamil, and unlearned models avoid answers in a detectable way. 2,022 blind human labels (κ 0.96), every run pre-registered.<br>
+[Article](https://substack.com/@vinodanbalagan/note/p-224966557) · [Code](https://github.com/VinodAnbalagan/unlearn-audit-tiny-aya) · [Models](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-models-6af482145d0cf8e6a2efd8f9) · [Data and logs](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-data-and-logs-6af48214756c4d246ff2ef18)
 
- [Substack Article](https://substack.com/@vinodanbalagan/note/p-224966557?r=g5tza&utm_source=notes-share-action&utm_medium=web) · [Code](https://github.com/VinodAnbalagan/unlearn-audit-tiny-aya) · [Models](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-models-6af482145d0cf8e6a2efd8f9) · [Data and logs](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-data-and-logs-6af48214756c4d246ff2ef18)
+**Gridline & Prism** · what does a win rate actually measure?<br>
+<sub>Adaption Labs AutoScientist Challenge · 2nd place</sub><br>
+LoRA fine-tunes of Gemma-3-27B and Qwen3.5-9B for chart QA, trained on correct-by-construction data. With the base model fixed, win rate fell from 62% to 24% as test difficulty rose, so part of the metric measures how easy you made your own test set. Diffing the platform's data rewrites also showed 31.6% of answers had been changed.<br>
+[Gridline](https://huggingface.co/vinod-anbalagan/gridline) · [Prism](https://huggingface.co/vinod-anbalagan/prism) · [Dataset v1](https://huggingface.co/datasets/vinod-anbalagan/gridline-chartqa) · [Dataset v2](https://huggingface.co/datasets/vinod-anbalagan/adaption-charts-p2-gold)
 
-### 🧾 [chart-reasoning-verified](https://huggingface.co/datasets/vinod-anbalagan/chart-reasoning-verified)
-7,500 chart-reasoning rows generated from an explicit latent dataset, so the image is a rendering of known ground truth rather than the source of it. Family-disjoint splits, an independent verifier on every answer, and abstention rows produced by reading axis limits back off the rendered figure: when a value falls outside the drawn area, the correct answer is to decline and say why.
+**[DocuNative](https://github.com/docunative-AI/docunative)** · offline cross-lingual document QA<br>
+<sub>Cohere Expedition Hackathon · pipeline lead, 7-person team</sub><br>
+Ask about a foreign-language document in your own language and get answers with source quotes and a hallucination trust score, with nothing leaving the device. BGE-M3, ChromaDB, Tiny Aya via llama.cpp, and mDeBERTa verification. 9,000+ evaluations showed embedding quality, not the LLM, was the bottleneck.
 
-### 📄 [DocuNative](https://github.com/docunative-AI/docunative)
-Cohere Expedition Hackathon · **Pipeline lead**, 7-person team
+**Datasets and models**
 
-Fully offline cross-lingual document QA for newcomers and migrants: ask about a foreign-language document in your own language and get answers with source quotes and a hallucination trust score. Nothing leaves the user's machine.
+- [chart-reasoning-verified](https://huggingface.co/datasets/vinod-anbalagan/chart-reasoning-verified) · 7,500 chart-reasoning rows rendered from known ground truth, with an independent verifier and abstention cases
+- [Tamil Agricultural Advisory QA](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa) · 187 curated records, Grade A (9.4/10), honorary recognition from Sara Hooker
+- [Indian Agricultural Advice, 11 languages](https://huggingface.co/datasets/vinod-anbalagan/indian-agri-advice-multilingual) · 718 records filtered with regex plus LLM-as-judge
+- [Llama-3.2-3B table QA](https://huggingface.co/vinod-anbalagan/Llama-3.2-3B-marketing-spend-revenue-qa) · LoRA fine-tune for table-grounded question answering
 
-- End-to-end RAG: PDF extraction → BGE-M3 embeddings → ChromaDB retrieval → Tiny Aya via llama.cpp → mDeBERTa hallucination verification
-- 9,000+ automated evaluations across Chinese, Hindi, and Polish
-- Finding: cross-lingual **embedding** quality, not LLM capability, was the primary retrieval bottleneck
+## Writing
 
-`Python` `RAG` `ChromaDB` `BGE-M3` `llama.cpp` `Gradio`
+[The Meta Gradient](https://substack.com/@vinodanbalagan) · building and breaking AI systems to understand them, with the philosophical bits left in.
 
-### 🌾 [Tamil Agricultural Advisory Dataset](https://huggingface.co/datasets/vinod-anbalagan/tamil-agri-advisory-qa)
-Adaption Labs Uncharted Data Challenge · **Grade A (9.4/10)** · [repo](https://github.com/VinodAnbalagan/tamil-agri-dataset-)
+- [The Architecture of Dreams](https://vinodanbalagan.substack.com/p/the-architecture-of-dreams-how-neural) · how neural networks learned to imagine
+- [Freezing the Noise](https://vinodanbalagan.substack.com/p/freezing-the-noise) · how one line of algebra made sampling differentiable
+- [Finding the Manifold](https://vinodanbalagan.substack.com/p/finding-the-manifold-where-neural) · where neural networks land, with a live demo
 
-187 curated Tamil Q&A records across 48 crops and 20 categories, built from public-sector sources (Kisan Call Centre, TNAU, ICAR) over 10 iterative submissions. Honorary recognition from Sara Hooker. Follow-up: an [11-language Indian agricultural dataset](https://huggingface.co/datasets/vinod-anbalagan/indian-agri-advice-multilingual) (718 records, 14 agro-climatic zones) filtered with a layered regex plus local LLM-as-judge pipeline.
-
-`dataset engineering` `multilingual NLP` `data validation`
-
----
-
-## ✍️ Writing: [The Meta Gradient](https://substack.com/@vinodanbalagan)
-
-Building and breaking AI systems to understand them, with the philosophical bits left in.
-
-- **[The Architecture of Dreams: How Neural Networks Learned to Imagine](https://vinodanbalagan.substack.com/p/the-architecture-of-dreams-how-neural)**
-- **[Freezing the Noise](https://vinodanbalagan.substack.com/p/freezing-the-noise)** · how one line of algebra made sampling differentiable
-- **[Finding the Manifold: Where Neural Networks Land](https://vinodanbalagan.substack.com/p/finding-the-manifold-where-neural)** · the geometry of the loss landscape, with a live demo
-
----
-
-## 🛠 Skills
+## Toolkit
 
 | Area | Tools |
-| --- | --- |
-| **Languages** | Python · SQL · Bash |
-| **Research** | JAX · PyTorch · probing · activation patching · experiment design |
-| **Robot learning** *(learning)* | MuJoCo · LeRobot · imitation learning · VLAs · latent world models and planning |
-| **ML / DL** | Transformers · LoRA/PEFT · vision-language fine-tuning · state space models · scikit-learn · XGBoost · probability calibration |
-| **Evaluation & data** | benchmark construction · LLM/VLM evaluation · LLM-as-judge · dataset curation · schema design · data validation |
-| **NLP & retrieval** | Hugging Face · embeddings · RAG · ChromaDB · multilingual NLP |
-| **Systems** | Docker · FastAPI · GitHub Actions · llama.cpp · Weights & Biases · MLflow · AWS · Git · Linux |
-| **Visualization** | Matplotlib · Seaborn · Plotly · Marimo · Tableau |
+| :--- | :--- |
+| Languages | Python · SQL · Bash |
+| ML and research | PyTorch · JAX · Transformers · LoRA/PEFT · VLM fine-tuning · state space models · probing · activation patching |
+| Evaluation and data | benchmark design · LLM/VLM evaluation · LLM-as-judge · dataset curation · data validation |
+| LLM applications | RAG · embeddings · ChromaDB · llama.cpp · multilingual NLP |
+| Systems | Docker · FastAPI · GitHub Actions · Weights & Biases · MLflow · AWS · Linux |
+| Robot learning *(learning)* | MuJoCo · LeRobot · imitation learning · VLAs · latent world models and planning |
+
+## Background
+
+MASc, Electronic & Computer Science Engineering, University of Windsor · BE, Electronics & Communication Engineering, Anna University · Machine Learning Foundations, University of Toronto (2025)
+
+<sub>Cohere Labs ML Summer School 2026 · Wolfram ML Statistical Foundations · NVIDIA AI Infrastructure & Operations · Stanford Online ML Specialization · Azure AI-900 · OpenEDG Python Institute</sub>
 
 ---
 
-## 🎓 Background
-
-- **Machine Learning Foundations** · University of Toronto, 2025
-- **MASc, Electronic & Computer Science Engineering** · University of Windsor, 2010–2012
-    - *Thesis: FPGA implementation of face recognition using Eigenfaces*
-- **BE, Electronics & Communication Engineering** · Anna University, 2004–2008
-
-
-Cohere Labs ML Summer School (2026) · Wolfram ML Statistical Foundations · NVIDIA AI Infrastructure & Operations · Stanford Online ML Specialization · Azure AI-900 · OpenEDG Python Institute
-
-Before all of this: ten years in supply chain operations, procurement analysis, and process optimization.
-
----
-
-*Understanding by implementing. Measuring before concluding.*
+<p align="center"><sub>Understanding by implementing. Measuring before concluding.</sub></p>
