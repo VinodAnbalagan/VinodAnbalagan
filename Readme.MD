@@ -40,7 +40,7 @@ Datasets: [v1, one style](https://huggingface.co/datasets/vinod-anbalagan/gridli
 
 `LoRA/PEFT` `vision-language models` `synthetic data` `evaluation design`
 
-### 🔍 Where Does Forgotten Knowledge Go?
+### 🔍 [Where Does Forgotten Knowledge Go?](https://huggingface.co/spaces/vinod-anbalagan/where-forgotten-knowledge-goes)
 **Auditing machine unlearning in English and Tamil** · Lexsi Labs AI Safety Hackathon, Nov 2026
 
 I taught Tiny Aya 96 facts about invented people, unlearned 24 with SafeTune (on layers chosen by CircuitKIT), and checked whether they were really gone.
@@ -49,7 +49,7 @@ I taught Tiny Aya 96 facts about invented people, unlearned 24 with SafeTune (on
 - Unlearned models avoid the answer more than a never-learned model would, a detectable trace
 - 2,022 blind human labels (κ 0.96), every run pre-registered and public
 
-[Interactive story](https://huggingface.co/spaces/vinod-anbalagan/where-forgotten-knowledge-goes) · [Code](https://github.com/VinodAnbalagan/unlearn-audit-tiny-aya) · [Models](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-models-6af482145d0cf8e6a2efd8f9) · [Data and logs](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-data-and-logs-6af48214756c4d246ff2ef18)
+ [Code](https://github.com/VinodAnbalagan/unlearn-audit-tiny-aya) · [Models](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-models-6af482145d0cf8e6a2efd8f9) · [Data and logs](https://huggingface.co/collections/vinod-anbalagan/where-does-forgotten-knowledge-go-data-and-logs-6af48214756c4d246ff2ef18)
 
 ### 🧾 [chart-reasoning-verified](https://huggingface.co/datasets/vinod-anbalagan/chart-reasoning-verified)
 7,500 chart-reasoning rows generated from an explicit latent dataset, so the image is a rendering of known ground truth rather than the source of it. Family-disjoint splits, an independent verifier on every answer, and abstention rows produced by reading axis limits back off the rendered figure: when a value falls outside the drawn area, the correct answer is to decline and say why.
